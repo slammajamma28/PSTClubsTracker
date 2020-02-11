@@ -192,7 +192,7 @@ var lists = [{
         imag: "https://www.playstationtrophies.org/images/trophies/746/ico.png"
     }]
 },{
-    listName: " Bic's Favorites MotM Club",
+    listName: "Bic's Favorites MotM Club",
     award: "img/plustom.png",
     blurb: "Nothing flash, Nothing crazy, Just simply my favourites to date - Probably in this correct order, Well worth the fun.",
     games: [{

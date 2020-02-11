@@ -175,7 +175,7 @@ select.form-control{
     &.own_game{ @include gradientBG($black, $gold); }
     &.earned_game{ @include gradientBG($black, $platinum); }
 
-    input[type="checkbox"]:not(.bygame-check-game){
+    input[type="checkbox"]{
       visibility: hidden;
       position: absolute;
       left: -9999px;

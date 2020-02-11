@@ -36,15 +36,24 @@ function updateListProgress(){
             var totalEarned = localStorage.getItem(thisList);
 
             $(this).find(".total-earned").html(totalEarned);
+            var totalPossible = $(this).find(".total-possible");
 
             // Add class to style based on progress
-            //TODO: Change this to check how many are in the list to determine 'platinum'
-            var color;
-            if(totalEarned > 1){ color = "bronze" }
-            if(totalEarned > 2){ color = "silver" }
-            if(totalEarned > 3){ color = "gold" }
-            if(totalEarned == 4 || totalEarned == 5){ color = "platinum" }
-            $(this).addClass(color);
+            if(totalPossible == 4) {
+                var color;
+                if(totalEarned > 1){ color = "bronze" }
+                if(totalEarned > 2){ color = "silver" }
+                if(totalEarned > 3){ color = "gold" }
+                if(totalEarned == 5){ color = "platinum" }
+                $(this).addClass(color);
+            } else {
+                var color;
+                if(totalEarned > 0){ color = "bronze" }
+                if(totalEarned > 2){ color = "silver" }
+                if(totalEarned > 3){ color = "gold" }
+                if(totalEarned == 5){ color = "platinum" }
+                $(this).addClass(color);
+            }
         }
     });
 
@@ -53,13 +62,13 @@ function updateListProgress(){
         allEarned = allEarned + parseInt($("#list-" + i).find(".total-earned").html());
     }
     $("#all-earned").html(allEarned);
-
+    allTotal = $("#all-total");
     var color;
-    if(allEarned > allLists*.1){ color = "bronze" }
-    if(allEarned > allLists*.25){ color = "silver" }
-    if(allEarned > allLists*.5){ color = "gold" }
-    if(allEarned > allLists*.75){ color = "platinum" }
-    if(allEarned == allLists){ color = "perfect" }
+    if(allEarned > allTotal*.1){ color = "bronze" }
+    if(allEarned > allTotal*.25){ color = "silver" }
+    if(allEarned > allTotal*.5){ color = "gold" }
+    if(allEarned > allTotal*.75){ color = "platinum" }
+    if(allEarned == allTotal){ color = "perfect" }
     $(".list-totals").addClass(color);
 }
 
@@ -91,6 +100,25 @@ function toggleView(){
     $(".list-of-lists, #list-selected").toggle();
 }
 
+function calculate() {
+    for(var a = 0; a < lists.length; a++){
+        var thisLS = localStorage.getItem(lists[a].listName);
+        console.log(lists[a].listName + " was at " + thisLS);
+        var actualEarned = 0;
+        for (var b = 0; b < lists[a].games.length; b++) {
+            if (localStorage.getItem("g-"+lists[a].games[b].game) != null ) {
+                console.log("Completed Game: " + lists[a].games[b].game);
+                actualEarned++;
+            }
+        }
+        if (actualEarned > 0) {
+            console.log(lists[a].listName + " is now at " + actualEarned);
+            localStorage.setItem(lists[a].listName, actualEarned);
+        }
+    }
+    // window.location.reload();
+}
+
 // Show selected list
 var selectedListNumber;
 function listSelected(clickedList){
@@ -110,7 +138,7 @@ function listSelected(clickedList){
             ownedChecked = "";
 
         if(localStorage.getItem("g-" + thisGame.game) == "true"){
-            gameEarned = "earned_trophy";
+            gameEarned = "earned_game";
             gameChecked = "checked=\"true\"";
             gameCount++;
         }
@@ -168,8 +196,8 @@ function listSelected(clickedList){
             "<label for=\"checkbox-game-"+ i +"\" class=\"label-trophy\">&#10004;</label>" +
             "</div>" +
             "<div class=\"col-sm-1 col-xs-6 text-center\">" +
-            "<input type=\"checkbox\" id=\"checkbox-game-"+ i +"\" class=\"check-owned\" "+ ownedChecked +"/>" +
-            "<label for=\"checkbox-game-"+ i +"\" class=\"label-game\">&#10004;</label>" +
+            "<input type=\"checkbox\" id=\"checkbox-owned-"+ i +"\" class=\"check-owned\" "+ ownedChecked +"/>" +
+            "<label for=\"checkbox-owned-"+ i +"\" class=\"label-game\">&#10004;</label>" +
             "</div>" +
             "</div>" +
             "</div>" +
@@ -195,8 +223,6 @@ function listSelected(clickedList){
      $(this).closest(".trophy").show();
      });*/
 
-    // Analytics
-    ga('send', 'pageview', selectedList.listName);
 }
 
 
@@ -238,7 +264,7 @@ function saveTrophy(e) {
         checked = e.target.checked,
         thisGame = $(e.target).closest(".game").data("game-name");
 
-    $(e.target).closest(".game").toggleClass("earned_trophy");
+    $(e.target).closest(".game").toggleClass("earned_game");
     $("#game_count").html(gamesChecked);
 
     if(checked){
@@ -277,7 +303,6 @@ function saveOwned(e) {
 $(document).ready(function () {
 
     /* On page load */
-    ga('send', 'pageview', 'Overview');
     createListOfLists();
     updateListProgress();
 
@@ -312,9 +337,6 @@ $(document).ready(function () {
         toggleView();
     });
 
-
-
-
     /* Testing */
     function sort_unique(arr) {
         return arr.sort(function(a,b){
@@ -335,11 +357,12 @@ $(document).ready(function () {
     }
     gamesList = sort_unique(gamesList);
 
+    $(".update-numbers").click(function(){
+        calculate();
+    });
+
     $(".get-games").click(function(){
         toggleView();
-
-        // Analytics
-        ga('send', 'pageview', "All Games Checklist");
 
         $("#list-header").hide();
         $(".container.trophy_list.top").css("margin-top","20px");
@@ -351,51 +374,34 @@ $(document).ready(function () {
         $("#game-list").html("");
 
         for(var i = 0; i < gamesList.length; i++){
+            var gameGOT= "",
+            gameOWN= "",
+        	currentGame = gamesList[i];
+        	
+        	if(localStorage.getItem("g-" + currentGame)){
+            	gameGOT = "checked";
+            }
+            if(localStorage.getItem("o-" + currentGame)) {
+                gameOWN = "checked";
+            }
+
             $("#game-list").addClass("all-games").append("" +
                 "<div id=\"game-list-"+ i +"\" class='game all-games'>" +
                 "<div class=\"row\">" +
-                "<div class=\"col-sm-12\">" +
-                "<h3>" + gamesList[i] + "</h3>" +
+                "<div class=\"col-sm-10\">" +
+                "<h3>" + currentGame + "</h3>" +
                 "</div>" +
+                "<div class=\"col-sm-1 col-xs-3 text-center all-games-game\" style=\"padding: 2px 7px;\">" +
+                "<input type=\"checkbox\" id=\"bygame-checkbox-game-"+ i + "\" class=\"bygame-check-game\" data-game-name=\"g-" + currentGame + "\" " + gameGOT + "/>" +
+                "<label for=\"bygame-checkbox-game-"+ i + "\" class=\"label-game\">&#10004;</label>" +
+                "</div>" + 
+                "<div class=\"col-sm-1 col-xs-3 text-center all-games-game\" style=\"padding: 2px 7px;\">" +
+                "<input type=\"checkbox\" id=\"bygame-checkbox-own-"+ i + "\" class=\"bygame-check-game\" data-game-name=\"o-" + currentGame + "\" " + gameOWN + "/>" +
+                "<label for=\"bygame-checkbox-own-"+ i + "\" class=\"label-game\">&#10004;</label>" +
                 "</div>" +
-                "" +
-                "<div class=\"row game-list-games\">" +
-                "<div class=\"col-sm-12\">" +
-                "</div>" +
-                "</div>" +
-                "</div>" +
+                "</div>" + 
+                "</div>" + 
                 "");
-        }
-
-        // Iterate over games and add trophies, and the lists they show up in
-        for(var a = 0; a < lists.length; a++){
-            for(var b = 0; b < lists[a].games.length; b++){
-                var gameName = lists[a].games[b].game,
-                    listName = lists[a].listName;
-
-                if($.inArray(gameName, gamesList) !== -1){
-                    var gameID = $.inArray(gameName, gamesList),
-                        gameGOT = "";
-
-                    if(localStorage.getItem("g-" + gameName)){
-                        gameGOT = "checked";
-                    }
-
-                    $("#game-list-" + gameID).find(".game-list-games .col-sm-12").append("" +
-                        "<div class=\"row game-list-trophy\">" +
-                        "<div class=\"col-xs-12 all-games-trophy\">" +
-                        "<input type=\"checkbox\" id=\"bygame-checkbox-game-"+ a +"-" + b + "\" class=\"bygame-check-game\" data-game-name=\"g-" + gameName + "\" "+ gameGOT +"/>" +
-                        "<h4 class=\"game-list-game-name "+ gameName.replace(/[^a-z0-9\s]/gi, '').replace(/[_\s]/g, '-').toLocaleLowerCase() +"\">" + gameName + "</h4>" +
-                        "<div class=\"col-xs-12 listsList\"></div>" +
-                        "</div>" +
-                        "</div>" +
-                        "");
-                    $("." + gameName.replace(/[^a-z0-9\s]/gi, '').replace(/[_\s]/g, '-').toLocaleLowerCase()).parent().find(".listsList").append("<p><em>"+ listName +"</em></p>");
-                }
-
-                // Remove duplicate instances of a trophy per game
-                $("." + gameName.replace(/[^a-z0-9\s]/gi, '').replace(/[_\s]/g, '-').toLocaleLowerCase() + ":not(:first)").parent().remove();
-            }
         }
 
         // Fill out header
@@ -411,17 +417,9 @@ $(document).ready(function () {
 
     });
 
-    // Click game on all games list, show trophies
-    $("#game-list").on("click", ".all-games>.row:first-of-type", function(e){
-        $(this).parent().find(".game-list-games").slideToggle(200).parent().toggleClass("active");
-        ga('send', 'event', "Games List / Clicked Game", $(this).find("h3").text());
-    });
-
     $("#game-list").on("click", ".bygame-check-game", function(e){
         var checked = e.target.checked,
             thisGame = $(this).data("game-name");
-
-        ga("send", "event", "Games List / Clicked Game", "Checked a trophy on a game", thisGame);
 
         if(checked){
             localStorage.setItem(thisGame, true);
