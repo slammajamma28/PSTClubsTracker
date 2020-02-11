@@ -1,9 +1,9 @@
 /* Custom Clubs Array */
-//var sub_icon="https://www.playstationtrophies.org/forum/images/smilies/sub.png"
-//var motm_icon="https://www.playstationtrophies.org/forum/images/smilies/psn+.png"
+//var sub_icon="img/subscriber.png"
+//var motm_icon="img/plustom.png"
 var lists = [{
     listName: "Aeirou's Unlikely Heroes Subscriber Club",
-    award: "https://www.playstationtrophies.org/forum/images/smilies/sub.png",
+    award: "img/subscriber.png",
     games: [{
         game: "Assassin's Creed II",
         imag: "https://www.playstationtrophies.org/images/trophies/260/ico.png"
@@ -22,7 +22,7 @@ var lists = [{
     }]
 },{
     listName: "Aeliana's Fabula Nova Crystallis MotM Club",
-    award: "https://www.playstationtrophies.org/forum/images/smilies/psn+.png",
+    award: "img/plustom.png",
     games: [{
         game: "Final Fantasy XIII",
         imag: "https://www.playstationtrophies.org/images/trophies/307/ico.png"
@@ -38,7 +38,7 @@ var lists = [{
     }]
 },{
     listName: "Aeliana's Vocaloid Synesthesia Subscriber Club",
-    award: "https://www.playstationtrophies.org/forum/images/smilies/sub.png",
+    award: "img/subscriber.png",
     games: [{
         game: "Hatsune Miku: Project Diva f",
         imag: "https://www.playstationtrophies.org/images/trophies/1695/ico.png"
@@ -54,7 +54,7 @@ var lists = [{
     }]
 },{
     listName: "Alex Fly's Best Games of My Favorite Franchises MotM Club",
-    award: "https://www.playstationtrophies.org/forum/images/smilies/psn+.png",
+    award: "img/plustom.png",
     games: [{
         game: "Assassin's Creed Origins",
         imag: "https://www.playstationtrophies.org/images/trophies/5865/ico.png"
@@ -73,7 +73,7 @@ var lists = [{
     }]
 },{
     listName: "AmbaLaBamba's Back Off Man, I'm a Scientist Subscriber Club",
-    award: "https://www.playstationtrophies.org/forum/images/smilies/sub.png",
+    award: "img/subscriber.png",
     blurb: "As many of you know, I'm a huge Ghostbusters fan, and this is how this club came about. Here is a selection of scientific-y games that I feel fit perfectly - something for everybody. Enjoy them and remember - who you gonna call?",
     games: [{
         game: "Assassin's Creed II",
@@ -93,7 +93,7 @@ var lists = [{
     }]
 },{
     listName: "AppleKratue's All About Art MotM Club",
-    award: "https://www.playstationtrophies.org/forum/images/smilies/psn+.png",
+    award: "img/plustom.png",
     blurb: "Videogames are art. While you are playing through these games, it may happen you are amidst impressive scenery. Take a deep breath and enjoy some of the finest art which is only possible with videogames.",
     games: [{
         game: "Castlevania: Lords of Shadow",
@@ -113,7 +113,7 @@ var lists = [{
     }]
 },{
     listName: "Ash's I'll Kill YOUR Zone! MotM Club",
-    award: "https://www.playstationtrophies.org/forum/images/smilies/psn+.png",
+    award: "img/plustom.png",
     blurb: "The good old Halo-killer is here in club form! What's that? It's not a Halo-killer? Well, I don't see Halo on PlayStation. Do you? Exactly.",
     games: [{
         game: "Killzone",
@@ -133,7 +133,7 @@ var lists = [{
     }]
 },{
     listName: "Ash's Opinions Be Damned These Games Are Great Go Play Them Subscriber Club",
-    award: "https://www.playstationtrophies.org/forum/images/smilies/sub.png",
+    award: "img/subscriber.png",
     blurb: "Five great games across three great platforms. No excuses, go play them now!",
     games: [{
         game: "Oddworld: Abe's Oddysee - New 'n' Tasty",
@@ -153,7 +153,7 @@ var lists = [{
     }]
 },{
     listName: "Ashbo82's Absolute MotM Club Scenes!",
-    award: "https://www.playstationtrophies.org/forum/images/smilies/psn+.png",
+    award: "img/plustom.png",
     blurb: "I picked 5 different genres of games (sort of) I have completed & that I found really fun & rewarding to play & I think if you havent yet, then sign up & try them out too!!.",
     games: [{
         game: "Dishonored 2",
@@ -173,7 +173,7 @@ var lists = [{
     }]
 },{
     listName: "Beachhead's Basic Training Subscriber Club",
-    award: "https://www.playstationtrophies.org/forum/images/smilies/sub.png",
+    award: "img/subscriber.png",
     blurb: "Aside from being my favorite games, none of these games are that difficult to platinum. Which is a good thing for you, grunt! After completing these games you will be ready to tackle any game thrown your way. So good luck and good hunting, grunts!",
     games: [{
         game: "Battlefield 4",
@@ -193,7 +193,7 @@ var lists = [{
     }]
 },{
     listName: " Bic's Favorites MotM Club",
-    award: "https://www.playstationtrophies.org/forum/images/smilies/psn+.png",
+    award: "img/plustom.png",
     blurb: "Nothing flash, Nothing crazy, Just simply my favourites to date - Probably in this correct order, Well worth the fun.",
     games: [{
         game: "Call of Duty: Black Ops",
