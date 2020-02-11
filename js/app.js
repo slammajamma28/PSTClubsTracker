@@ -36,21 +36,20 @@ function updateListProgress(){
             var totalEarned = localStorage.getItem(thisList);
 
             $(this).find(".total-earned").html(totalEarned);
-            var totalPossible = $(this).find(".total-possible");
-
+            var totalPossible = $(this).find(".total-possible").html();
             // Add class to style based on progress
             if(totalPossible == 4) {
                 var color;
-                if(totalEarned > 1){ color = "bronze" }
-                if(totalEarned > 2){ color = "silver" }
-                if(totalEarned > 3){ color = "gold" }
-                if(totalEarned == 5){ color = "platinum" }
+                if(totalEarned == 1){ color = "bronze" }
+                if(totalEarned == 2){ color = "silver" }
+                if(totalEarned == 3){ color = "gold" }
+                if(totalEarned == 4){ color = "platinum" }
                 $(this).addClass(color);
             } else {
                 var color;
                 if(totalEarned > 0){ color = "bronze" }
-                if(totalEarned > 2){ color = "silver" }
-                if(totalEarned > 3){ color = "gold" }
+                if(totalEarned == 3){ color = "silver" }
+                if(totalEarned == 4){ color = "gold" }
                 if(totalEarned == 5){ color = "platinum" }
                 $(this).addClass(color);
             }
@@ -103,16 +102,16 @@ function toggleView(){
 function calculate() {
     for(var a = 0; a < lists.length; a++){
         var thisLS = localStorage.getItem(lists[a].listName);
-        console.log(lists[a].listName + " was at " + thisLS);
+        // console.log(lists[a].listName + " was at " + thisLS);
         var actualEarned = 0;
         for (var b = 0; b < lists[a].games.length; b++) {
             if (localStorage.getItem("g-"+lists[a].games[b].game) != null ) {
-                console.log("Completed Game: " + lists[a].games[b].game);
+                // console.log("Completed Game: " + lists[a].games[b].game);
                 actualEarned++;
             }
         }
-        if (actualEarned > 0) {
-            console.log(lists[a].listName + " is now at " + actualEarned);
+        if (thisLS > 0 || actualEarned > 0) {
+            // console. log(lists[a].listName + " is now at " + actualEarned);
             localStorage.setItem(lists[a].listName, actualEarned);
         }
     }
