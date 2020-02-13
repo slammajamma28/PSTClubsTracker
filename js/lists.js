@@ -4,6 +4,7 @@ var motm_icon="img/plustom.png"
 var lists = [{
     listName: "Aeirou's Unlikely Heroes Subscriber Club",
     award: sub_icon,
+    blurb: "I choose these games because they are all single player and enjoyable adventures or open world games that feature rather unlikely heroes.",
     games: [{
         game: "Assassin's Creed II",
         imag: "https://www.playstationtrophies.org/images/trophies/260/ico.png"
@@ -23,6 +24,7 @@ var lists = [{
 },{
     listName: "Aeliana's Fabula Nova Crystallis MotM Club",
     award: motm_icon,
+    blurb: "<i>'One to be born from a dragon, hoisting the light and the dark, arises high up in the sky to the still land. Veiling the moon with the light of eternity, it brings another promise to mother earth with a bounty and mercy.'</i><br><br>A club for fellow Final Fantasy lovers! Incredible J-RPGs as well as my most popular Trophy Guides, the first of which was a contributing factor to my MotM Award in March 2010.",
     games: [{
         game: "Final Fantasy XIII",
         imag: "https://www.playstationtrophies.org/images/trophies/307/ico.png"
@@ -39,6 +41,7 @@ var lists = [{
 },{
     listName: "Aeliana's Vocaloid Synesthesia Subscriber Club",
     award: sub_icon,
+    blurb: "A club combining two things I love: Japanese Imports and Music Games!",
     games: [{
         game: "Hatsune Miku: Project Diva f",
         imag: "https://www.playstationtrophies.org/images/trophies/1695/ico.png"
@@ -55,6 +58,7 @@ var lists = [{
 },{
     listName: "Alex Fly's Best Games of My Favorite Franchises MotM Club",
     award: motm_icon,
+    blurb: "These are the games that I enjoyed the most from my favorite franchises. Everything is awesome!",
     games: [{
         game: "Assassin's Creed Origins",
         imag: "https://www.playstationtrophies.org/images/trophies/5865/ico.png"
@@ -722,7 +726,7 @@ var lists = [{
 },{
     listName: "esstee11's Fright Night of the Livin Deads Ultra Rare Scares! MotM Club",
     award: motm_icon,
-    blurb: "Zooommmbbbiieeesssss yayyyy! 4 Ultra rare platssss yayyyyy! Resident Evil Revelations 2 is my fav res game, it really is just excellent. Deadlight is my favourite indie side-scroller that i found, i love it n want more people to play it. Dead rising 2 has just always made me laugh with its awesome psychopaths, always been one of my favourite horror comedy games. And i just chucked Zombi in there for a first person british number. reap the ultra rare rewards! dewwwwitttt. :cool:",
+    blurb: "Zooommmbbbiieeesssss yayyyy! 4 Ultra rare platssss yayyyyy!<br>Resident Evil Revelations 2 is my fav res game, it really is just excellent. Deadlight is my favourite indie side-scroller that i found, i love it n want more people to play it. Dead rising 2 has just always made me laugh with its awesome psychopaths, always been one of my favourite horror comedy games. And i just chucked Zombi in there for a first person british number. reap the ultra rare rewards! dewwwwitttt. :cool:",
     games: [{
         game: "Deadlight: Director's Cut",
         imag: "https://www.playstationtrophies.org/images/trophies/4476/ico.png"
@@ -1144,7 +1148,7 @@ var lists = [{
 },{
     listName: "jmac's Have Vehicle, Will Travel Subscriber Club",
     award: sub_icon,
-    blurb: "I went with these games as they all require a vehicle of some type and those who know me know I love cars. I didn't want to build a club just around racing games; I wanted a mix as I love to play all games. FPS, Open World Adventure, and racing. The only thing I didn't include was a flying game and that is because most of the ones I have enjoyed have had their servers shutdown. Each of these games requires some time spent in a vehicle, either online or offline and in the case of 3 of them, a commitment to finish them. Based on what I have seen it I think it could be one of the more challenging clubs to join, but everyone needs a challenge from time to time.",
+    blurb: "I went with these games as they all require a vehicle of some type and those who know me know I love cars. I didn't want to build a club just around racing games; I wanted a mix as I love to play all games. FPS, Open World Adventure, and racing. The only thing I didn't include was a flying game and that is because most of the ones I have enjoyed have had their servers shutdown.<br><br>Each of these games requires some time spent in a vehicle, either online or offline and in the case of 3 of them, a commitment to finish them. Based on what I have seen it I think it could be one of the more challenging clubs to join, but everyone needs a challenge from time to time.",
     games: [{
         game: "Battlefield: Bad Company",
         imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00323_00_F8E4156EDE564BDE2DD77D31E9AAFFD36964F952/06E4343185D7698EF141C03CAFCC19E63B3EB389.PNG"
@@ -1217,6 +1221,237 @@ var lists = [{
     },{
         game: "Far Cry 4",
         imag: "https://www.playstationtrophies.org/images/trophies/2778/ico.png"
+    }]
+},{
+    listName: " KB's Fab 5 Subscriber Club",
+    award: sub_icon,
+    blurb: "Some of my favorite games on PS3. Hope you enjoy them as much as I did.",
+    games: [{
+        game: "BioShock",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/3FE4DC7CCA33D213D17E378E482271FC7A94EEF0.PNG"
+    },{
+        game: "Catherine",
+        imag: "http://www.ps3trophies.org/images/trophies/380/ico.png"
+    },{
+        game: "Fallout 3",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00603_00_C4AAF6F4123590144A821E8716824763F49B9180/DD56A4BEE5C0BAEC1E016AFA9B75962B959CC8CA.PNG"
+    },{
+        game: "Payday: The Heist",
+        imag: "http://www.ps3trophies.org/images/trophies/1135/ico.png"
+    },{
+        game: "Vanquish",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR01135_00_6D67F17B6477187872920B1D800E506B758010DA/F52BD73FF669FD348DB65B78FD942BCB64CAD4A1.PNG"
+    }]
+},{
+    listName: "Kyo's The Garden of Madness V2, a Suda51 club",
+    award: sub_icon,
+    blurb: "While not the most known person in the game industry, Suda51 is one of my favorites game developers, his games are generally very unique, having a sense of humor I just love and always featuring an over the top protagonist. The games in this club are all basically that, combined with lots of action and blood, sequences both awesome and outrageous and some very unique boss fights. If that's your thing, you've come to the right place. Are you prepared to enter The Garden of Madness??",
+    games: [{
+        game: "Killer is Dead",
+        imag: "https://i.imgur.com/raqe6vA.png"
+    },{
+        game: "Lollipop Chainsaw",
+        imag: "https://i.imgur.com/0IM2y1F.png"
+    },{
+        game: "No More Heroes: Heroes' Paradise",
+        imag: "http://www.ps3trophies.org/images/trophies/709/ico.png"
+    },{
+        game: "Shadows of the Damned",
+        imag: "https://i.imgur.com/pBFtmF6.png"
+    }]
+},{
+    listName: "Lab's Now, GIMME YOUR MILK MONEY!!! Subscriber Club",
+    award: sub_icon,
+    blurb: "Once, my TV didn't work, so I kicked it. And it started working again.",
+    games: [{
+        game: "Bayonetta",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00851_00_77CD75808F4321EAC3A554307245D5B471115CC0/D4271F9C52FB7A8F00FB8BCF9C7FEEB5B707BFDB.PNG"
+    },{
+        game: "Deadpool",
+        imag: "http://www.ps3trophies.org/images/trophies/1641/ico.png"
+    },{
+        game: "Prototype",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/F0B4ECB98C443FC6F8754DA75DE78DDB8D15A1DC.PNG"
+    },{
+        game: "Strider",
+        imag: "https://www.playstationtrophies.org/images/trophies/2548/ico.png"
+    }]
+},{
+    listName: "Lachz's Favourites Subscriber Club",
+    award: sub_icon,
+    blurb: "A bunch of my favourite games.",
+    games: [{
+        game: "Call of Duty: World at War",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_C2D9946E9875354F46925399161A756896AD5270/ECAAE6F2BB91086DE62D9D12EE077128916BAA4F.PNG"
+    },{
+        game: "Grand Theft Auto IV",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00132_00_FB41DD6DD0A782A55D7A8497108B84EB19EDA56C/EF4A80E7CECAFBA06A2F60DA0CC3CAC53B77C9D0.PNG"
+    },{
+        game: "Grand Theft Auto V",
+        imag: "http://www.ps3trophies.org/images/trophies/687/ico.png"
+    },{
+        game: "Resogun",
+        imag: "https://www.playstationtrophies.org/images/trophies/3272/ico.png"
+    },{
+        game: "WipEout HD",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00187_00_73B55B3F2BEC0151DA949550217B2472E4F98EA7/9154A7ABD8E600DB7576AF184E4E8987CC85E9CD.PNG"
+    }]
+},{
+    listName: "Leptonic's Legoland MotM Club",
+    award: motm_icon,
+    blurb: "Long live LEGO games!",
+    games: [{
+        game: "LEGO Indiana Jones 2: The Adventure Continues",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00994_00_F20BDD09ED1599B441F6B35ED925A75B529E2E52/14733977B62BD4B563C10D3D96324430DDD901FA.PNG"
+    },{
+        game: "LEGO Ninjago: Nindroids",
+        imag: "https://www.playstationtrophies.org/images/trophies/2630/ico.png"
+    },{
+        game: "LEGO Pirates of the Caribbean",
+        imag: "http://www.ps3trophies.org/images/trophies/820/ico.png"
+    },{
+        game: "LEGO Star Wars III: The Clone Wars",
+        imag: "http://www.ps3trophies.org/images/trophies/411/ico.png"
+    },{
+        game: "LEGO The Hobbit (PS3)",
+        imag: "https://www.playstationtrophies.org/images/trophies/2409/ico.png"
+    }]
+},{
+    listName: "Leptonic's Super Heroes Rule! Subscriber Club",
+    award: sub_icon,
+    blurb: "No Villains allowed here!... Join the Super Heroes Platinum Land!",
+    games: [{
+        game: "Batman: Arkham Asylum",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00626_00_57713126980460157C2B6DA2A2F26A1298627ED7/00A596954EF9DF4064B92426EF0C421D96318AC6.PNG"
+    },{
+        game: "Captain America: Super Soldier",
+        imag: "http://www.ps3trophies.org/images/trophies/769/ico.png"
+    },{
+        game: "Green Lantern: Rise of the Manhunters",
+        imag: "http://www.ps3trophies.org/images/trophies/679/ico.png"
+    },{
+        game: "Iron Man 2",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR01115_00_8755ADED24B94A49D918A072A11A5A5EE9CDEF3D/D4E13C340C0147DFF25A6ECE2CF76D407033C25E.PNG"
+    },{
+        game: "X-Men Origins: Wolverine",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/7794CB256AFBD7BF43EE2FC177C0C31CD64D7BCD.PNG"
+    }]
+},{
+    listName: "LionSquid's Sometimes You Just Want To Watch A Movie Subscriber Club",
+    award: sub_icon,
+    blurb: "No difficult games, no time consuming games, just kick back, relax, and enjoy the ride.",
+    games: [{
+        game: "Beyond: Two Souls",
+        imag: "https://www.playstationtrophies.org/images/trophies/3042/ico.png"
+    },{
+        game: "Life is Strange",
+        imag: "https://www.playstationtrophies.org/images/trophies/2971/ico.png"
+    },{
+        game: "Tales From the Borderlands",
+        imag: "https://www.playstationtrophies.org/images/trophies/2442/ico.png"
+    },{
+        game: "Until Dawn",
+        imag: "https://www.playstationtrophies.org/images/trophies/1672/ico.png"
+    }]
+},{
+    listName: "Liv3urway's You Have to Start Somewhere Subscriber Club",
+    award: sub_icon,
+    blurb: "I chose these games because these games were either the first in their respective franchise and/or was the first game in their respective franchise to receive trophy support.",
+    games: [{
+        game: "inFamous",
+        imag: "https://www.playstationtrophies.org/images/trophies/122/ico.png"
+    },{
+        game: "Crysis",
+        imag: "https://www.playstationtrophies.org/images/trophies/1183/ico.png"
+    },{
+        game: "The Elder Scrolls V: Skyrim",
+        imag: "https://www.playstationtrophies.org/images/trophies/826/ico.png"
+    },{
+        game: "Final Fantasy XIII",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00774_00_CDCA3041C79D46EAA32C271071536AC6F45AE379/D2E61445F80BEAF5F84A17040A0BF701AE47142F.PNG"
+    },{
+        game: "Uncharted: Drake's Fortune",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00449_00_924E0C4EDAD265469D550C987B195F3B74DDED3A/B0C5F9033C9555B3F9E5CBDBF00CD1CD282F9379.PNG"
+    }]
+},{
+    listName: "luffybuggy's One Piece is the Greatest Series in the World Subscriber Club",
+    award: sub_icon,
+    blurb: "This club is to celebrate one of the greatest anime series in the world, One Piece. I've absolutely loved this series for almost my entire life. Featuring memorable/lovable characters, amazing adventures ranging from underwater islands of fishmen to islands in the sky with angels, and the story of Monkey D. Luffy's journey to become king of the pirates. This series has an incredible world that everyone should take a look at. So what are you sitting around for?! If you wanna show your love for One Piece, play these games!",
+    games: [{
+        game: "One Piece: Burning Blood",
+        imag: "http://www.ps3trophies.org/images/trophies/3998/ico.png"
+    },{
+        game: "One Piece: Pirate Warriors",
+        imag: "http://www.ps3trophies.org/images/trophies/1431/ico.png"
+    },{
+        game: "One Piece: Pirate Warriors 2",
+        imag: "http://www.ps3trophies.org/images/trophies/1839/ico.png"
+    },{
+        game: "One Piece: Pirate Warriors 3",
+        imag: "http://www.ps3trophies.org/images/trophies/3310/ico.png"
+    },{
+        game: "One Piece Unlimited World Red",
+        imag: "http://www.ps3trophies.org/images/trophies/2606/ico.png"
+    }]
+},{
+    listName: "Maddester’s REALLY GAME!?!? REALLY!?!? Subscriber Club",
+    award: sub_icon,
+    blurb: "I’m pretty sure y’all have this happen to you in your gamer career. You’re playing through your game and you come to a spot where you know that instant death is possible, but 5% of the time it rarely happens, and you had no trouble going through it previous playthroughs before. Then suddenly, the instant death actually happens and you’re dead on the spot, and now it’s taking 20-something tries to get through that part. Or maybe you’re doing a really difficult time trial for over a hour, and now you’ve gotten to a point that you’ve got the entire course memorized. You turn the corner and you see the goal line with a few seconds to spare. You give it all you got, you cross the line and… you finish a tenth of a second over the required time.<br><br>With the 2 given examples above, all you could do at those points is stare at the screen mouth open, flabbergasted, and the only words that come out of your mouth as you rage in frustration are “REALLY GAME!?!? REALLY!?!?” These 5 games were chosen by me because they have given so many “REALLY GAME!?!?” moments, and I sincerely hope that they give you some of those moments too. :devil:",
+    games: [{
+        game: "Catherine",
+        imag: "http://www.ps3trophies.org/images/trophies/380/ico.png"
+    },{
+        game: "DuckTales Remastered",
+        imag: "http://www.ps3trophies.org/images/trophies/1986/ico.png"
+    },{
+        game: "Killzone: Mercenary",
+        imag: "http://www.ps3trophies.org/images/trophies/1675/ico.png"
+    },{
+        game: "Mirror's Edge",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00499_00_9F108AAA00E92367AD4945465CF066A8E39CFC5E/6059C099B263FDED8315936BC0F583643BEAEA1D.PNG"
+    },{
+        game: "Starwhal",
+        imag: "https://www.playstationtrophies.org/images/trophies/2743/ico.png"
+    }]
+},{
+    listName: " MegaHentai's Secure in the Size of My Manhood Subscriber Club",
+    award: sub_icon,
+    blurb: "Awright, boys -- ateeeeeeen-HUT! I am Gunnery Sergeant Hentai, your senior drill instructor, and today we will be talking about manliness! I have been given the thankless task of turning you pubeless wonders into real men, and I will be doing it through the only language you mewling infants speak: video games. Drop your c--ks and grab your Dualshocks, because you are about to join MegaHentai's 'Secure in the Size of My Manhood' Club.<br><br><strong>Game #1: Hello Kitty to Issho: Block Crash V</strong><br><br>Making a Hello Kitty game? That's girl stuff. Making a Hello Kitty brick breaker game where Hello Kitty isn't even in it? That takes balls. And once you grab the multiball bonus, 'balls' is exactly what you will have.<br><br><strong>Game #2: Germany's Next Top Model 2011</strong><br><br>You think you know war? You don't know s--t, son! You don't know what war is until you're surrounded by enemies on all sides, all your allies have turned against you, you're down to your last handful of ammunition, and you're keenly aware that a single mistake will send your entire mission crashing down in flames. And that's just the makeup table -- wait'll you hit the god damn catwalk<br><br><strong>Game #3: Get Fit With Mel B</strong><br><br>You might be able to run marathons with 40 pounds of gear strapped to your back. You might be able to do more pushups than a sultan on spanish fly servicing his harem. You might be able to climb mountains high enough that you can peep on God in the shower. But until you can do five flawless cha-chas in a row, don't you dare pretend you're in shape!<br><br><strong>Game #4: Forest Legends: The Call of Love</strong><br><br>Make no mistake, punk: a Marine never leaves a man behind. Even if it means finding a net to catch a butterfly to make it pollinate a flower to make a healing potion to summon a ghost to get a coat of arms to open a door to...<br><br><strong>Game #5: Gakuen Heaven: Boys Love Scramble!</strong><br><br>Talk about studs! These guys are so much about the manhood, they don't even want girls around when they're getting laid. Remember, you are what you eat -- and that means these boys ain't no pussies.<br><br>So there you have it: five games that will put hair on your chest, give you a voice like Barry White, and give you a package worth signing for. Get to it, boys. Diiiiiiis-MISSED!",
+    games: [{
+        game: "Forest Legends: The Call of Love",
+        imag: "https://www.playstationtrophies.org/images/trophies/2509/ico.png"
+    },{
+        game: "Gakuen Heaven: Boy's Love Scramble",
+        imag: "https://www.playstationtrophies.org/images/trophies/3399/ico.png"
+    },{
+        game: "Germany's Next Top Model 2011",
+        imag: "https://www.playstationtrophies.org/images/trophies/962/ico.png"
+    },{
+        game: "Get Fit With Mel B",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR01367_00_730104F1FDE5A00449AA91B2019F495ABE43171D/89A5F87CA9966A3A7D7E832B035E406CAD48A845.PNG"
+    },{
+        game: "Hello Kitty to Issho: Block Crash V",
+        imag: "http://www.ps3trophies.org/images/trophies/1593/ico.png"
+    }]
+},{
+    listName: "Metdevil vs An Old, Old Wooden Ship That Was Used During The Civil War Era Club",
+    award: sub_icon,
+    blurb: "Diversity? What in the hell is Diversity? Well let's board, salvage, and scuttle that wooden ship - in that order - Black Flag style in Metdevil vs An Old, Old Wooden Ship That Was Used During The Civil War Era, er club...<br>Tackle Diversity by taking on four notoriously tough games and Gran Turismo 6, because GT5 isn't achievable, from five different genres.<br><br>I've devised a plan of action against her as follows:<br><br><strong>Strategy</strong> - Command & Conquer Red Alert 3: Strategy will be of utmost importance against Diversity; she's a sly old girl who'll turn on a dime and ride the waves like a demon of the sea!<br><br><strong>Racing</strong> - Gran Turismo 6: Diversity is a quick ship who'll get away from us if we're not quick enough about it. Luckily, she is old, and doesn't handle a headwind as well as us so I don't think we'll need GT5-like speed to catch her in rougher conditions.<br><br><strong>Co-Operative Shooter</strong> - Destiny: You're not alone out there on those rough seas. Look after each other, keep in communication, and watch each others' backs. Only together can we send Diversity to the briny deep!<br><br><strong>Fighting</strong> - Soulcalibur V: Once boarded, Diversity's universal crew will surely prove a worthy challenge. She's scoured the Seven Seas scores over and recruited the toughest crew known to all of the sailing world. The captain's very own daughter wields a magicked sword. Our real challenge here will be meeting face to face with Diversity's own Captain, The Dread Pirate.<br><br><strong>Music</strong> - Rocksmith 2014: Shred and Slash your way through the deckboards of Diversity with your epic axe-wielding skills! Scuttle her and leave her for the merfolk!",
+    games: [{
+        game: "Command & Conquer: Red Alert 3",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00498_00_8EC336CCAA09A91C74FABA97F990C60EF3376C64/02168ED2C3C12C2B0F0E5D574AE40743D3FEAFB2.PNG"
+    },{
+        game: "Destiny",
+        imag: "https://www.playstationtrophies.org/images/trophies/1542/ico.png"
+    },{
+        game: "Gran Turismo 6",
+        imag: "http://www.ps3trophies.org/images/trophies/2054/ico.png"
+    },{
+        game: "Rocksmith 2014",
+        imag: "http://www.ps3trophies.org/images/trophies/2099/ico.png"
+    },{
+        game: "Soul Calibur V",
+        imag: "http://www.ps3trophies.org/images/trophies/1016/ico.png"
     }]
 // },{
     // listName: "",
