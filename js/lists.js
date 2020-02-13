@@ -486,7 +486,7 @@ var lists = [{
         imag: "https://www.playstationtrophies.org/images/trophies/3029/ico.png"
     }]
 },{
-    listName: " DarkDante's Through Distant Worlds and Times MotM Club",
+    listName: "DarkDante's Through Distant Worlds and Times MotM Club",
     award: motm_icon,
     blurb: "To be part of this club, explore various open worlds in different times and experience things from both sides of the law.",
     games: [{
@@ -561,6 +561,662 @@ var lists = [{
     },{
         game: "The Crew",
         imag: "https://www.playstationtrophies.org/images/trophies/2100/ico.png"
+    }]
+},{
+    listName: "DiddyMagic Denies that He Likes RPG's Subscriber Club",
+    award: sub_icon,
+    blurb: "RPG's, unlike many other games, provide enough gaming content to justify the sticker price. RPG's deserve a club in their honor.",
+    games: [{
+        game: "Diablo III: Reaper of Souls",
+        imag: "https://www.playstationtrophies.org/images/trophies/2985/ico.png"
+    },{
+        game: "Dragon Age: Inquisition",
+        imag: "https://www.playstationtrophies.org/images/trophies/2254/ico.png"
+    },{
+        game: "Kingdoms of Amalur: Reckoning",
+        imag: "https://www.playstationtrophies.org/images/trophies/669/ico.png"
+    },{
+        game: "South Park: The Stick of Truth",
+        imag: "https://www.playstationtrophies.org/images/trophies/1314/ico.png"
+    },{
+        game: "The Witcher 3: Wild Hunt",
+        imag: "https://www.playstationtrophies.org/images/trophies/1904/ico.png"
+    }]
+},{
+    listName: "Dino_Roar's Ferocious Creatures MotM Club",
+    award: motm_icon,
+    blurb: "Creatures that go bump in the night can be terribly frightful, but some can also be lovable.",
+    games: [{
+        game: "Infinity Runner",
+        imag: "https://www.playstationtrophies.org/images/trophies/2721/ico.png"
+    },{
+        game: "Joe's Diner",
+        imag: "https://i.psnprofiles.com/games/93b934/L00d0d4.png"
+    },{
+        game: "Licky The Lucky Lizard Lives Again",
+        imag: "https://i.imgur.com/MqFKyIb.png"
+    },{
+        game: "Space Overlords",
+        imag: "https://www.playstationtrophies.org/images/trophies/5256/ico.png"
+    },{
+        game: "Wonderbook: Walking With Dinosaurs",
+        imag: "http://www.ps3trophies.org/images/trophies/2136/ico.png"
+    }]
+},{
+    listName: "Dipsy's Cardboard Box Appreciation Subscriber Club",
+    award: sub_icon,
+    blurb: "! You thought this was going to be a Metal Gear club didn't you? All these games can be played on any system so hopefully nobody feels left out. Happy hunting!",
+    games: [{
+        game: "Lone Survivor: The Director's Cut",
+        imag: "http://www.ps3trophies.org/images/trophies/1967/ico.png"
+    },{
+        game: "The Swapper",
+        imag: "https://www.playstationtrophies.org/images/trophies/2575/ico.png"
+    },{
+        game: "Thomas Was Alone",
+        imag: "http://www.ps3trophies.org/images/trophies/1947/ico.png"
+    },{
+        game: "Titan Attacks!",
+        imag: "https://www.playstationtrophies.org/images/trophies/2713/ico.png"
+    }]
+},{
+    listName: "DISCO’s You got your zombies in my comics! NO. You got your comics in my zombies!",
+    award: motm_icon,
+    blurb: "Like Chocolate and Peanut butter some things just go well together. All these games have both a comic and zombie element incorporated into them.",
+    games: [{
+        game: "Escape Dead Island",
+        imag: "https://www.playstationtrophies.org/images/trophies/2898/ico.png"
+    },{
+        game: "Injustice: Gods Among Us",
+        imag: "http://www.ps3trophies.org/images/trophies/1572/ico.png"
+    },{
+        game: "Lollipop Chainsaw",
+        imag: "http://www.ps3trophies.org/images/trophies/1134/ico.png"
+    },{
+        game: "The Amazing Spider-Man 2",
+        imag: "https://www.playstationtrophies.org/images/trophies/2331/ico.png"
+    },{
+        game: "The Last of Us",
+        imag: "http://www.ps3trophies.org/images/trophies/1317/ico.png"
+    }]
+},{
+    listName: "DPatriot's Shmuptastic MotM Club",
+    award: motm_icon,
+    blurb: "Reason i choose these is cause i really like shmups. Used to play this alot from the 90´s Also i would like more people to try these out since its so niche genre. And i picked no hard ones either :)",
+    games: [{
+        game: "Raiden V: Director's Cut",
+        imag: "https://www.playstationtrophies.org/images/trophies/6393/ico.png"
+    },{
+        game: "Dangun Feveron",
+        imag: "https://www.playstationtrophies.org/images/trophies/5799/ico.png"
+    },{
+        game: "Battle Garegga Rev.2016",
+        imag: "https://www.playstationtrophies.org/images/trophies/5376/ico.png"
+    },{
+        game: "Ghost Blade HD",
+        imag: "https://www.playstationtrophies.org/images/trophies/5487/ico.png"
+    },{
+        game: "Caladrius Blaze",
+        imag: "https://www.playstationtrophies.org/images/trophies/4800/ico.png"
+    }]
+},{
+    listName: "Eastside's Made in France Sub Club",
+    award: sub_icon,
+    blurb: "5 of my favorite video games developed by French companies, all available on PS4.",
+    games: [{
+        game: "Beyond: Two Souls",
+        imag: "https://i.imgur.com/JAOW3TJ.png"
+    },{
+        game: "Dishonored 2",
+        imag: "https://i.imgur.com/Ttickp7.png"
+    },{
+        game: "Life is Strange",
+        imag: "https://i.imgur.com/48lvvVP.png"
+    },{
+        game: "Rayman Legends",
+        imag: "https://i.imgur.com/LJeS5Pz.png"
+    },{
+        game: "Tom Clancy’s Ghost Recon: Wildlands",
+        imag: "https://i.imgur.com/QmEhDwk.png"
+    }]
+},{
+    listName: "Easty's Made in France 2.0 MotM Club",
+    award: motm_icon,
+    blurb: "5 awesome games with great stories developed by French devs :francais:",
+    games: [{
+        game: "11-11 Memories Retold",
+        imag: "https://i.psnprofiles.com/games/f69307/L4d0a42.png"
+    },{
+        game: "A Plague Tale: Innocence",
+        imag: "https://i.psnprofiles.com/games/d21f0b/L65cfd0.png"
+    },{
+        game: "Demetrios: The BIG Cynical Adventure",
+        imag: "https://www.playstationtrophies.org/images/trophies/6127/ico.png"
+    },{
+        game: "Detroit: Become Human",
+        imag: "https://www.playstationtrophies.org/images/trophies/4082/ico.png"
+    },{
+        game: "Vampyr",
+        imag: "https://www.playstationtrophies.org/images/trophies/3735/ico.png"
+    }]
+},{
+    listName: "Ed's Favourites from Last Gen MotM Club",
+    award: motm_icon,
+    blurb: "These are the games I most enjoyed earning the (P) for on the PS3. I hope you enjoy/enjoyed them! -_-.",
+    games: [{
+        game: "Assassin's Creed: Brotherhood",
+        imag: "http://www.ps3trophies.org/images/trophies/362/ico.png"
+    },{
+        game: "Fallout: New Vegas",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/05A0DA7C339EB16742B63AC4DED4ECE6EDF06B34.PNG"
+    },{
+        game: "L.A. Noire",
+        imag: "http://www.ps3trophies.org/images/trophies/358/ico.png"
+    },{
+        game: "Mass Effect 2",
+        imag: "http://www.ps3trophies.org/images/trophies/703/ico.png"
+    },{
+        game: "South Park: The Stick of Truth",
+        imag: "https://www.playstationtrophies.org/images/trophies/1314/ico.png"
+    }]
+},{
+    listName: "esstee11's Fright Night of the Livin Deads Ultra Rare Scares! MotM Club",
+    award: motm_icon,
+    blurb: "Zooommmbbbiieeesssss yayyyy! 4 Ultra rare platssss yayyyyy! Resident Evil Revelations 2 is my fav res game, it really is just excellent. Deadlight is my favourite indie side-scroller that i found, i love it n want more people to play it. Dead rising 2 has just always made me laugh with its awesome psychopaths, always been one of my favourite horror comedy games. And i just chucked Zombi in there for a first person british number. reap the ultra rare rewards! dewwwwitttt. :cool:",
+    games: [{
+        game: "Deadlight: Director's Cut",
+        imag: "https://www.playstationtrophies.org/images/trophies/4476/ico.png"
+    },{
+        game: "Dead Rising 2",
+        imag: "https://www.playstationtrophies.org/images/trophies/4834/ico.png"
+    },{
+        game: "Resident Evil: Revelations 2",
+        imag: "https://www.playstationtrophies.org/images/trophies/3035/ico.png"
+    },{
+        game: "ZOMBI",
+        imag: "https://www.playstationtrophies.org/images/trophies/3830/ico.png"
+    }]
+},{
+    listName: "F8L Fool's Fabulous Five by Five",
+    award: motm_icon,
+    blurb: "Five fabulous games in five of my favorite genres: Third-person shooter, Action, Action Roleplaying, Platformer, and Rogue-LITE",
+    games: [{
+        game: "Bloodborne",
+        imag: "https://www.playstationtrophies.org/images/trophies/2840/ico.png"
+    },{
+        game: "God of War III",
+        imag: "https://www.playstationtrophies.org/images/trophies/3489/ico.png"
+    },{
+        game: "OlliOlli 2: Welcome to Olliwood",
+        imag: "https://www.playstationtrophies.org/images/trophies/3398/ico.png"
+    },{
+        game: "Rogue Legacy",
+        imag: "https://www.playstationtrophies.org/images/trophies/2870/ico.png"
+    },{
+        game: "Uncharted 2: Among Thieves",
+        imag: "https://www.playstationtrophies.org/images/trophies/4012/ico.png"
+    }]
+},{
+    listName: "Fisty's Tales of Fun Subscriber Club",
+    award: sub_icon,
+    blurb: "I am a big fan of the Tales series and if I could of had more games I would have had added Tales of Xillia 1 in there as well.",
+    games: [{
+        game: "Tales of Graces ƒ",
+        imag: "http://www.ps3trophies.org/images/trophies/535/ico.png"
+    },{
+        game: "Tales of Hearts R",
+        imag: "http://www.ps3trophies.org/images/trophies/1953/ico.png"
+    },{
+        game: "Tales of Symphonia",
+        imag: "https://www.playstationtrophies.org/images/trophies/2320/ico.png"
+    },{
+        game: "Tales of Symphonia: Dawn of the New World",
+        imag: "https://www.playstationtrophies.org/images/trophies/2495/ico.png"
+    },{
+        game: "Tales of Xillia 2",
+        imag: "http://www.ps3trophies.org/images/trophies/1786/ico.png"
+    }]
+},{
+    listName: " Frosteeeh's Freezing Cold Subscriber Club",
+    award: sub_icon,
+    blurb: "I'm Frosteeeh, and these games all have moments involving snow in them.",
+    games: [{
+        game: "Assassin's Creed III",
+        imag: "http://www.ps3trophies.org/images/trophies/1400/ico.png"
+    },{
+        game: "Far Cry 4",
+        imag: "https://www.playstationtrophies.org/images/trophies/2778/ico.png"
+    },{
+        game: "LEGO The Lord of the Rings (PS3)",
+        imag: "http://www.ps3trophies.org/images/trophies/1535/ico.png"
+    },{
+        game: "Red Dead Redemption",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00867_00_3C04BB5C8E8B922C223411F0E040983D86D4B864/27D02EB3579FF13B05CB8707B7B6C79AD14C6332.PNG"
+    },{
+        game: "The Elder Scrolls V: Skyrim",
+        imag: "http://www.ps3trophies.org/images/trophies/826/ico.png"
+    }]
+},{
+    listName: "Funky's Rocket to the Final Uncharted Horizon MotM Club",
+    award: motm_icon,
+    blurb: "",
+    games: [{
+        game: "Final Fantasy XV",
+        imag: "https://i.imgur.com/QTuxlPE.png"
+    },{
+        game: "Horizon: Zero Dawn",
+        imag: "https://i.imgur.com/5jvMxkg.png"
+    },{
+        game: "Rocket League",
+        imag: "http://www.ps3trophies.org/images/trophies/3583/ico.png"
+    },{
+        game: "Uncharted 4: A Thief's End",
+        imag: "https://www.playstationtrophies.org/images/trophies/2388/ico.png"
+    }]
+},{
+    listName: "Gage's Indie Favorites MotM Club",
+    award: motm_icon,
+    blurb: "These are four of my favorite Indies that I've played on the Playstation systems, all with great stories, game play, and soundtracks.",
+    games: [{
+        game: "Hotline Miami",
+        imag: "http://www.ps3trophies.org/images/trophies/1923/ico.png"
+    },{
+        game: "Rogue Legacy",
+        imag: "https://www.playstationtrophies.org/images/trophies/2870/ico.png"
+    },{
+        game: "Thomas Was Alone",
+        imag: "http://www.ps3trophies.org/images/trophies/1947/ico.png"
+    },{
+        game: "Transistor",
+        imag: "https://www.playstationtrophies.org/images/trophies/2113/ico.png"
+    }]
+},{
+    listName: "Gage's Indie Favorites Part II Subscriber Club",
+    award: sub_icon,
+    blurb: "Like my first Indie Favorites Club, these are 5 fantastic indies that I loved playing on the Playstation systems.",
+    games: [{
+        game: "Axiom Verge",
+        imag: "https://www.playstationtrophies.org/images/trophies/2740/ico.png"
+    },{
+        game: "Hotline Miami 2: Wrong Number",
+        imag: "https://www.playstationtrophies.org/images/trophies/2666/ico.png"
+    },{
+        game: "OlliOlli 2: Welcome to Olliwood",
+        imag: "https://www.playstationtrophies.org/images/trophies/3398/ico.png"
+    },{
+        game: "Shovel Knight",
+        imag: "https://www.playstationtrophies.org/images/trophies/3440/ico.png"
+    },{
+        game: "Titan Souls",
+        imag: "https://www.playstationtrophies.org/images/trophies/2905/ico.png"
+    }]
+},{
+    listName: "GAZDAN's Comes Highly Recommended Subscriber Club",
+    award: sub_icon,
+    blurb: "I love these games and have a habit of recommending them to people, even if they don't ask!",
+    games: [{
+        game: "Catherine",
+        imag: "http://www.ps3trophies.org/images/trophies/380/ico.png"
+    },{
+        game: "Far Cry 3",
+        imag: "http://www.ps3trophies.org/images/trophies/922/ico.png"
+    },{
+        game: "Mirror's Edge",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00499_00_9F108AAA00E92367AD4945465CF066A8E39CFC5E/6059C099B263FDED8315936BC0F583643BEAEA1D.PNG"
+    },{
+        game: "The Last of Us",
+        imag: "http://www.ps3trophies.org/images/trophies/1317/ico.png"
+    },{
+        game: "Uncharted: Drake's Fortune",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00449_00_924E0C4EDAD265469D550C987B195F3B74DDED3A/B0C5F9033C9555B3F9E5CBDBF00CD1CD282F9379.PNG"
+    }]
+},{
+    listName: "guylian's 'Nathan Drake's Uncharted Journey' MotM Club",
+    award: motm_icon,
+    blurb: "If you haven't already guessed, I'm a massive Uncharted fan! I earned my first trophy and platinum trophy from Uncharted: Drake's fortune, and I'll be making Uncharted 4: A Thief's End my 150th plat! I hope you enjoy all the highs and lows of Nathan Drake's journey across Uncharted 1 to 4, and have an awesome time earning the plats! :D",
+    games: [{
+        game: "Uncharted: Drake's Fortune",
+        imag: "https://www.playstationtrophies.org/images/trophies/3686/ico.png"
+    },{
+        game: "Uncharted 2: Among Thieves",
+        imag: "https://www.playstationtrophies.org/images/trophies/4012/ico.png"
+    },{
+        game: "Uncharted 3: Drake's Deception",
+        imag: "https://www.playstationtrophies.org/images/trophies/4013/ico.png"
+    },{
+        game: "Uncharted 4: A Thief's End",
+        imag: "https://www.playstationtrophies.org/images/trophies/2388/ico.png"
+    }]
+},{
+    listName: "Hap's 'They looked like monsters to me, I swear' Subscriber Club",
+    award: sub_icon,
+    blurb: "People who know me well know that I have two different faces. The first one likes super cute things and sometimes pervy anime stuff, and the other one... well, likes anime stuff as well, but a little darker. This club is the one for you if you are in love with games containing darker elements. Don't be afraid of the dark, don't be afraid of killing your friends. In a game, of course. Please, don't kill your real friends.",
+    games: [{
+        game: "Alice: Madness Returns",
+        imag: "https://www.playstationtrophies.org/images/trophies/671/ico.png"
+    },{
+        game: "Corpse Party: Blood Drive",
+        imag: "https://www.playstationtrophies.org/images/trophies/3989/ico.png"
+    },{
+        game: "Danganronpa 2: Goodbye Despair",
+        imag: "https://www.playstationtrophies.org/images/trophies/3041/ico.png"
+    },{
+        game: "Silent Hill 3 HD",
+        imag: "https://www.playstationtrophies.org/images/trophies/1059/ico.png"
+    },{
+        game: "Zero Escape: Virtue's Last Reward",
+        imag: "https://www.playstationtrophies.org/images/trophies/1773/ico.png"
+    }]
+},{
+    listName: "Hap's Favorites On PS4 MotM Club",
+    award: motm_icon,
+    blurb: "Just some titles that I enjoyed the most on PS4. It's a varied mix of games to show how different favorite games can be sometimes. I really hope you'll enjoy the games as much as I did.",
+    games: [{
+        game: "Detroit: Become Human",
+        imag: "https://www.playstationtrophies.org/images/trophies/4082/ico.png"
+    },{
+        game: "Persona 5",
+        imag: "https://www.playstationtrophies.org/images/trophies/471/ico.png"
+    },{
+        game: "Horizon: Zero Dawn",
+        imag: "https://www.playstationtrophies.org/images/trophies/3726/ico.png"
+    },{
+        game: "Danganronpa V3: Killing Harmony",
+        imag: "https://www.playstationtrophies.org/images/trophies/6422/ico.png"
+    },{
+        game: "Until Dawn",
+        imag: "https://www.playstationtrophies.org/images/trophies/1672/ico.png"
+    }]
+},{
+    listName: "Harry's Raiders of PST MotM Club",
+    award: motm_icon,
+    blurb: "Lots of Raidin'.",
+    games: [{
+        game: "Bloodborne",
+        imag: "https://www.playstationtrophies.org/images/trophies/2840/ico.png"
+    },{
+        game: "Destiny",
+        imag: "https://www.playstationtrophies.org/images/trophies/1542/ico.png"
+    },{
+        game: "Tomb Raider: Anniversary",
+        imag: "http://www.ps3trophies.org/images/trophies/857/ico.png"
+    },{
+        game: "Tomb Raider",
+        imag: "https://www.playstationtrophies.org/images/trophies/2439/ico.png"
+    },{
+        game: "Tomb Raider: Legend",
+        imag: "http://www.ps3trophies.org/images/trophies/856/ico.png"
+    }]
+},{
+    listName: "hBLOXs’ Perfection is overrated club",
+    award: sub_icon,
+    blurb: "These are my overall favorite games. It used to be The Stick of Truth as 5th but I really like both games equally so I’ve decided to put the second one in here.",
+    games: [{
+        game: "Grand Theft Auto: Vice City",
+        imag: "https://www.playstationtrophies.org/images/trophies/4199/ico.png"
+    },{
+        game: "Red Dead Redemption",
+        imag: "https://i.imgur.com/owmoWje.png"
+    },{
+        game: "Resident Evil 4",
+        imag: "https://www.playstationtrophies.org/images/trophies/4788/ico.png"
+    },{
+        game: "Saints Row: The Third",
+        imag: "https://www.playstationtrophies.org/images/trophies/746/ico.png"
+    },{
+        game: "South Park: The Fractured But Whole",
+        imag: "https://www.playstationtrophies.org/images/trophies/3723/ico.png"
+    }]
+},{
+    listName: "Honeybuncchh's Brotherhood Subscriber Club",
+    award: sub_icon,
+    blurb: "I chose these games because Assassin's Creed is my favourite game series.",
+    games: [{
+        game: "Assassin's Creed II",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00894_00_8078706A2F05A74D398BED1ACE3509FAC5B29C89/53046374486E2F6EA6329B78BE7D42070FD576CC.PNG"
+    },{
+        game: "Assassin's Creed IV: Black Flag",
+        imag: "http://www.ps3trophies.org/images/trophies/1949/ico.png"
+    },{
+        game: "Assassin's Creed Chronicles: China",
+        imag: "https://www.playstationtrophies.org/images/trophies/3524/ico.png"
+    },{
+        game: "Assassin's Creed: Rogue",
+        imag: "https://www.playstationtrophies.org/images/trophies/2950/ico.png"
+    },{
+        game: "Assassin's Creed: Unity",
+        imag: "https://www.playstationtrophies.org/images/trophies/2628/ico.png"
+    }]
+},{
+    listName: "I Bleed Green's Don't Miss a Thing Subscriber Club",
+    award: sub_icon,
+    blurb: "I hope you like collectibles. You'll be looking for a lot of them in these games. Have fun and good luck! Don't miss one.",
+    games: [{
+        game: "inFamous: Second Son",
+        imag: "https://www.playstationtrophies.org/images/trophies/1936/ico.png"
+    },{
+        game: "Murdered: Soul Suspect",
+        imag: "https://www.playstationtrophies.org/images/trophies/2525/ico.png"
+    },{
+        game: "South Park: The Stick of Truth",
+        imag: "https://www.playstationtrophies.org/images/trophies/1314/ico.png"
+    },{
+        game: "The Order: 1886",
+        imag: "https://www.playstationtrophies.org/images/trophies/2104/ico.png"
+    }]
+},{
+    listName: "iLion's Genre hopping Subscriber Club",
+    award: sub_icon,
+    blurb: "I enjoy a range of genres so thought I'd stick a list together covering some of my favourites with games I've enjoyed from each.",
+    games: [{
+        game: "Call of Duty: Modern Warfare Remastered",
+        imag: "https://www.playstationtrophies.org/images/trophies/4594/ico.png"
+    },{
+        game: "DriveClub",
+        imag: "https://www.playstationtrophies.org/images/trophies/1933/ico.png"
+    },{
+        game: "Final Fantasy XII: The Zodiac Age",
+        imag: "https://www.playstationtrophies.org/images/trophies/4685/ico.png"
+    },{
+        game: "Horizon Zero Dawn",
+        imag: "https://www.playstationtrophies.org/images/trophies/3726/ico.png"
+    },{
+        game: "Uncharted 2: Among Thieves",
+        imag: "https://www.playstationtrophies.org/images/trophies/4012/ico.png"
+    }]
+},{
+    listName: "iLion's selection of favourites MotM Club",
+    award: motm_icon,
+    blurb: "A selection of some of the games which I've massively enjoyed playing and left a lasting impression on me.",
+    games: [{
+        game: "Call of Duty: Modern Warfare 2",
+        imag: "https://i.imgur.com/e3M0rGF.png"
+    },{
+        game: "Final Fantasy VIII Remastered",
+        imag: "https://i.imgur.com/TYj7h8D.png"
+    },{
+        game: "Red Dead Redemption 2",
+        imag: "https://i.imgur.com/hFvg2rv.png"
+    },{
+        game: "The Witcher 3: Wild Hunt",
+        imag: "https://www.playstationtrophies.org/images/trophies/1904/ico.png"
+    }]
+},{
+    listName: "IonStorm's Pentagonal Quintuplet Subscriber Club",
+    award: sub_icon,
+    blurb: "Yeah, I enjoyed these games. Tomb Raider is called Tomb Raider: Definitive Edition on the PS4.",
+    games: [{
+        game: "Assassin's Creed IV: Black Flag",
+        imag: "http://www.ps3trophies.org/images/trophies/1949/ico.png"
+    },{
+        game: "Borderlands 2",
+        imag: "http://www.ps3trophies.org/images/trophies/1145/ico.png"
+    },{
+        game: "Far Cry 3",
+        imag: "http://www.ps3trophies.org/images/trophies/922/ico.png"
+    },{
+        game: "Minecraft",
+        imag: "https://www.playstationtrophies.org/images/trophies/2257/ico.png"
+    },{
+        game: "Tomb Raider",
+        imag: "https://www.playstationtrophies.org/images/trophies/2439/ico.png"
+    }]
+},{
+    listName: "Janne's Mad Skillz Subscriber Club",
+    award: sub_icon,
+    blurb: "No easy games in this list! :francis: This club is for all you out there who enjoy a good challenge in a game. Challenge breeds excellence and we all know that the harder the game, the greater the sense of satisfaction is after you beat it. Not only are these games quite challenging, but they are also really great games. Only the worthy will be allowed entry here, so good luck! :)",
+    games: [{
+        game: "Devil May Cry HD",
+        imag: "http://www.ps3trophies.org/images/trophies/1223/ico.png"
+    },{
+        game: "Devil May Cry 3 HD",
+        imag: "http://www.ps3trophies.org/images/trophies/1225/ico.png"
+    },{
+        game: "Metal Gear Rising: Revengeance",
+        imag: "http://www.ps3trophies.org/images/trophies/350/ico.png"
+    },{
+        game: "Metal Gear Solid 2: Sons of Liberty",
+        imag: "http://www.ps3trophies.org/images/trophies/1053/ico.png"
+    },{
+        game: "Silent Hill 2 HD",
+        imag: "http://www.ps3trophies.org/images/trophies/1058/ico.png"
+    }]
+},{
+    listName: "JayPBM's All About the Indies! Subscriber Club",
+    award: sub_icon,
+    blurb: "These are some of the top indies I've enjoyed on PlayStation and I want to share my love for them with everyone else.",
+    games: [{
+        game: "Dust: An Elysian Tail",
+        imag: "https://www.playstationtrophies.org/images/trophies/3026/ico.png"
+    },{
+        game: "Guacamelee!",
+        imag: "http://www.ps3trophies.org/images/trophies/1568/ico.png"
+    },{
+        game: "Lone Survivor: The Director's Cut",
+        imag: "http://www.ps3trophies.org/images/trophies/1967/ico.png"
+    },{
+        game: "Rogue Legacy",
+        imag: "https://www.playstationtrophies.org/images/trophies/2870/ico.png"
+    },{
+        game: "Transistor",
+        imag: "https://www.playstationtrophies.org/images/trophies/2113/ico.png"
+    }]
+},{
+    listName: "JayPBM's Kick Back, Relax and Game On MotM Club",
+    award: motm_icon,
+    blurb: "If you have a couple days off school or work and you feel like staying on the couch and gaming during your vacation, you can't go wrong with these gems.",
+    games: [{
+        game: "Gravity Rush 2",
+        imag: "https://i.imgur.com/MbsPQbL.png"
+    },{
+        game: "Horizon: Zero Dawn",
+        imag: "https://i.imgur.com/5jvMxkg.png"
+    },{
+        game: "NieR: Automata",
+        imag: "https://i.imgur.com/wanGB33.png"
+    },{
+        game: "Nioh",
+        imag: "https://i.imgur.com/jiElF7w.png"
+    },{
+        game: "Resident Evil 7: Biohazard",
+        imag: "https://i.imgur.com/53oxOs9.png"
+    }]
+},{
+    listName: "Jerry's Nostalgia-Inducing Favourites MotM Club",
+    award: motm_icon,
+    blurb: "I grew up playing games in the 90's on Nintendo and Sega consoles. So I wanted my club to feature games that are re-imaginings of games that I grew up with, so everyone can appreciate the classic games from that time. If you have ever played Legend of Zelda, Metroid, Banjo-Kazooie, or any Sonic the Hedgehog game, you will love playing these games!",
+    games: [{
+        game: "3D Dot Game Heroes",
+        imag: "https://i.imgur.com/eiyBJFk.png"
+    },{
+        game: "Axiom Verge",
+        imag: "https://www.playstationtrophies.org/images/trophies/3535/ico.png"
+    },{
+        game: "Sonic Mania",
+        imag: "https://www.playstationtrophies.org/images/trophies/4827/ico.png"
+    },{
+        game: "Sonic's Ultimate Genesis Collection/SEGA Mega Drive Ultimate Collection",
+        imag: "https://i.imgur.com/egGfvXE.png"
+    },{
+        game: "Yooka-Laylee",
+        imag: "https://www.playstationtrophies.org/images/trophies/3604/ico.png"
+    }]
+},{
+    listName: "jmac's Have Vehicle, Will Travel Subscriber Club",
+    award: sub_icon,
+    blurb: "I went with these games as they all require a vehicle of some type and those who know me know I love cars. I didn't want to build a club just around racing games; I wanted a mix as I love to play all games. FPS, Open World Adventure, and racing. The only thing I didn't include was a flying game and that is because most of the ones I have enjoyed have had their servers shutdown. Each of these games requires some time spent in a vehicle, either online or offline and in the case of 3 of them, a commitment to finish them. Based on what I have seen it I think it could be one of the more challenging clubs to join, but everyone needs a challenge from time to time.",
+    games: [{
+        game: "Battlefield: Bad Company",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00323_00_F8E4156EDE564BDE2DD77D31E9AAFFD36964F952/06E4343185D7698EF141C03CAFCC19E63B3EB389.PNG"
+    },{
+        game: "Grand Theft Auto IV",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00132_00_FB41DD6DD0A782A55D7A8497108B84EB19EDA56C/EF4A80E7CECAFBA06A2F60DA0CC3CAC53B77C9D0.PNG"
+    },{
+        game: "GRID 2",
+        imag: "http://www.ps3trophies.org/images/trophies/1371/ico.png"
+    },{
+        game: "Red Dead Redemption",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00867_00_3C04BB5C8E8B922C223411F0E040983D86D4B864/27D02EB3579FF13B05CB8707B7B6C79AD14C6332.PNG"
+    },{
+        game: "WRC 4",
+        imag: "http://www.ps3trophies.org/images/trophies/2197/ico.png"
+    }]
+},{
+    listName: "JMeeks' Abbey Road Adventure Subscriber Club",
+    award: sub_icon,
+    blurb: "Since my migration from primarily PC gaming I have played some fantastic games and narrowing it down to five is incredibly difficult. I feel my club reflects me as a person and a gamer. I love all of the genres included and hope you enjoy them too. Thanks for looking & Good luck :).",
+    games: [{
+        game: "Alien: Isolation",
+        imag: "https://www.playstationtrophies.org/images/trophies/2453/ico.png"
+    },{
+        game: "Assassin's Creed IV: Black Flag",
+        imag: "http://www.ps3trophies.org/images/trophies/1949/ico.png"
+    },{
+        game: "EA Sports UFC",
+        imag: "https://www.playstationtrophies.org/images/trophies/2094/ico.png"
+    },{
+        game: "L.A. Noire",
+        imag: "http://www.ps3trophies.org/images/trophies/358/ico.png"
+    },{
+        game: "The Secret of Monkey Island: Special Edition",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR01189_00_BE663584579465CABCEF84ADD18D2E7B6A08CA8F/BBCB9CD7D49D75E6AF579FB97DB24CF764CDB028.PNG"
+    }]
+},{
+    listName: "JMeeks' Yellow Submarine MotM Club",
+    award: motm_icon,
+    blurb: "I tried to choose games that are much more easily obtained as my subscriber club is lonely. I just want hugs! :hug:",
+    games: [{
+        game: "Far Cry 3",
+        imag: "http://www.ps3trophies.org/images/trophies/922/ico.png"
+    },{
+        game: "Mafia II",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/001EA3716009B7C9AAD4C803F33CACDC831F8200.PNG"
+    },{
+        game: "Sleeping Dogs",
+        imag: "http://www.ps3trophies.org/images/trophies/1378/ico.png"
+    },{
+        game: "The Godfather II",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00518_00_380D4EF15A0856C2EA965BA8FBEA17EBC4748147/4C3C59C1FC4F3DEE52B30B12B9533C22E878B4AC.PNG"
+    },{
+        game: "The Last of Us",
+        imag: "http://www.ps3trophies.org/images/trophies/1317/ico.png"
+    }]
+},{
+    listName: "Jordan's Shooter Subscriber Club",
+    award: sub_icon,
+    blurb: "Because who doesn't like to shoot stuff? Plus, they're all available on PS4 so you don't have to haul out that antiquated hunk of plastic known as a PS3.",
+    games: [{
+        game: "Battlefield 4",
+        imag: "http://www.ps3trophies.org/images/trophies/1640/ico.png"
+    },{
+        game: "Borderlands 2",
+        imag: "https://www.playstationtrophies.org/images/trophies/3497/ico.png"
+    },{
+        game: "Call of Duty: Advanced Warfare",
+        imag: "https://www.playstationtrophies.org/images/trophies/2734/ico.png"
+    },{
+        game: "Far Cry 4",
+        imag: "https://www.playstationtrophies.org/images/trophies/2778/ico.png"
     }]
 // },{
     // listName: "",
