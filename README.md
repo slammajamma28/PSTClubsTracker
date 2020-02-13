@@ -8,6 +8,10 @@ Well, it's a checklist. So check what you have done or own!
 
 My recommendation on first launch is to click into "By Games" and start checking off games through there. Once you have checked off all your games, reload the page, click "Calculate" and then reload one more time. This should update everything properly. Then you can start looking at what clubs you're close to completing and start setting goals from there.
 
+## Wait, some games are already cheked off as owned!?
+
+Yes! With the way LocalStorage works, any game that you have marked as "owned" on the Custom Lists Tracker will be marked as owned on the Clubs Tracker as well! Pretty cool, huh?
+
 ## I Forgot Clubs Existed, why should I care about this?
 
 There's tiered site awards! 
