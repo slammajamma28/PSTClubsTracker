@@ -210,6 +210,8 @@ function listSelected(clickedList){
             "<div class=\"content\">" +
             "<h2 id=\"list_name\">"+ selectedList.listName +"</h2>" +
             "<img src=\""+ selectedList.award +"\" alt=\""+ selectedList.listName +" Site Award\">" +
+            "<<h3></h3>" +
+            "<p>" + selectedList.blurb + "</p>" +
             "<h3><span id=\"game_count\">"+ gameCount +"</span>/<span id=\"owned_count\">"+ ownedCount +"</span>/"+ selectedList.games.length +"</h3>" +
             "</div>" +
             "");
