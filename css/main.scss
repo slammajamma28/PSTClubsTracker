@@ -15,6 +15,12 @@ $platinum: #6499ff;
   background: linear-gradient(to right, $from 0%, $to 100%);
 }
 
+#clubsbanner {
+  max-width: 100%;
+  height: auto;
+  width: auto\9; /* ie8 */
+}
+
 /* Overrides */
 html, body{
   margin: 0;
