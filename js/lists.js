@@ -1773,7 +1773,7 @@ var lists = [{
 },{
     listName: "Pennysticks' Great Performances Subscriber Club",
     award: sub_icon,
-    blurb: "Coming from a background in the Performing Arts, I have found I enjoy games that have a better pedigree of vocal talent and a certain theatricality to the story within the game. I present to you some of the finest performances found on the PS3, in Five Acts!<br><br><strong>I:</strong> The excellent mo-cap and voice work of Academy Award nominated/Independent Spirit Award winners Ellen Paige and Willem Dafoe, and Dwayne Wayne himself, Kadeem Hardison, will captivate in <strong>Beyond: Two Souls</strong><br><br><strong>II:</strong> The voice-over powerhouses of Courtnee Draper and Troy Baker will excite and amaze through story and song (pick up a guitar when you can and stick around for the credits) in <strong>Bioshock Infinite</strong><br><br><strong>III:</strong> The world's most famous motion capture artist, Andy Serkis, and the voice-over artist who really likes to play pig characters, Richard Ridings, will entertain in <strong>Enslaved: Odyssey to the West</storng><br><br><strong>IV:</strong> <strike>Opera Singer and award-winning voice actress Ellen McLain, Emmy/BAFTA/Writer's Guild award winner Stephen Merchant and Academy Award winner JK Simmons will elicit laughter in an otherwise desolate testing facility in <strong>Portal 2</strong><strike> The Stage Manager is signaling that the plat for Portal 2 is nearly unobtainable with current online issues...so, playing the role of Portal 2 tonight will be <strong>Quantum Conundrum</strong> following our puppet show...(good luck!)<br><br><strong>V:</strong> Our show will close with a full puppet performance that deserves to be played and enjoyed - <strong>Puppeteer</strong><br><br>Celebrate the artists and artistry of these games and join this club!",
+    blurb: "Coming from a background in the Performing Arts, I have found I enjoy games that have a better pedigree of vocal talent and a certain theatricality to the story within the game. I present to you some of the finest performances found on the PS3, in Five Acts!<br><br><strong>I:</strong> The excellent mo-cap and voice work of Academy Award nominated/Independent Spirit Award winners Ellen Paige and Willem Dafoe, and Dwayne Wayne himself, Kadeem Hardison, will captivate in <strong>Beyond: Two Souls</strong><br><br><strong>II:</strong> The voice-over powerhouses of Courtnee Draper and Troy Baker will excite and amaze through story and song (pick up a guitar when you can and stick around for the credits) in <strong>Bioshock Infinite</strong><br><br><strong>III:</strong> The world's most famous motion capture artist, Andy Serkis, and the voice-over artist who really likes to play pig characters, Richard Ridings, will entertain in <strong>Enslaved: Odyssey to the West</storng><br><br><strong>IV:</strong> <strike>Opera Singer and award-winning voice actress Ellen McLain, Emmy/BAFTA/Writer's Guild award winner Stephen Merchant and Academy Award winner JK Simmons will elicit laughter in an otherwise desolate testing facility in <strong>Portal 2</strong></strike> The Stage Manager is signaling that the plat for Portal 2 is nearly unobtainable with current online issues...so, playing the role of Portal 2 tonight will be <strong>Quantum Conundrum</strong> following our puppet show...(good luck!)<br><br><strong>V:</strong> Our show will close with a full puppet performance that deserves to be played and enjoyed - <strong>Puppeteer</strong><br><br>Celebrate the artists and artistry of these games and join this club!",
     games: [{
         game: "Beyond: Two Souls",
         imag: "http://www.ps3trophies.org/images/trophies/1585/ico.png"
@@ -1909,6 +1909,240 @@ var lists = [{
     },{
         game: "Limbo",
         imag: "http://www.ps3trophies.org/images/trophies/1119/ico.png"
+    }]
+},{
+    listName: "Raven's Housemarque's the Spot Subscriber Club",
+    award: sub_icon,
+    blurb: "Housemarque is one of my favourite developers, and I've thoroughly enjoyed all of the games on this list. If you like twin-stick shooters, then Housemarque's the spot for you.",
+    games: [{
+        game: "Alienation",
+        imag: "http://www.ps3trophies.org/images/trophies/3567/ico.png"
+    },{
+        game: "Dead Nation",
+        imag: "http://www.ps3trophies.org/images/trophies/2684/ico.png"
+    },{
+        game: "Resogun",
+        imag: "http://www.ps3trophies.org/images/trophies/2229/ico.png"
+    },{
+        game: "Super Stardust HD",
+        imag: "https://www.playstationtrophies.org/images/trophies/3273/ico.png"
+    }]
+},{
+    listName: "Raven's Weeaboo Wonderland MotM Club",
+    award: motm_icon,
+    blurb: "Anyone who knows me would know that I have a love for all things Japan. These 5 games represent some of my favourite Japanese franchises.",
+    games: [{
+        game: "Atelier Escha and Logy: The Alchemists of Dusk Sky",
+        imag: "https://www.playstationtrophies.org/images/trophies/2147/ico.png"
+    },{
+        game: "BlazBlue: Chrono Phantasma",
+        imag: "http://www.ps3trophies.org/images/trophies/2340/ico.png"
+    },{
+        game: "Hyperdimension Neptunia Victory",
+        imag: "http://www.ps3trophies.org/images/trophies/1892/ico.png"
+    },{
+        game: "Tales of Xillia",
+        imag: "http://www.ps3trophies.org/images/trophies/852/ico.png"
+    },{
+        game: "Ys: Foliage Ocean in Celceta/Ys: Memories of Celceta",
+        imag: "https://www.playstationtrophies.org/images/trophies/2412/ico.png"
+    }]
+},{
+    listName: "Rawanz's Story Time Subscriber Club",
+    award: sub_icon,
+    blurb: "It is no secret that I love Japanese games. And especially Japanese story-driven games. So here are 5 of my favourite games/franchises across PS3, PS4 and PSV that I absolutely love! Hope you enjoy them as much as I do!",
+    games: [{
+        game: "Ar nosurge: Ode to an Unborn Star",
+        imag: "https://www.playstationtrophies.org/images/trophies/2591/ico.png"
+    },{
+        game: "Danganronpa: Trigger Happy Havoc",
+        imag: "https://www.playstationtrophies.org/images/trophies/2542/ico.png"
+    },{
+        game: "Danganronpa 2: Goodbye Despair",
+        imag: "https://www.playstationtrophies.org/images/trophies/3041/ico.png"
+    },{
+        game: "Yoru no Nai Kuni",
+        imag: "http://www.ps3trophies.org/images/trophies/4005/ico.png"
+    },{
+        game: "Tales of Xillia",
+        imag: "http://www.ps3trophies.org/images/trophies/852/ico.png"
+    }]
+},{
+    listName: "RED_REBEL44's TROPHIES R FUN AND CUTE! MotM Club",
+    award: motm_icon,
+    blurb: "VERY FUN AND CUTE TROPHIES! COLLECT NOW!",
+    games: [{
+        game: "Alien Breed 2: Assault",
+        imag: "http://www.ps3trophies.org/images/trophies/728/ico.png"
+    },{
+        game: "Battlefield 3",
+        imag: "http://www.ps3trophies.org/images/trophies/883/ico.png"
+    },{
+        game: "Call of Duty: World at War",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_C2D9946E9875354F46925399161A756896AD5270/ECAAE6F2BB91086DE62D9D12EE077128916BAA4F.PNG"
+    },{
+        game: "Spec Ops: The Line",
+        imag: "http://www.ps3trophies.org/images/trophies/613/ico.png"
+    },{
+        game: "Unit 13",
+        imag: "http://www.ps3trophies.org/images/trophies/1321/ico.png"
+    }]
+},{
+    listName: "Remmie's Reasonable Request MotM Club",
+    award: motm_icon,
+    blurb: "Do you like long and/or difficult grinds where the only payoff is a digital checkmark to validate your bragging rights? Well, you're in luck!. Unlike what the totally-non-sarcastic title suggests, this club is not for the faint of heart. So stock up on energy drinks and stress balls and join me on a journey of frustration, wonder (accompanied by the phrase 'Oh god... why?!') and ultimately pure ecstasy.",
+    games: [{
+        game: "Mirror’s Edge",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00499_00_9F108AAA00E92367AD4945465CF066A8E39CFC5E/6059C099B263FDED8315936BC0F583643BEAEA1D.PNG"
+    },{
+        game: "Mortal Kombat",
+        imag: "http://www.ps3trophies.org/images/trophies/593/ico.png"
+    },{
+        game: "Vanquish",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR01135_00_6D67F17B6477187872920B1D800E506B758010DA/F52BD73FF669FD348DB65B78FD942BCB64CAD4A1.PNG"
+    },{
+        game: "Warhawk",
+        imag: "https://i.imgur.com/VKPsmt5.png"
+    },{
+        game: "WipEout HD",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00187_00_73B55B3F2BEC0151DA949550217B2472E4F98EA7/9154A7ABD8E600DB7576AF184E4E8987CC85E9CD.PNG"
+    }]
+},{
+    listName: "Resolute's Time Well Spent Subscriber Club",
+    award: sub_icon,
+    blurb: "From good memories of playing their predecessor's on the PS2 (WipeEout), to indulging a narrated story about a bunch of shapes, these games sit highly amongst my most enjoyed games.",
+    games: [{
+        game: "Dead Nation",
+        imag: "http://www.ps3trophies.org/images/trophies/592/ico.png"
+    },{
+        game: "Destiny",
+        imag: "https://www.playstationtrophies.org/images/trophies/1542/ico.png"
+    },{
+        game: "LittleBigPlanet",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00160_00_5C9D36CE88677B5E56887E5A3AD29D68E5EC01DE/A0569D533D3BA6DDC038FC2879AD07EA225C7A38.PNG"
+    },{
+        game: "Thomas Was Alone",
+        imag: "http://www.ps3trophies.org/images/trophies/1947/ico.png"
+    },{
+        game: "WipEout HD",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00187_00_73B55B3F2BEC0151DA949550217B2472E4F98EA7/9154A7ABD8E600DB7576AF184E4E8987CC85E9CD.PNG"
+    }]
+},{
+    listName: "Resolute's Wrath, Ruin and Retribution MotM Club",
+    award:  motm_icon,
+    blurb: "Some foul beings need their arses handed to them on a plate. These games are no exception.",
+    games: [{
+        game: "Assassin's Creed: Brotherhood",
+        imag: "http://www.ps3trophies.org/images/trophies/362/ico.png"
+    },{
+        game: "Call of Duty: Black Ops",
+        imag: "http://www.ps3trophies.org/images/trophies/344/ico.png"
+    },{
+        game: "Darksiders",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00986_00_CC48BC78B3DB926F01440E2E60021F0EC623283D/412FD07E410DF9E0248F5225F7D86141C47B6F67.PNG"
+    },{
+        game: "God of War III",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00801_00_4B4C5D6628DF5F38F95120ED06CA733081D44F4C/85C73ACA02B3425A38A428F255F60C5ACABB6C2A.PNG"
+    },{
+        game: "Prototype 2",
+        imag: "http://www.ps3trophies.org/images/trophies/848/ico.png"
+    }]
+},{
+    listName: "Resonating Starfall's Shining Stars Subscriber Club",
+    award: sub_icon,
+    blurb: "Enjoy a game from each of my favorite game series! These are some of the shining stars in my gaming life that Resonate the soul!",
+    games: [{
+        game: "Battlefield 4",
+        imag: "https://www.playstationtrophies.org/images/trophies/2235/ico.png"
+    },{
+        game: "Destiny",
+        imag: "https://www.playstationtrophies.org/images/trophies/1542/ico.png"
+    },{
+        game: "Gravity Rush",
+        imag: "https://www.playstationtrophies.org/images/trophies/3941/ico.png"
+    },{
+        game: "inFamous: Second Son",
+        imag: "https://www.playstationtrophies.org/images/trophies/1936/ico.png"
+    },{
+        game: "Naruto Shippuden: Ultimate Ninja Storm 4",
+        imag: "https://www.playstationtrophies.org/images/trophies/3306/ico.png"
+    }]
+},{
+    listName: "Respectable Inn's Role-Playing Sandbox Shooter Club",
+    award: sub_icon,
+    blurb: "I chose these games because they are from among my favourite franchises.",
+    games: [{
+        game: "Borderlands 2",
+        imag: "https://www.playstationtrophies.org/images/trophies/3497/ico.png"
+    },{
+        game: "Diablo III:Reaper of Souls",
+        imag: "https://www.playstationtrophies.org/images/trophies/2985/ico.png"
+    },{
+        game: "Lego Marvel Avengers",
+        imag: "https://www.playstationtrophies.org/images/trophies/3378/ico.png"
+    },{
+        game: "Mafia III",
+        imag: "https://www.playstationtrophies.org/images/trophies/3853/ico.png"
+    },{
+        game: "Sleeping Dogs",
+        imag: "https://www.playstationtrophies.org/images/trophies/3103/ico.png"
+    }]
+},{
+    listName: "Robinworldwide's The Odd One Out Subscriber Club",
+    award: sub_icon,
+    blurb: "For people that love unconventional games!",
+    games: [{
+        game: "Defense Grid 2",
+        imag: "https://www.playstationtrophies.org/images/trophies/2599/ico.png"
+    },{
+        game: "LittleBigPlanet 3",
+        imag: "https://www.playstationtrophies.org/images/trophies/2839/ico.png"
+    },{
+        game: "Peggle 2",
+        imag: "https://www.playstationtrophies.org/images/trophies/3034/ico.png"
+    },{
+        game: "Tropico 5",
+        imag: "http://www.ps3trophies.org/images/trophies/2521/ico.png"
+    }]
+},{
+    listName: "russelguppy's Subscriber Club of Random Games",
+    award: sub_icon,
+    blurb: "A weird and eclectic mix of games that I have enjoyed playing and completing. Hope you find some games you might not have played before in trying to join this club.",
+    games: [{
+        game: "Disney Infinity 2.0",
+        imag: "https://www.playstationtrophies.org/images/trophies/2724/ico.png"
+    },{
+        game: "Get Fit With Mel B",
+        imag: "https://i.imgur.com/cEKZ9A0.png"
+    },{
+        game: "Need for Speed: Most Wanted",
+        imag: "https://www.playstationtrophies.org/images/trophies/1579/ico.png"
+    },{
+        game: "The Elder Scrolls V: Skyrim",
+        imag: "https://www.playstationtrophies.org/images/trophies/826/ico.png"
+    },{
+        game: "The Witcher 3: Wild Hunt",
+        imag: "https://www.playstationtrophies.org/images/trophies/1904/ico.png"
+    }]
+},{
+    listName: "Ryukori's RPG Realm MotM Club",
+    award: motm_icon,
+    blurb: "These are some of my favourite RPGs to land on PlayStation consoles. These are the reasons why I chose each game:<br><br>Akiba's Trip 2 - As a huge anime and JRPG fan, this game was a must-play for me. The references to several anime series and JRPGs, the typical heroine capture routes, and exploring around Akihabara were all fun aspects to this game.<br><br>Bloodborne - The gameplay, soundtrack, level and boss designs, and atmosphere were all phenomenal in this game. It was the first RPG on PS4 I played that I could sink countless hours into. Obtaining the in this game was a big gaming accomplishment for me as well.<br><br>Dragon's Dogma - Everything about this game was done so well and really pushed the PS3's hardware limits. The massive world to explore, graphics, enemy designs, soundtrack, and gameplay were all fantastic. This is one of my most played games on PS3.<br><br>Final Fantasy XIII - I'm a huge Final Fantasy fan, and this was the first Final Fantasy game to get trophies. Getting the was time-consuming yet satisfying, but I enjoyed every second of it, even the grinds.<br><br>Ni ni Kuni: Wrath of the White Witch - This is my favourite game on PS3, and one of my favourite RPGs of all time. Studio Ghibli, one of the greatest animation studios of all time, took part in developing this game. I'm a huge fan of Studio Ghibli and their movies, and I loved the references in this game to some of those movies. This is a perfect game, and deserves no less than a 10/10.",
+    games: [{
+        game: "AKIBA'S TRIP: Undead ＆ Undressed",
+        imag: "https://www.playstationtrophies.org/images/trophies/2956/ico.png"
+    },{
+        game: "Bloodborne",
+        imag: "https://www.playstationtrophies.org/images/trophies/2840/ico.png"
+    },{
+        game: "Dragon's Dogma",
+        imag: "http://www.ps3trophies.org/images/trophies/994/ico.png"
+    },{
+        game: "Final Fantasy XIII",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00774_00_CDCA3041C79D46EAA32C271071536AC6F45AE379/D2E61445F80BEAF5F84A17040A0BF701AE47142F.PNG"
+    },{
+        game: "Ni No Kuni: Wrath of the White Witch",
+        imag: "http://www.ps3trophies.org/images/trophies/1399/ico.png"
     }]
 // },{
     // listName: "",
