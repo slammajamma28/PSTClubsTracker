@@ -2343,7 +2343,7 @@ var lists = [{
     }]
 },{
     listName: "Solstice's South of Heaven Subscriber Club",
-    award: ,
+    award: sub_icon,
     blurb: "Hell - it's a hot place but a cool concept. I always found the idea of a physical hell intriguing. A special place reserved for the degenerates and scum of the earth. But hell comes in many forms. There is also a mental hell - an insanity that lives inside every human mind. Some are slaves to their own hell, others know how to fight it. Aside from being absolutely badass, all of these games deal with hell in one form or another. This club encapsulates burdensome hallucinations, overtly powerful love, and straight up demon bloodbaths, all driven by forces of hell, and it will certainly satisfy your prescribed dosage of chaos :devil:.",
     games: [{
         game: "Alice: Madness Returns",
