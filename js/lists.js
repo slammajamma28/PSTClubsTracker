@@ -1453,6 +1453,403 @@ var lists = [{
         game: "Soul Calibur V",
         imag: "http://www.ps3trophies.org/images/trophies/1016/ico.png"
     }]
+},{
+    listName: "MikelAL93's Modern Favorites Sub Club",
+    award: sub_icon,
+    blurb: "This club includes some of my favorite games from the modern era of video games, ranging from Guacamelee to Tekken 7, the latest installment of the Tekken series.",
+    games: [{
+        game: "Gravity Rush",
+        imag: "https://www.playstationtrophies.org/images/trophies/1392/ico.png"
+    },{
+        game: "Guacamelee Super Turbo Championship Edition",
+        imag: "https://i.imgur.com/vCywWkn.png"
+    },{
+        game: "Marvel's Guardians of the Galaxy: The Telltale Series",
+        imag: "https://www.playstationtrophies.org/images/trophies/5629/ico.png"
+    },{
+        game: "Prototype 2",
+        imag: "https://i.imgur.com/UuS15gK.png"
+    },{
+        game: "Tekken 7",
+        imag: "https://www.playstationtrophies.org/images/trophies/2915/ico.png"
+    }]
+},{
+    listName: "MikelAL93's Modern Favorites: Japanese Edition MoTM Club",
+    award: motm_icon,
+    blurb: "Most of my friends in here and in my cosplay scene know that I am into anime and all things related to Japanese culture, and the games featured in this club are the embodiment of my love and appreciation for Japanese video games, as well as their developers.",
+    games: [{
+        game: "Asdivine Hearts",
+        imag: "https://www.playstationtrophies.org/images/trophies/5352/ico.png"
+    },{
+        game: "Final Fantasy XV",
+        imag: "https://www.playstationtrophies.org/images/trophies/462/ico.png"
+    },{
+        game: "Gravity Rush 2",
+        imag: "https://www.playstationtrophies.org/images/trophies/3942/ico.png"
+    },{
+        game: "NieR: Automata",
+        imag: "https://www.playstationtrophies.org/images/trophies/4086/ico.png"
+    },{
+        game: "XBlaze Lost: Memories",
+        imag: "https://www.playstationtrophies.org/images/trophies/3866/ico.png"
+    }]
+},{
+    listName: "mjc's Not Every Game Is Brown And Gray And Makes You Shove A Gun Up Your Nose Club",
+    award: sub_icon,
+    blurb: "Can you believe that some people still complain that all of modern AAA gaming is a bunch of brown and gray first person shooters? Here's a selection of games that are colorful and/or have interesting art styles, and aren't about running around looking down iron sights so you can shoot at Middle Eastern or Russian people.",
+    games: [{
+        game: "Knack",
+        imag: "http://www.ps3trophies.org/images/trophies/1930/ico.png"
+    },{
+        game: "No More Heroes: Heroes' Paradise",
+        imag: "http://www.ps3trophies.org/images/trophies/532/ico.png"
+    },{
+        game: "Ratchet & Clank: A Crack in Time",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00941_00_30B6448446D5CA495F412655813F5EF4A342448A/DEE9F8BB5D3031BCC1EA0BA17D6A7E26DF96BF26.PNG"
+    },{
+        game: "Remember Me",
+        imag: "http://www.ps3trophies.org/images/trophies/1671/ico.png"
+    },{
+        game: "Tearaway",
+        imag: "http://www.ps3trophies.org/images/trophies/1674/ico.png"
+    }]
+},{
+    listName: "MK's Memory Mementos Pt1 Subscriber Club",
+    award: sub_icon,
+    blurb: "These are games that I really enjoyed and have fond memories playing!",
+    games: [{
+        game: "Far Cry 4",
+        imag: "https://www.playstationtrophies.org/images/trophies/2778/ico.png"
+    },{
+        game: "Heavy Rain",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00324_00_329289A42218A5976C0B7382FE2B776D4AD99105/28C88C64592408983367C63E71C19BAF64676C6D.PNG"
+    },{
+        game: "L.A. Noire",
+        imag: "http://www.ps3trophies.org/images/trophies/358/ico.png"
+    },{
+        game: "South Park: The Stick of Truth",
+        imag: "https://www.playstationtrophies.org/images/trophies/1314/ico.png"
+    },{
+        game: "Wolfenstein: The New Order",
+        imag: "https://www.playstationtrophies.org/images/trophies/2771/ico.png"
+    }]
+},{
+    listName: "MK's Memory Mementos Pt2 MoTM Club",
+    award: motm_icon,
+    blurb: "Another batch of my favourite games that I have fond memories playing",
+    games: [{
+        game: "Call of Duty: Modern Warfare 2",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00791_00_44468E11DB1E6DC3F7AC4728ED03C1278F8F23E8/2DA80D908EDA1F75165EB6402C88D5BAD82B0E6B.PNG"
+    },{
+        game: "Duke Nukem Forever",
+        imag: "http://www.ps3trophies.org/images/trophies/730/ico.png"
+    },{
+        game: "Red Dead Redemption",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00867_00_3C04BB5C8E8B922C223411F0E040983D86D4B864/27D02EB3579FF13B05CB8707B7B6C79AD14C6332.PNG"
+    },{
+        game: "Rocket League",
+        imag: "http://www.ps3trophies.org/images/trophies/3583/ico.png"
+    },{
+        game: "Tales From the Borderlands",
+        imag: "http://www.ps3trophies.org/images/trophies/3247/ico.png"
+    }]
+},{
+    listName: "Monarch's Innovator of Azure Subscriber Club",
+    award: sub_icon,
+    blurb: "The Blazblue series are not only great fighting game titles, but have pretty well designed stories compared to most fighting games. If you're looking for an engaging series inside fights and outside of story mode, you've come to the right place. Platinum these titles to prove to you and your friends that you're the true Innovator of Azure.",
+    games: [{
+        game: "BlazBlue: Calamity Trigger",
+        imag: "https://i.imgur.com/NrdGg1J.png"
+    },{
+        game: "BlazBlue: Central Fiction",
+        imag: "https://www.playstationtrophies.org/images/trophies/4773/ico.png"
+    },{
+        game: "BlazBlue: Chrono Phantasma",
+        imag: "https://www.playstationtrophies.org/images/trophies/2340/ico.png"
+    },{
+        game: "BlazBlue: Chrono Phantasma Extend",
+        imag: "https://www.playstationtrophies.org/images/trophies/3581/ico.png"
+    },{
+        game: "BlazBlue: Continuum Shift Extend",
+        imag: "https://www.playstationtrophies.org/images/trophies/1313/ico.png"
+    }]
+},{
+    listName: "morg106's '...king sixty three hundred dollar suit! COME ON!' MotM Club",
+    award: motm_icon,
+    blurb: "When creating this club I wanted to show some love to games on PS3 that I really enjoyed, that would hopefully be achievable for a long time due to a lack of online trophies, and that surprisingly (to me) didn't appear in any other clubs to date. After a LOT of narrowing down, this is what I came up with!",
+    games: [{
+        game: "LEGO Batman 2: DC Super Heroes (PS3)",
+        imag: "https://www.playstationtrophies.org/images/trophies/1347/ico.png"
+    },{
+        game: "Mini Ninjas",
+        imag: "https://i.imgur.com/LibC7IV.png"
+    },{
+        game: "The Amazing Spider-Man (PS3)",
+        imag: "https://www.playstationtrophies.org/images/trophies/1222/ico.png"
+    },{
+        game: "The Saboteur",
+        imag: "https://i.imgur.com/A9OUAPQ.png"
+    },{
+        game: "The Saboteur",
+        imag: "https://i.imgur.com/s82xuze.png"
+    }]
+},{
+    listName: "morg106's 'No Al, I wanna spill booze all over my fuc...' Subscriber Club",
+    award: sub_icon,
+    blurb: "All of these games made me super happy to be gaming - absolutely hours of fun to be had with all of them, the kind of games where you are sad that the trophy earning is complete, so you continue playing anyway!",
+    games: [{
+        game: "Invector",
+        imag: "https://www.playstationtrophies.org/images/trophies/6594/ico.png"
+    },{
+        game: "Overcooked 2",
+        imag: "https://www.playstationtrophies.org/images/trophies/7527/ico.png"
+    },{
+        game: "Peggle 2",
+        imag: "https://www.playstationtrophies.org/images/trophies/3034/ico.png"
+    },{
+        game: "Persona 4: Dancing All Night",
+        imag: "https://www.playstationtrophies.org/images/trophies/7964/ico.png"
+    },{
+        game: "Spyro the Dragon",
+        imag: "https://www.playstationtrophies.org/images/trophies/7210/ico.png"
+    }]
+},{
+    listName: "MrBeens' Hours of Fun and Re-playability Subscriber Club",
+    award: sub_icon,
+    blurb: "Great games don't need online or DLC to force you to extend their playtime. Great games keep you coming back long after you earn the platinum. Great games just give you pure unadulterated joy when you play them. These are my top picks for games that I want to keep playing long after I am 'done' with them.",
+    games: [{
+        game: "Double Dragon: Neon",
+        imag: "http://www.ps3trophies.org/images/trophies/1493/ico.png"
+    },{
+        game: "Dragon's Crown",
+        imag: "http://www.ps3trophies.org/images/trophies/1088/ico.png"
+    },{
+        game: "Lollipop Chainsaw",
+        imag: "http://www.ps3trophies.org/images/trophies/1134/ico.png"
+    },{
+        game: "Rayman Origins",
+        imag: "http://www.ps3trophies.org/images/trophies/651/ico.png"
+    },{
+        game: "Velocity 2X",
+        imag: "https://www.playstationtrophies.org/images/trophies/2535/ico.png"
+    }]
+},{
+    listName: "neosnake's Dark Corners and Deadly Shadows (and Cardboard Boxes) Subscriber Club",
+    award: sub_icon,
+    blurb: "Will you be able to sneak in to my club? ... !",
+    games: [{
+        game: "Deus Ex: Human Revolution - Director's Cut",
+        imag: "http://www.ps3trophies.org/images/trophies/2341/ico.png"
+    },{
+        game: "Dishonored",
+        imag: "http://www.ps3trophies.org/images/trophies/3718/ico.png"
+    },{
+        game: "Hitman: Absolution",
+        imag: "http://www.ps3trophies.org/images/trophies/678/ico.png"
+    },{
+        game: "Metal Gear Solid V: The Phantom Pain",
+        imag: "http://www.ps3trophies.org/images/trophies/2860/ico.png"
+    },{
+        game: "Tom Clancy's Splinter Cell: Blacklist",
+        imag: "http://www.ps3trophies.org/images/trophies/1584/ico.png"
+    }]
+},{
+    listName: "Nobody's Flawlessly Grotesque Subscriber Club",
+    award: sub_icon,
+    blurb: "I am extremely proud that I was capable of getting the platinum trophy for these games.",
+    games: [{
+        game: "Dead Space 2",
+        imag: "http://www.ps3trophies.org/images/trophies/355/ico.png"
+    },{
+        game: "Tom Clancy's Ghost Recon: Future Soldier",
+        imag: "http://www.ps3trophies.org/images/trophies/410/ico.png"
+    },{
+        game: "Max Payne 3",
+        imag: "http://www.ps3trophies.org/images/trophies/353/ico.png"
+    },{
+        game: "Mirror's Edge",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00499_00_9F108AAA00E92367AD4945465CF066A8E39CFC5E/6059C099B263FDED8315936BC0F583643BEAEA1D.PNG"
+    },{
+        game: "Mortal Kombat",
+        imag: "http://www.ps3trophies.org/images/trophies/593/ico.png"
+    }]
+},{
+    listName: "NOID'S CALL OF DUTY!!! MotM Club",
+    award: motm_icon,
+    blurb: "CALL OF DUTY!!! I've loved the series since it's inception, and will continue to buy them so long as they keep pushing them out. There's something about the FEEL of the controls and the action that other series just can't compete with!<br><br>Will you answer the Call... of DUTY!?.",
+    games: [{
+        game: "Call of Duty: Advanced Warfare",
+        imag: "https://www.playstationtrophies.org/images/trophies/2747/ico.png"
+    },{
+        game: "Call of Duty: Black Ops",
+        imag: "http://www.ps3trophies.org/images/trophies/344/ico.png"
+    },{
+        game: "Call of Duty: Classic",
+        imag: "https://www.playstationtrophies.org/images/trophies/277/ico.png"
+    },{
+        game: "Call of Duty: Ghosts",
+        imag: "http://www.ps3trophies.org/images/trophies/2237/ico.png"
+    },{
+        game: "Call of Duty: World at War",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_C2D9946E9875354F46925399161A756896AD5270/ECAAE6F2BB91086DE62D9D12EE077128916BAA4F.PNG"
+    }]
+},{
+    listName: "Noid's CALL OF DUTY!!! V2.0 Subscriber Club",
+    award: motm_icon,
+    blurb: "Complete both of my lists to be the ultimate Call of Duty Veteran!!!",
+    games: [{
+        game: "Call of Duty: Black Ops II",
+        imag: "http://www.ps3trophies.org/images/trophies/1344/ico.png"
+    },{
+        game: "Call of Duty: Black Ops Declassified",
+        imag: "http://www.ps3trophies.org/images/trophies/1586/ico.png"
+    },{
+        game: "Call of Duty: Modern Warfare 2",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00791_00_44468E11DB1E6DC3F7AC4728ED03C1278F8F23E8/2DA80D908EDA1F75165EB6402C88D5BAD82B0E6B.PNG"
+    },{
+        game: "Call of Duty: Modern Warfare 3",
+        imag: "http://www.ps3trophies.org/images/trophies/422/ico.png"
+    }]
+},{
+    listName: "number45_ Thanks You For The Recommendation Subscriber Club",
+    award: sub_icon,
+    blurb: "These games have been recommended to me either by an online or IRL friend and they've become some of my most enjoyed and favourite games of all time.",
+    games: [{
+        game: "BioShock",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/3FE4DC7CCA33D213D17E378E482271FC7A94EEF0.PNG"
+    },{
+        game: "Deus Ex: Human Revolution - Director's Cut",
+        imag: "http://www.ps3trophies.org/images/trophies/2341/ico.png"
+    },{
+        game: "Resident Evil 4 HD",
+        imag: "http://www.ps3trophies.org/images/trophies/965/ico.png"
+    },{
+        game: "Uncharted: Drake's Fortune",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00449_00_924E0C4EDAD265469D550C987B195F3B74DDED3A/B0C5F9033C9555B3F9E5CBDBF00CD1CD282F9379.PNG"
+    },{
+        game: "Zero Escape: Virtue's Last Reward",
+        imag: "http://www.ps3trophies.org/images/trophies/1773/ico.png"
+    }]
+},{
+    listName: "Olsen's Majestic Co-op Experiences MotM Club",
+    award: motm_icon,
+    blurb: "",
+    games: [{
+        game: "Battlefield 3",
+        imag: "http://www.ps3trophies.org/images/trophies/883/ico.png"
+    },{
+        game: "Call of Duty: Modern Warfare 3",
+        imag: "http://www.ps3trophies.org/images/trophies/422/ico.png"
+    },{
+        game: "Portal 2",
+        imag: "http://www.ps3trophies.org/images/trophies/610/ico.png"
+    },{
+        game: "Starhawk",
+        imag: "http://www.ps3trophies.org/images/trophies/421/ico.png"
+    },{
+        game: "Trine 2",
+        imag: "http://www.ps3trophies.org/images/trophies/601/ico.png"
+    }]
+},{
+    listName: "pennysticks MotM Club That You Must Complete",
+    award: motm_icon,
+    blurb: "Four beautiful games (and Goat Simulator) have been assembled here because they all have one thing in common - each has a final hurtle to overcome to obtain the platinum or 100%. Alien: Isolation, a well-executed hommage to Ridley Scott's films, tasks you with getting through the entire nerve-racking, weaponless experience without dying in the trophy <strong>One Shot</strong>. Braid requires memorization and split second reflexes for its Full Speed Run trophy. Goat Simulator is 98% easy, silly, glitchy and enjoyable fun and 2% Flappy Goat for <strong>The Flapmaster</strong> trophy. Limbo is a dark and treacherous platformer that must be finished with 5 or less deaths with the <strong>No Point in Dying</strong> trophy. The Witness is a lush, colorful puzzler that requires you to run a gauntlet of puzzles while listening to Grieg's 'Anitra's Dance' and 'In the Hall of the Mountain King' for the <strong>Challenge</strong> trophy. Each game is worth playing regardless, but overcoming these trophies make the road to completion for these games that much more rewarding.",
+    games: [{
+        game: "Alien: Isolation",
+        imag: "https://i.psnprofiles.com/games/181d3e/L78fd34.png"
+    },{
+        game: "Braid",
+        imag: "https://cdn.discordapp.com/attachments/330370488356306955/380108007041794049/L3947e0.png"
+    },{
+        game: "Goat Simulator",
+        imag: "https://i.psnprofiles.com/games/f36c1d/L14da0b.png"
+    },{
+        game: "Limbo",
+        imag: "https://cdn.discordapp.com/attachments/330370488356306955/380107304261124106/ico.png"
+    },{
+        game: "The Witness",
+        imag: "https://i.psnprofiles.com/games/e44d2b/L5d1a3d.png"
+    }]
+},{
+    listName: "Pennysticks' Great Performances Subscriber Club",
+    award: sub_icon,
+    blurb: "Coming from a background in the Performing Arts, I have found I enjoy games that have a better pedigree of vocal talent and a certain theatricality to the story within the game. I present to you some of the finest performances found on the PS3, in Five Acts!<br><br><strong>I:</strong> The excellent mo-cap and voice work of Academy Award nominated/Independent Spirit Award winners Ellen Paige and Willem Dafoe, and Dwayne Wayne himself, Kadeem Hardison, will captivate in <strong>Beyond: Two Souls</strong><br><br><strong>II:</strong> The voice-over powerhouses of Courtnee Draper and Troy Baker will excite and amaze through story and song (pick up a guitar when you can and stick around for the credits) in <strong>Bioshock Infinite</strong><br><br><strong>III:</strong> The world's most famous motion capture artist, Andy Serkis, and the voice-over artist who really likes to play pig characters, Richard Ridings, will entertain in <strong>Enslaved: Odyssey to the West</storng><br><br><strong>IV:</strong> <strike>Opera Singer and award-winning voice actress Ellen McLain, Emmy/BAFTA/Writer's Guild award winner Stephen Merchant and Academy Award winner JK Simmons will elicit laughter in an otherwise desolate testing facility in <strong>Portal 2</strong><strike> The Stage Manager is signaling that the plat for Portal 2 is nearly unobtainable with current online issues...so, playing the role of Portal 2 tonight will be <strong>Quantum Conundrum</strong> following our puppet show...(good luck!)<br><br><strong>V:</strong> Our show will close with a full puppet performance that deserves to be played and enjoyed - <strong>Puppeteer</strong><br><br>Celebrate the artists and artistry of these games and join this club!",
+    games: [{
+        game: "Beyond: Two Souls",
+        imag: "http://www.ps3trophies.org/images/trophies/1585/ico.png"
+    },{
+        game: "BioShock Infinite",
+        imag: "http://www.ps3trophies.org/images/trophies/700/ico.png"
+    },{
+        game: "Enslaved: Odyssey to the West",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR01359_00_DFB3F6670681596BB95B922A41CAE0902D1EFBE3/B78BFE5D71942B3CE39A23C3BFA99E8672E5F7CA.PNG"
+    },{
+        game: "Puppeteer",
+        imag: "http://www.ps3trophies.org/images/trophies/1678/ico.png"
+    },{
+        game: "Quantum Conundrum",
+        imag: "http://www.ps3trophies.org/images/trophies/1173/ico.png"
+    }]
+},{
+    listName: "PowerPyx's Path of Perfection MotM Club",
+    award: motm_icon,
+    blurb: "Behold! You are about to embark on a journey of perfection.<br>These are the best of the best must-have games - the ones I consider perfect. If you don't platinum these bad boys you are missing out :whistle:",
+    games: [{
+        game: "Bloodborne",
+        imag: "https://www.playstationtrophies.org/images/trophies/2840/ico.png"
+    },{
+        game: "Grand Theft Auto V",
+        imag: "http://www.ps3trophies.org/images/trophies/687/ico.png"
+    },{
+        game: "Metal Gear Solid V: The Phantom Pain",
+        imag: "http://www.ps3trophies.org/images/trophies/2860/ico.png"
+    },{
+        game: "The Witcher 3: Wild Hunt",
+        imag: "https://www.playstationtrophies.org/images/trophies/1904/ico.png"
+    },{
+        game: "Uncharted 4: A Thief's End",
+        imag: "https://www.playstationtrophies.org/images/trophies/2388/ico.png"
+    }]
+},{
+    listName: "Pricey403's EZ PZ Sub Club",
+    award: sub_icon,
+    blurb: "5 EZ PZ games that I've had fun playing/platting over the last year and that everyone should at least try once",
+    games: [{
+        game: "Call of Duty: Modern Warfare Remastered",
+        imag: "https://www.playstationtrophies.org/images/trophies/4594/ico.png"
+    },{
+        game: "NieR: Automata",
+        imag: "https://www.playstationtrophies.org/images/trophies/4086/ico.png"
+    },{
+        game: "The Sexy Brutale",
+        imag: "https://www.playstationtrophies.org/images/trophies/4903/ico.png"
+    },{
+        game: "Thumper",
+        imag: "https://www.playstationtrophies.org/images/trophies/3698/ico.png"
+    },{
+        game: "Ratchet & Clank",
+        imag: "https://www.playstationtrophies.org/images/trophies/2842/ico.png"
+    }]
+},{
+    listName: "prozendaal's Patrick & Clank Subscriber Club",
+    award: sub_icon,
+    blurb: "I love Ratchet & Clank. These are my favourite from the series.",
+    games: [{
+        game: "Ratchet & Clank: A Crack in Time",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00941_00_30B6448446D5CA495F412655813F5EF4A342448A/DEE9F8BB5D3031BCC1EA0BA17D6A7E26DF96BF26.PNG"
+    },{
+        game: "Ratchet & Clank HD",
+        imag: "http://www.ps3trophies.org/images/trophies/1436/ico.png"
+    },{
+        game: "Ratchet & Clank: Going Commando HD",
+        imag: "http://www.ps3trophies.org/images/trophies/1454/ico.png"
+    },{
+        game: "Ratchet & Clank: Up Your Arsenal HD",
+        imag: "http://www.ps3trophies.org/images/trophies/1455/ico.png"
+    },{
+        game: "Ratchet: Deadlocked HD",
+        imag: "http://www.ps3trophies.org/images/trophies/1705/ico.png"
+    }]
 // },{
     // listName: "",
     // award: ,
