@@ -105,7 +105,7 @@ function calculate() {
         // console.log(lists[a].listName + " was at " + thisLS);
         var actualEarned = 0;
         for (var b = 0; b < lists[a].games.length; b++) {
-            if (localStorage.getItem("g-"+lists[a].games[b].game) != null ) {
+            if (localStorage.getItem("c-"+lists[a].games[b].game) != null ) {
                 // console.log("Completed Game: " + lists[a].games[b].game);
                 actualEarned++;
             }
@@ -136,13 +136,13 @@ function listSelected(clickedList){
             gameChecked = "",
             ownedChecked = "";
 
-        if(localStorage.getItem("g-" + thisGame.game) == "true"){
+        if(localStorage.getItem("c-" + thisGame.game) == "true"){
             gameEarned = "earned_game";
             gameChecked = "checked=\"true\"";
             gameCount++;
         }
 
-        if(localStorage.getItem("o-" + thisGame.game) == "true"){
+        if(localStorage.getItem("g-" + thisGame.game) == "true"){
             ownedCount++;
             ownedChecked = "checked=\"true\"";
             gameOwned = "own_game";
@@ -267,9 +267,9 @@ function saveTrophy(e) {
     $("#game_count").html(gamesChecked);
 
     if(checked){
-        localStorage.setItem("g-" + thisGame, true);
+        localStorage.setItem("c-" + thisGame, true);
     } else {
-        localStorage.removeItem("g-" + thisGame);
+        localStorage.removeItem("c-" + thisGame);
     }
 
     if(gamesChecked > 0){
@@ -291,9 +291,9 @@ function saveOwned(e) {
     $(e.target).closest(".game").toggleClass("own_game");
 
     if(checked){
-        localStorage.setItem("o-" + thisOwned, true);
+        localStorage.setItem("g-" + thisOwned, true);
     } else {
-        localStorage.removeItem("o-" + thisOwned);
+        localStorage.removeItem("g-" + thisOwned);
     }
 }
 
@@ -377,10 +377,10 @@ $(document).ready(function () {
             gameOWN= "",
         	currentGame = gamesList[i];
         	
-        	if(localStorage.getItem("g-" + currentGame)){
+        	if(localStorage.getItem("c-" + currentGame)){
             	gameGOT = "checked";
             }
-            if(localStorage.getItem("o-" + currentGame)) {
+            if(localStorage.getItem("g-" + currentGame)) {
                 gameOWN = "checked";
             }
 
@@ -391,11 +391,11 @@ $(document).ready(function () {
                 "<h3>" + currentGame + "</h3>" +
                 "</div>" +
                 "<div class=\"col-sm-1 col-xs-3 text-center all-games-game\" style=\"padding: 2px 7px;\">" +
-                "<input type=\"checkbox\" id=\"bygame-checkbox-game-"+ i + "\" class=\"bygame-check-game\" data-game-name=\"g-" + currentGame + "\" " + gameGOT + "/>" +
+                "<input type=\"checkbox\" id=\"bygame-checkbox-game-"+ i + "\" class=\"bygame-check-game\" data-game-name=\"c-" + currentGame + "\" " + gameGOT + "/>" +
                 "<label for=\"bygame-checkbox-game-"+ i + "\" class=\"label-game\">&#10004;</label>" +
                 "</div>" + 
                 "<div class=\"col-sm-1 col-xs-3 text-center all-games-game\" style=\"padding: 2px 7px;\">" +
-                "<input type=\"checkbox\" id=\"bygame-checkbox-own-"+ i + "\" class=\"bygame-check-game\" data-game-name=\"o-" + currentGame + "\" " + gameOWN + "/>" +
+                "<input type=\"checkbox\" id=\"bygame-checkbox-own-"+ i + "\" class=\"bygame-check-game\" data-game-name=\"g-" + currentGame + "\" " + gameOWN + "/>" +
                 "<label for=\"bygame-checkbox-own-"+ i + "\" class=\"label-game\">&#10004;</label>" +
                 "</div>" +
                 "</div>" + 
