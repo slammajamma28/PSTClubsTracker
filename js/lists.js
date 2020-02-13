@@ -1850,6 +1850,66 @@ var lists = [{
         game: "Ratchet: Deadlocked HD",
         imag: "http://www.ps3trophies.org/images/trophies/1705/ico.png"
     }]
+},{
+    listName: "PS4Trophies Guide MotM Club",
+    award: motm_icon,
+    blurb: "Some of the best videos and guides I've made belong to these games and I credit the PST community for that, so with great appreciation, this club is for you.",
+    games: [{
+        game: "Battlefield: Hardline",
+        imag: "https://www.playstationtrophies.org/images/trophies/2806/ico.png"
+    },{
+        game: "Dying Light",
+        imag: "https://www.playstationtrophies.org/images/trophies/2070/ico.png"
+    },{
+        game: "Outlast",
+        imag: "https://www.playstationtrophies.org/images/trophies/2122/ico.png"
+    },{
+        game: "The Last of Us",
+        imag: "https://www.playstationtrophies.org/images/trophies/2670/ico.png"
+    },{
+        game: "Watch Dogs",
+        imag: "https://www.playstationtrophies.org/images/trophies/2250/ico.png"
+    }]
+},{
+    listName: "Puppys' Nostalgia Trip",
+    award: motm_icon,
+    blurb: "I tend to spend a lot of time reminiscing on the past, as feeling nostalgic towards something always makes me feel better. These five games all have a special place in my heart in one way or another. I played Call of Duty 4 on the 360, but spent nearly 2,000 hours there. Did you know I was 25th in the world for the kill count leaderboard for nearly six months? Duke Nukem is the first shooter I ever played. It took me way back to the 90s when we had games that ran off floppy disks. Final Fantasy VII is probably the greatest game of all time, and is home to my favorite character from any game I've played: Aerith Gainsborough. Grand Theft Auto III may not have been the best GTA out there, but it's the one I played the most. I spent hours taking turns with my brother and entering cheat codes to our heart's delight. Rounding out the club is Undertale, a newer game but the nostalgic feel is all the same. The combat, music, and lore make it my favorite game played in 2018. I hope you enjoy completing these games as much as I did.",
+    games: [{
+        game: "Call of Duty: Modern Warfare Remastered",
+        imag: "https://www.playstationtrophies.org/images/trophies/4594/ico.png"
+    },{
+        game: "Duke Nukem 3D: 20th Anniversary World Tour",
+        imag: "https://www.playstationtrophies.org/images/trophies/4939/ico.png"
+    },{
+        game: "Final Fantasy VII",
+        imag: "https://www.playstationtrophies.org/images/trophies/3285/ico.png"
+    },{
+        game: "Grand Theft Auto III",
+        imag: "https://www.playstationtrophies.org/images/trophies/4198/ico.png"
+    },{
+        game: "Undertale",
+        imag: "https://www.playstationtrophies.org/images/trophies/5971/ico.png"
+    }]
+},{
+    listName: "Puzzler's PSN Gems Club - Version 2! Subscriber Club",
+    award: sub_icon,
+    blurb: "These are, in my opinion, some of the best games that the PSN store has to offer. Enjoy :)!",
+    games: [{
+        game: "Braid",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00863_00_B441FA6771C6B38F4AD600C4FE010C35169A76E7/C05ADECEAF8960A34513DB34247CA858D721BEEA.PNG"
+    },{
+        game: "Brothers: A Tale of Two Sons",
+        imag: "http://www.ps3trophies.org/images/trophies/1745/ico.png"
+    },{
+        game: "Flower",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00542_00_CA7A4EA9068CA36F4AA49810B27B889D503CDB0B/C4814F4FBDDDAC9E2E827A2EAF37F05103B394BB.PNG"
+    },{
+        game: "Journey",
+        imag: "https://www.playstationtrophies.org/images/trophies/844/ico.png"
+    },{
+        game: "Limbo",
+        imag: "http://www.ps3trophies.org/images/trophies/1119/ico.png"
+    }]
 // },{
     // listName: "",
     // award: ,
