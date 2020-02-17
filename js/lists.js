@@ -2538,7 +2538,594 @@ var lists = [{
         game: "Ratchet and Clank (PS4)",
         imag: "http://www.ps3trophies.org/images/trophies/2842/ico.png"
     }]
-
+},{
+    listName: "Terminator's Games of the Apocalypse Subscriber Club",
+    award: sub_icon,
+    blurb: "The basic idea behind this club is to showcase the differing versions of how the world might end but I also wanted to make things more personal for the player by ensuring that there are no online trophies to worry about. For the games that have DLC trophies, I've also made sure that a Complete Edition of some form is available. :)",
+    games: [{
+        game: "BioShock Infinite",
+        imag: "https://www.playstationtrophies.org/images/trophies/700/ico.png"
+    },{
+        game: "Fallout 3",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00603_00_C4AAF6F4123590144A821E8716824763F49B9180/DD56A4BEE5C0BAEC1E016AFA9B75962B959CC8CA.PNG"
+    },{
+        game: "inFamous",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/8546620AAAE8EA9097ED90B9EE8DD37AC34C9226.PNG"
+    },{
+        game: "South Park: The Stick of Truth",
+        imag: "https://www.playstationtrophies.org/images/trophies/1314/ico.png"
+    },{
+        game: "The Walking Dead",
+        imag: "https://www.playstationtrophies.org/images/trophies/1398/ico.png"
+    }]
+},{
+    listName: "Terminator's Solo Platinum Adventures MotM Club",
+    award: motm_icon,
+    blurb: "This club is for all you gamers out there that are sick and tired of all these tacked on, broken, unwanted and shoehorned in online modes and want to play something different that doesn't involve killing your fellow gamers :)",
+    games: [{
+        game: "Back to the Future: The Game",
+        imag: "http://www.ps3trophies.org/images/trophies/1245/ico.png"
+    },{
+        game: "BioShock",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/3FE4DC7CCA33D213D17E378E482271FC7A94EEF0.PNG"
+    },{
+        game: "Dead Space",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00464_00_79A3DE2FF3E128394A68BF1356F7F8AF6FBF4C3D/35D77FE069C4AFE35925D364E9DE23FFBFFCC40F.PNG"
+    },{
+        game: "Dishonored",
+        imag: "http://www.ps3trophies.org/images/trophies/1123/ico.png"
+    },{
+        game: "Mass Effect 2",
+        imag: "http://www.ps3trophies.org/images/trophies/703/ico.png"
+    }]
+},{
+    listName: "ThanatosNinja2's Full-on Masochists MotM Club",
+    award: motm_icon,
+    blurb: "If you like that feeling of ultimate satisfaction after emerging victorious from painful and difficult challenges, these games should fit your tastes. I'm very proud to have completed them and hopefully this Club will convince you to try them out.",
+    games: [{
+        game: "Cloudberry Kingdom",
+        imag: "https://i.psnprofiles.com/games/85fe60/L018905.png"
+    },{
+        game: "Dariusburst Chronicle Saviours",
+        imag: "https://i.psnprofiles.com/games/28a448/Lc23ff2.png"
+    },{
+        game: "Persona 4: Arena",
+        imag: "https://i.psnprofiles.com/games/66fe0a/L57109a.png"
+    },{
+        game: "Super Meat Boy",
+        imag: "https://i.psnprofiles.com/games/fa85a9/L7ca091.png"
+    },{
+        game: "Super Street Fighter IV",
+        imag: "https://i.psnprofiles.com/games/78f44a/Le02e45.png"
+    }]
+},{
+    listName: "The Alchemist's Great Stories Subscriber Club",
+    award: sub_icon,
+    blurb: "5 games that I love, which have great stories and great gameplay, so you get the best of both worlds. Relatively easy plat's too. Enjoy!",
+    games: [{
+        game: "Assassin's Creed IV: Black Flag",
+        imag: "https://www.playstationtrophies.org/images/trophies/1949/ico.png"
+    },{
+        game: "Far Cry 3",
+        imag: "https://www.playstationtrophies.org/images/trophies/922/ico.png"
+    },{
+        game: "Mafia II",
+        imag: "https://www.playstationtrophies.org/images/trophies/833/ico.png"
+    },{
+        game: "The Last of Us",
+        imag: "https://www.playstationtrophies.org/images/trophies/1317/ico.png"
+    },{
+        game: "Uncharted 4: A Thief's End",
+        imag: "https://www.playstationtrophies.org/images/trophies/2388/ico.png"
+    }]
+},{
+    listName: "The Doctor's Prescription of Easy Platinums Subscriber Club",
+    award: sub_icon,
+    blurb: "For those who want to enjoy games without having to get too heavily involved in the game. These types of game are awesome to play! Very enjoyable, interactive, and reward you with a nice shiny plat!",
+    games: [{
+        game: "Game of Thrones (Telltale)",
+        imag: "https://www.playstationtrophies.org/images/trophies/2441/ico.png"
+    },{
+        game: "Life is Strange",
+        imag: "https://www.playstationtrophies.org/images/trophies/2971/ico.png"
+    },{
+        game: "The Walking Dead",
+        imag: "https://www.playstationtrophies.org/images/trophies/3111/ico.png"
+    },{
+        game: "The Wolf Among Us",
+        imag: "https://www.playstationtrophies.org/images/trophies/3099/ico.png"
+    }]
+},{
+    listName: "The Doctor's Prescription of Vita Love MotM Club",
+    award: motm_icon,
+    blurb: "A wide variety of Vita games that show and support the PS Vita, prescribed by your trophy hunting doctor",
+    games: [{
+        game: "Assassin's Creed III: Liberation",
+        imag: "http://www.ps3trophies.org/images/trophies/1155/ico.png"
+    },{
+        game: "Odin Sphere: Leifthrasir",
+        imag: "https://www.playstationtrophies.org/images/trophies/4301/ico.png"
+    },{
+        game: "Severed",
+        imag: "https://www.playstationtrophies.org/images/trophies/4182/ico.png"
+    },{
+        game: "Tearaway",
+        imag: "http://www.ps3trophies.org/images/trophies/1674/ico.png"
+    },{
+        game: "Zero Time Dilemma",
+        imag: "https://www.playstationtrophies.org/images/trophies/4605/ico.png"
+    }]
+},{
+    listName: "The Gamer's Gaming MotM Club",
+    award: motm_icon,
+    blurb: "Call yourself a gamer? Let's see you plat these games and then you can call yourself a true gamer.",
+    games: [{
+        game: "BioShock Infinite",
+        imag: "http://www.ps3trophies.org/images/trophies/700/ico.png"
+    },{
+        game: "Fallout 3",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00603_00_C4AAF6F4123590144A821E8716824763F49B9180/DD56A4BEE5C0BAEC1E016AFA9B75962B959CC8CA.PNG"
+    },{
+        game: "Kingdom Hearts II Final Mix",
+        imag: "http://www.playstationtrophies.org/images/trophies/2330/ico.png"
+    },{
+        game: "Oddworld: Abe's Oddysee - New 'n' Tasty",
+        imag: "http://www.playstationtrophies.org/images/trophies/902/ico.png"
+    },{
+        game: "The Elder Scrolls V: Skyrim",
+        imag: "http://www.ps3trophies.org/images/trophies/826/ico.png"
+    }]
+},{
+    listName: "TheManUtdFan's Favourites Subscriber Club",
+    award: sub_icon,
+    blurb: "Some of my favourite games not in my other club. All these are in my custom list too, so two birds one stone :)",
+    games: [{
+        game: "Call of Duty: Modern Warfare 2",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00791_00_44468E11DB1E6DC3F7AC4728ED03C1278F8F23E8/2DA80D908EDA1F75165EB6402C88D5BAD82B0E6B.PNG"
+    },{
+        game: "Far Cry 3",
+        imag: "http://www.ps3trophies.org/images/trophies/922/ico.png"
+    },{
+        game: "Hotline Miami",
+        imag: "http://www.ps3trophies.org/images/trophies/1923/ico.png"
+    },{
+        game: "Payday 2",
+        imag: "http://www.ps3trophies.org/images/trophies/1955/ico.png"
+    },{
+        game: "Saints Row: The Third",
+        imag: "http://www.ps3trophies.org/images/trophies/746/ico.png"
+    }]
+},{
+    listName: "TheManUtdFan's Storytime MotM Club",
+    award: motm_icon,
+    blurb: "I love a good story in games, so here's 5 of my favourites  It's recommended to play the first Bioshock and Mass Effect games before the ones on the list for a better experience. Don't forget to bring a hanky!",
+    games: [{
+        game: "BioShock Infinite",
+        imag: "http://www.ps3trophies.org/images/trophies/700/ico.png"
+    },{
+        game: "Danganronpa: Trigger Happy Havoc",
+        imag: "http://www.playstationtrophies.org/images/trophies/2542/ico.png"
+    },{
+        game: "Mass Effect 2",
+        imag: "http://www.ps3trophies.org/images/trophies/703/ico.png"
+    },{
+        game: "The Walking Dead",
+        imag: "http://www.ps3trophies.org/images/trophies/1398/ico.png"
+    },{
+        game: "Zero Escape: Virtue's Last Reward",
+        imag: "http://www.ps3trophies.org/images/trophies/1773/ico.png"
+    }]
+},{
+    listName: "ThePriceysRight EZPZ Is A Way Of Life MotM Club",
+    award: motm_icon,
+    blurb: "Mr EZ PZ finally made a club that is actually ez pz, not a single sign of anything remotely difficult in sight. There's something for everyone here, from rhythm to space Invaders.<br><br>EZPZ is love, EZPZ is life",
+    games: [{
+        game: "Mr. Massagy",
+        imag: "https://www.playstationtrophies.org/images/trophies/5717/ico.png"
+    },{
+        game: "Old Man's Journey",
+        imag: "https://www.playstationtrophies.org/images/trophies/7435/ico.png"
+    },{
+        game: "Sound Shapes",
+        imag: "https://www.playstationtrophies.org/images/trophies/2404/ico.png"
+    },{
+        game: "Super Destronaut DX",
+        imag: "https://www.playstationtrophies.org/images/trophies/7616/ico.png"
+    },{
+        game: "The Little Acre",
+        imag: "https://www.playstationtrophies.org/images/trophies/4889/ico.png"
+    }]
+},{
+    listName: "The_Spider-Fan's Marvel No-Prize Subscriber Club",
+    award: sub_icon,
+    blurb: "Created by Stan Lee in 1964, the <strong>No-Prize</strong> was given out as a reward to Marvel readers who spotted errors in the comics and wrote in to the publisher. This <strong>No-Prize</strong> is awarded to those PST users who have completed these Marvel games. Excelsior!",
+    games: [{
+        game: "Captain America: Super Soldier",
+        imag: "http://www.ps3trophies.org/images/trophies/769/ico.png"
+    },{
+        game: "LEGO Marvel Super Heroes: Universe in Peril",
+        imag: "http://www.ps3trophies.org/images/trophies/2241/ico.png"
+    },{
+        game: "Marvel Super Hero Squad: The Infinity Gauntlet",
+        imag: "http://www.ps3trophies.org/images/trophies/677/ico.png"
+    },{
+        game: "Spider-Man: Edge of Time",
+        imag: "http://www.ps3trophies.org/images/trophies/978/ico.png"
+    },{
+        game: "X-Men Destiny",
+        imag: "http://www.ps3trophies.org/images/trophies/770/ico.png"
+    }]
+},{
+    listName: "Trik's Thrilling Treks MotM Club",
+    award: motm_icon,
+    blurb: "These games represent a varied array of fun stories and characters. From fantasy to horror to superpowers, there's a little bit of everything.",
+    games: [{
+        game: "Dragon Age: Inquisition",
+        imag: "https://www.playstationtrophies.org/images/trophies/2254/ico.png"
+    },{
+        game: "inFAMOUS: Second Son",
+        imag: "https://www.playstationtrophies.org/images/trophies/1936/ico.png"
+    },{
+        game: "The Wolf Among Us",
+        imag: "https://www.playstationtrophies.org/images/trophies/3099/ico.png"
+    },{
+        game: "Uncharted 4: A Thief's End",
+        imag: "https://www.playstationtrophies.org/images/trophies/2388/ico.png"
+    },{
+        game: "Until Dawn",
+        imag: "https://www.playstationtrophies.org/images/trophies/1672/ico.png"
+    }]
+},{
+    listName: "TuckNorris85's Terrific Tasty Treats Subscriber Club",
+    award: sub_icon,
+    blurb: "Just a collection of five of my favourite recent games on PS4. Hope you enjoy playing these as much as I have.",
+    games: [{
+        game: "Assassins Creed Origins",
+        imag: "https://www.playstationtrophies.org/images/trophies/5865/ico.png"
+    },{
+        game: "Deus Ex: Mankind Divided",
+        imag: "https://www.playstationtrophies.org/images/trophies/2308/ico.png"
+    },{
+        game: "DOOM (2016)",
+        imag: "https://www.playstationtrophies.org/images/trophies/1237/ico.png"
+    },{
+        game: "Mass Effect: Andromeda",
+        imag: "https://www.playstationtrophies.org/images/trophies/2373/ico.png"
+    },{
+        game: "Rise of the Tomb Raider",
+        imag: "https://www.playstationtrophies.org/images/trophies/3818/ico.png"
+    }]
+},{
+    listName: "Tuff's List of Whatever Subscriber Club",
+    award: sub_icon,
+    blurb: "Just a list of stuffs I love.",
+    games: [{
+        game: "Arcade Archives: Gradius",
+        imag: "http://www.playstationtrophies.org/images/trophies/3367/ico.png"
+    },{
+        game: "Fallout 3",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00603_00_C4AAF6F4123590144A821E8716824763F49B9180/DD56A4BEE5C0BAEC1E016AFA9B75962B959CC8CA.PNG"
+    },{
+        game: "Fallout: New Vegas",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/05A0DA7C339EB16742B63AC4DED4ECE6EDF06B34.PNG"
+    },{
+        game: "Guacamelee! Super Turbo Championship Edition",
+        imag: "http://www.playstationtrophies.org/images/trophies/2475/ico.png"
+    },{
+        game: "Metro 2033 Redux",
+        imag: "http://www.playstationtrophies.org/images/trophies/2938/ico.png"
+    }]
+},{
+    listName: "Tuffmuff's No Muff Too Tuff MotM Club",
+    award: motm_icon,
+    blurb: "I like to shoot things. You should too.",
+    games: [{
+        game: "Battlefield: Bad Company 2",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/39AC59E4E6BFCBA0E516F49C547DBA05B7649FAD.PNG"
+    },{
+        game: "Battlefield 3",
+        imag: "http://www.ps3trophies.org/images/trophies/883/ico.png"
+    },{
+        game: "Battlefield 4",
+        imag: "http://www.ps3trophies.org/images/trophies/1640/ico.png"
+    },{
+        game: "Far Cry 3",
+        imag: "http://www.ps3trophies.org/images/trophies/922/ico.png"
+    },{
+        game: "Far Cry 4",
+        imag: "http://www.playstationtrophies.org/images/trophies/2778/ico.png"
+    }]
+},{
+    listName: "twyz’s RPG’s R Us Subscriber Club",
+    award: sub_icon,
+    blurb: "RPGs come in many shapes and sizes. These five games all have RPG elements, but are very different from one another.",
+    games: [{
+        game: "Borderlands",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00612_00_9DC81F5E211C389D6700B03F8A74AF17B1D0EF64/DCBB63F12562C90021217BF4736C0DABDB4EFFE0.PNG"
+    },{
+        game: "Magus",
+        imag: "http://www.ps3trophies.org/images/trophies/2578/ico.png"
+    },{
+        game: "Mass Effect 2",
+        imag: "http://www.ps3trophies.org/images/trophies/703/ico.png"
+    },{
+        game: "South Park: The Stick of Truth",
+        imag: "http://www.playstationtrophies.org/images/trophies/1314/ico.png"
+    },{
+        game: "The Elder Scrolls V: Skyrim",
+        imag: "http://www.ps3trophies.org/images/trophies/826/ico.png"
+    }]
+},{
+    listName: "Velvet's Favorites Can Be Your Favorites Too MoTM Club",
+    award: motm_icon,
+    blurb: "Oh it's just 5 games that I absolutely without any doubt loved playing (and so will you!)",
+    games: [{
+        game: "Army of Two: The Devil's Cartel",
+        imag: "http://www.ps3trophies.org/images/trophies/1656/ico.png"
+    },{
+        game: "Batman: Arkham Asylum",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00626_00_57713126980460157C2B6DA2A2F26A1298627ED7/00A596954EF9DF4064B92426EF0C421D96318AC6.PNG"
+    },{
+        game: "Hotline Miami",
+        imag: "http://www.playstationtrophies.org/images/trophies/1923/ico.png"
+    },{
+        game: "Minecraft",
+        imag: "http://www.ps3trophies.org/images/trophies/2376/ico.png"
+    },{
+        game: "Rocket League",
+        imag: "http://www.ps3trophies.org/images/trophies/3583/ico.png"
+    }]
+},{
+    listName: "Velvet's Va-Va-Vita Subscriber Club",
+    award: sub_icon,
+    blurb: "A little AR, a little touchscreen and a little action topped with a single serving of weird.",
+    games: [{
+        game: "Fruit Ninja",
+        imag: "https://www.playstationtrophies.org/images/trophies/2211/ico.png"
+    },{
+        game: "Jacob Jones and the Bigfoot Mystery",
+        imag: "https://www.playstationtrophies.org/images/trophies/2035/ico.png"
+    },{
+        game: "PulzAR",
+        imag: "https://www.playstationtrophies.org/images/trophies/1557/ico.png"
+    },{
+        game: "Tearaway",
+        imag: "https://www.playstationtrophies.org/images/trophies/1674/ico.png"
+    }]
+},{
+    listName: "Vo1cl's 'Beat Your Friends Off' Subscriber Club",
+    award: sub_icon,
+    blurb: "I love playing multiplayer games with friends. Especially local multiplayer. Each of these games have had me laughing alongside friends one minute, then swearing at them the next. So gather your friends, pick up some controllers, and hopefully you're all talking the next day.<br><br>Now just be thankful I didn't include my favourite game ever, Towerfall ;)",
+    games: [{
+        game: "Paperbound",
+        imag: "https://www.playstationtrophies.org/images/trophies/3469/ico.png"
+    },{
+        game: "Rocket League",
+        imag: "http://www.ps3trophies.org/images/trophies/3583/ico.png"
+    },{
+        game: "Sportsfriends",
+        imag: "https://www.playstationtrophies.org/images/trophies/2715/ico.png"
+    },{
+        game: "Starwhal",
+        imag: "https://www.playstationtrophies.org/images/trophies/2743/ico.png"
+    }]
+},{
+    listName: "Vowels' Quit Your Cryin' MotM Club",
+    award: motm_icon,
+    blurb: "This club is scientifically designed to be the best club ever created. You'll climb mountains, kill monsters, get the girls(or the guys if you prefer), and deal with complex emotions. All of your choices will basically revolve around who to murder to solve all your problems, and which tool to use for the job! Enjoy!",
+    games: [{
+        game: "Fallout 4",
+        imag: "https://www.playstationtrophies.org/images/trophies/2430/ico.png"
+    },{
+        game: "Horizon Zero Dawn",
+        imag: "https://www.playstationtrophies.org/images/trophies/3726/ico.png"
+    },{
+        game: "The Elder Scrolls V: Skyrim",
+        imag: "https://www.playstationtrophies.org/images/trophies/4700/ico.png"
+    },{
+        game: "Uncharted: The Lost Legacy",
+        imag: "https://www.playstationtrophies.org/images/trophies/5325/ico.png"
+    },{
+        game: "The Witcher 3: Wild Hunt",
+        imag: "https://www.playstationtrophies.org/images/trophies/1904/ico.png"
+    }]
+},{
+    listName: "Vuule's Naught but the Finest MotM Club",
+    award: motm_icon,
+    blurb: "While these aren't overly complicated to obtain and they're not all that time consuming, these are some of the platinum trophies I've enjoyed a lot. Not just the road to the platinum itself, but the many hours you can put into these even after completing them.",
+    games: [{
+        game: "Borderlands",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00612_00_9DC81F5E211C389D6700B03F8A74AF17B1D0EF64/DCBB63F12562C90021217BF4736C0DABDB4EFFE0.PNG"
+    },{
+        game: "Dragon's Dogma",
+        imag: "http://www.ps3trophies.org/images/trophies/994/ico.png"
+    },{
+        game: "Kingdoms of Amalur: Reckoning",
+        imag: "http://www.ps3trophies.org/images/trophies/669/ico.png"
+    },{
+        game: "L.A. Noire",
+        imag: "http://www.ps3trophies.org/images/trophies/358/ico.png"
+    },{
+        game: "Red Dead Redemption",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00867_00_3C04BB5C8E8B922C223411F0E040983D86D4B864/27D02EB3579FF13B05CB8707B7B6C79AD14C6332.PNG"
+    }]
+},{
+    listName: "Vuule's Some Other Fine Games That Weren't Included in the Other Club Subscriber Club",
+    award: sub_icon,
+    blurb: "",
+    games: [{
+        game: "Destiny",
+        imag: "https://www.playstationtrophies.org/images/trophies/1542/ico.png"
+    },{
+        game: "Dragon Age: Inquisition",
+        imag: "http://www.playstationtrophies.org/images/trophies/2254/ico.png"
+    },{
+        game: "Mirror's Edge",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00499_00_9F108AAA00E92367AD4945465CF066A8E39CFC5E/6059C099B263FDED8315936BC0F583643BEAEA1D.PNG"
+    },{
+        game: "Remember Me",
+        imag: "http://www.ps3trophies.org/images/trophies/1671/ico.png"
+    },{
+        game: "Warframe",
+        imag: "http://www.playstationtrophies.org/images/trophies/2092/ico.png"
+    }]
+},{
+    listName: "Vy Hopes Bae Plz to Notice His PS4 Sammich Subscriber Club",
+    award: sub_icon,
+    blurb: "I hope my club is good enough for you, Senpai. :bearhug:",
+    games: [{
+        game: "Hatoful Boyfriend",
+        imag: "http://www.ps3trophies.org/images/trophies/3230/ico.png"
+    },{
+        game: "Never Alone",
+        imag: "http://www.playstationtrophies.org/images/trophies/2762/ico.png"
+    },{
+        game: "Paparazzi",
+        imag: "http://www.playstationtrophies.org/images/trophies/3409/ico.png"
+    },{
+        game: "Sportsfriends",
+        imag: "http://www.playstationtrophies.org/images/trophies/2715/ico.png"
+    }]
+},{
+    listName: "Vy's 4 G's and a P MotM Club",
+    award: motm_icon,
+    blurb: "I've spotted you 4 easy 100%'s... now get that platinum!",
+    games: [{
+        game: "Guacamelee!",
+        imag: "http://www.ps3trophies.org/images/trophies/1568/ico.png"
+    },{
+        game: "Kung Fu Rabbit",
+        imag: "https://www.playstationtrophies.org/images/trophies/2163/ico.png"
+    },{
+        game: "Machinarium",
+        imag: "https://www.playstationtrophies.org/images/trophies/1879/ico.png"
+    },{
+        game: "Monsterbag",
+        imag: "https://www.playstationtrophies.org/images/trophies/3530/ico.png"
+    },{
+        game: "Proteus",
+        imag: "https://www.playstationtrophies.org/images/trophies/2159/ico.png"
+    }]
+},{
+    listName: "Walt's Honorary Pervert Subscriber Club",
+    award: sub_icon,
+    blurb: "Do you like boobs? Do you like boobs the size of watermelons? Boobs that move like they have little animals trying to get out of them? Next-gen boobs? Portable boobs? BDSM? Lolis? Touching boobs except not touching boobs because a screen cannot replicate boobs? Stripping people? Food erotica? Exhibitionism? Getting stripped? Complaining about getting stripped? Arguably inappropriate references to Gamergate? If so, this is the club for you, perv.",
+    games: [{
+        game: "Criminal Girls: Invite Only",
+        imag: "https://www.playstationtrophies.org/images/trophies/3373/ico.png"
+    },{
+        game: "Hyperdimension Neptunia U: Action Unleashed",
+        imag: "https://www.playstationtrophies.org/images/trophies/3642/ico.png"
+    },{
+        game: "Senran Kagura: Bon Appetit",
+        imag: "http://www.playstationtrophies.org/images/trophies/2624/ico.png"
+    },{
+        game: "Senran Kagura: Estival Versus",
+        imag: "http://www.playstationtrophies.org/images/trophies/3503/ico.png"
+    },{
+        game: "Senran Kagura: Shinovi Versus",
+        imag: "http://www.ps3trophies.org/images/trophies/1942/ico.png"
+    }]
+},{
+    listName: "Warbear's Girls Rule, Boys Drool MotM Club",
+    award: motm_icon,
+    blurb: "What better way to join a club than to do it in a lady-like fashion? Move on over boys!",
+    games: [{
+        game: "Final Fantasy XIII",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00774_00_CDCA3041C79D46EAA32C271071536AC6F45AE379/D2E61445F80BEAF5F84A17040A0BF701AE47142F.PNG"
+    },{
+        game: "Hannah Montana The Movie",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00676_00_DADD79FB654602747C4A435FC03934D99F13E85A/B8CAA370F20E28A700945C4B0E98CC6339A985D3.PNG"
+    },{
+        game: "Lollipop Chainsaw",
+        imag: "http://www.ps3trophies.org/images/trophies/1134/ico.png"
+    },{
+        game: "The Last of Us",
+        imag: "http://www.ps3trophies.org/images/trophies/1317/ico.png"
+    },{
+        game: "Tomb Raider",
+        imag: "http://www.ps3trophies.org/images/trophies/831/ico.png"
+    }]
+},{
+    listName: "Warbear's You need to upgrade already! Subscriber Club",
+    award: sub_icon,
+    blurb: "What are you waiting for? A price drop? Upgrade to a PS4 already instead of playing these titles on the PS3. :rolleyes:",
+    games: [{
+        game: "Battlefield: Hardline",
+        imag: "https://www.playstationtrophies.org/images/trophies/2806/ico.png"
+    },{
+        game: "Call of Duty: Advanced Warfare",
+        imag: "https://www.playstationtrophies.org/images/trophies/2734/ico.png"
+    },{
+        game: "Far Cry 4",
+        imag: "https://www.playstationtrophies.org/images/trophies/2777/ico.png"
+    },{
+        game: "Middle-Earth: Shadow of Mordor",
+        imag: "https://www.playstationtrophies.org/images/trophies/2378/ico.png"
+    },{
+        game: "Sleeping Dogs",
+        imag: "https://www.playstationtrophies.org/images/trophies/2959/ico.png"
+    }]
+},{
+    listName: "x9zachattack5x's Aircraft Warfare Lovers Subscriber Club",
+    award: sub_icon,
+    blurb: "",
+    games: [{
+        game: "Air Conflicts: Pacific Carriers",
+        imag: "http://www.ps3trophies.org/images/trophies/1736/ico.png"
+    },{
+        game: "Air Conflicts: Secret Wars",
+        imag: "http://www.ps3trophies.org/images/trophies/1112/ico.png"
+    },{
+        game: "Air Conflicts: Vietnam",
+        imag: "http://www.ps3trophies.org/images/trophies/1927/ico.png"
+    },{
+        game: "Tom Clancy's H.A.W.X.",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00319_00_C2AE8C0AB664A91CC30199422936A05D3AB46925/C694BE6DD8D7985D2FF505EB54A6A6570E54DCFC.PNG"
+    },{
+        game: "Tom Clancy's H.A.W.X. 2",
+        imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR01304_00_9D7BFB8BB629F50ECFD2FD0D52A246272CFA192B/79C509EA17985C30E913D5F44DAE7B8C94C5F506.PNG"
+    }]
+},{
+    listName: "Xx_DarthFreak_xX’s Call of Destiny Club",
+    award: sub_icon,
+    blurb: "I chose these games because These two series are my favorite to play.",
+    games: [{
+        game: "Call of Duty: Black Ops",
+        imag: "https://www.playstationtrophies.org/images/trophies/344/ico.png"
+    },{
+        game: "Call of Duty: Black Ops Declassified",
+        imag: "https://www.playstationtrophies.org/images/trophies/1586/ico.png"
+    },{
+        game: "Call of Duty: Black Ops IIII",
+        imag: "https://www.playstationtrophies.org/images/trophies/7071/ico.png"
+    },{
+        game: "Destiny",
+        imag: "https://www.playstationtrophies.org/images/trophies/1542/ico.png"
+    },{
+        game: "Destiny 2",
+        imag: "https://www.playstationtrophies.org/images/trophies/5681/ico.png"
+    }]
+},{
+    listName: "Zetberg's Sometimes You Just Need To Listen Subscriber Club",
+    award: sub_icon,
+    blurb: "If there's one thing I like in video games (besides trophies of course), it's a nice soundtrack. I picked these games because they're frustrating, each in their own way, but they have a great soundtrack. I also chose them so I could spell one of my favorite music genres.",
+    games: [{
+        game: "Hotline Miami",
+        imag: "http://www.ps3trophies.org/images/trophies/1923/ico.png"
+    },{
+        game: "OlliOlli 2: Welcome to Olliwood",
+        imag: "http://www.playstationtrophies.org/images/trophies/3398/ico.png"
+    },{
+        game: "Ultratron",
+        imag: "http://www.playstationtrophies.org/images/trophies/3622/ico.png"
+    },{
+        game: "Starwhal",
+        imag: "http://www.playstationtrophies.org/images/trophies/2743/ico.png"
+    },{
+        game: "Entwined",
+        imag: "http://www.playstationtrophies.org/images/trophies/2834/ico.png"
+    }]
 // },{
     // listName: "",
     // award: ,
