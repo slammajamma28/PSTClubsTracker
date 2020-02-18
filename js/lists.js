@@ -232,7 +232,7 @@ var lists = [{
         game: "God of War II",
         imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00951_00_F305A0C1BE62194F375365180B67B7B302DC5DB4/16CDB52BB73F4101A9C1826B143CFA7BA5987A57.PNG"
     },{
-        game: "Saw II",
+        game: "Saw II: Flesh & Blood",
         imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_100FA709AA924CC2E9FEA695E997EA0FF03EA993/A06786C6D1F38BC5D5E474A2F7B7EE0A5DA3C400.PNG"
     }]
 },{
