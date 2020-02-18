@@ -751,7 +751,7 @@ var lists = [{
         game: "God of War III",
         imag: "https://www.playstationtrophies.org/images/trophies/3489/ico.png"
     },{
-        game: "OlliOlli 2: Welcome to Olliwood",
+        game: "OlliOlli2: Welcome to Olliwood",
         imag: "https://www.playstationtrophies.org/images/trophies/3398/ico.png"
     },{
         game: "Rogue Legacy",
@@ -845,7 +845,7 @@ var lists = [{
         game: "Hotline Miami 2: Wrong Number",
         imag: "https://www.playstationtrophies.org/images/trophies/2666/ico.png"
     },{
-        game: "OlliOlli 2: Welcome to Olliwood",
+        game: "OlliOlli2: Welcome to Olliwood",
         imag: "https://www.playstationtrophies.org/images/trophies/3398/ico.png"
     },{
         game: "Shovel Knight",
