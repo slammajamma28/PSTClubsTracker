@@ -43,10 +43,10 @@ var lists = [{
     award: sub_icon,
     blurb: "A club combining two things I love: Japanese Imports and Music Games!",
     games: [{
-        game: "Hatsune Miku: Project Diva f",
+        game: "Hatsune Miku: Project DIVA F",
         imag: "https://www.playstationtrophies.org/images/trophies/1695/ico.png"
     },{
-        game: "Hatsune Miku: Project Diva f 2nd",
+        game: "Hatsune Miku: Project DIVA F 2nd",
         imag: "https://www.playstationtrophies.org/images/trophies/2635/ico.png"
     },{
         game: "IA/VT -COLORFUL-",
@@ -109,7 +109,7 @@ var lists = [{
         game: "Journey",
         imag: "https://www.playstationtrophies.org/images/trophies/844/ico.png"
     },{
-        game: "Ni No Kuni: Wrath of the White Witch",
+        game: "Ni no Kuni: Wrath of the White Witch",
         imag: "https://www.playstationtrophies.org/images/trophies/1399/ico.png"
     },{
         game: "Okami HD",
@@ -143,7 +143,7 @@ var lists = [{
         game: "Oddworld: Abe's Oddysee - New 'n' Tasty",
         imag: "https://www.playstationtrophies.org/images/trophies/902/ico.png"
     },{
-        game: "Oddworld: Stranger's Wrath",
+        game: "Oddworld: Stranger's Wrath HD",
         imag: "https://www.playstationtrophies.org/images/trophies/731/ico.png"
     },{
         game: "Peggle 2",
@@ -166,7 +166,7 @@ var lists = [{
         game: "God of War III",
         imag: "https://i.imgur.com/JUwJspl.png"
     },{
-        game: "Resident Evil 7",
+        game: "Resident Evil 7: Biohazard",
         imag: "https://i.imgur.com/53oxOs9.png"
     },{
         game: "Table Top Racing: World Tour",
@@ -206,10 +206,10 @@ var lists = [{
         game: "Red Dead Redemption",
         imag: "https://www.playstationtrophies.org/images/trophies/340/ico.png"
     },{
-        game: "Star Wars: Battlefront",
+        game: "Star Wars Battlefront",
         imag: "http://www.ps3trophies.org/images/trophies/2097/ico.png"
     },{
-        game: "Tales From The Borderlands",
+        game: "Tales from the Borderlands",
         imag: "http://www.ps3trophies.org/images/trophies/2442/ico.png"
     },{
         game: "Uncharted 2: Among Thieves",
@@ -280,7 +280,7 @@ var lists = [{
     award: sub_icon,
     blurb: "These games have, in my opinion, the best written storylines in recent video game history. They also share a common theme (kinda). Please play them now, and I promise you you won't regret it.",
     games: [{
-        game: "Bioshock Infinite",
+        game: "BioShock Infinite",
         imag: "http://www.ps3trophies.org/images/trophies/700/ico.png"
     },{
         game: "Life is Strange",
@@ -300,7 +300,7 @@ var lists = [{
         game: "Broken Age",
         imag: "https://www.playstationtrophies.org/images/trophies/3501/ico.png"
     },{
-        game: "Grim Fandango",
+        game: "Grim Fandango Remastered",
         imag: "https://www.playstationtrophies.org/images/trophies/2909/ico.png"
     },{
         game: "Red Johnson's Chronicles: One Against All",
@@ -323,7 +323,7 @@ var lists = [{
         game: "LEGO Jurassic World",
         imag: "https://www.playstationtrophies.org/images/trophies/3375/ico.png"
     },{
-        game: "Middle Earth: Shadow of Mordor",
+        game: "Middle-Earth: Shadow of Mordor",
         imag: "https://www.playstationtrophies.org/images/trophies/2378/ico.png"
     },{
         game: "Rocket League",
@@ -366,10 +366,10 @@ var lists = [{
         game: "Far Cry 3: Blood Dragon",
         imag: "http://www.ps3trophies.org/images/trophies/2000/ico.png"
     },{
-        game: "Ratchet & Clank: Going Commando HD",
+        game: "Ratchet & Clank 2: Going Commando",
         imag: "http://www.ps3trophies.org/images/trophies/1454/ico.png"
     },{
-        game: "The Walking Dead: Season Two",
+        game: "The Walking Dead: Season 2",
         imag: "http://www.ps3trophies.org/images/trophies/2352/ico.png"
     }]
 },{
@@ -403,13 +403,13 @@ var lists = [{
         game: "Heavy Rain",
         imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00324_00_329289A42218A5976C0B7382FE2B776D4AD99105/28C88C64592408983367C63E71C19BAF64676C6D.PNG"
     },{
-        game: "inFamous 2",
+        game: "inFAMOUS 2",
         imag: "https://www.playstationtrophies.org/images/trophies/571/ico.png"
     },{
         game: "Mass Effect 3",
         imag: "https://www.playstationtrophies.org/images/trophies/845/ico.png"
     },{
-        game: "The Walking Dead: Season Two",
+        game: "The Walking Dead: Season 2",
         imag: "https://www.playstationtrophies.org/images/trophies/2352/ico.png"
     }]
 },{
@@ -420,10 +420,10 @@ var lists = [{
         game: "Driveclub",
         imag: "http://www.ps3trophies.org/images/trophies/1933/ico.png"
     },{
-        game: "inFamous: First Light",
+        game: "inFAMOUS First Light",
         imag: "https://www.playstationtrophies.org/images/trophies/2878/ico.png"
     },{
-        game: "inFamous: Second Son",
+        game: "inFAMOUS Second Son",
         imag: "https://www.playstationtrophies.org/images/trophies/1936/ico.png"
     },{
         game: "The Order: 1886",
@@ -477,7 +477,7 @@ var lists = [{
     award: sub_icon,
     blurb: "I choose these games, because delivering amounts of chaos while saving the day is fun and cool.",
     games: [{
-        game: "DmC: Devil May Cry Definitive Edition",
+        game: "DmC: Devil May Cry",
         imag: "https://www.playstationtrophies.org/images/trophies/3309/ico.png"
     },{
         game: "Saints Row: The Third",
@@ -523,7 +523,7 @@ var lists = [{
         game: "Dragon's Dogma",
         imag: "http://www.ps3trophies.org/images/trophies/994/ico.png"
     },{
-        game: "The Elder Scrolls V: Skyrim",
+        game: "Skyrim",
         imag: "http://www.ps3trophies.org/images/trophies/826/ico.png"
     },{
         game: "The Witcher 3: Wild Hunt",
@@ -611,7 +611,7 @@ var lists = [{
     award: sub_icon,
     blurb: "! You thought this was going to be a Metal Gear club didn't you? All these games can be played on any system so hopefully nobody feels left out. Happy hunting!",
     games: [{
-        game: "Lone Survivor: The Director's Cut",
+        game: "Lone Survivor",
         imag: "http://www.ps3trophies.org/images/trophies/1967/ico.png"
     },{
         game: "The Swapper",
@@ -624,7 +624,7 @@ var lists = [{
         imag: "https://www.playstationtrophies.org/images/trophies/2713/ico.png"
     }]
 },{
-    listName: "DISCO’s You got your zombies in my comics! NO. You got your comics in my zombies!",
+    listName: "DISCO's You got your zombies in my comics! NO. You got your comics in my zombies!",
     award: motm_icon,
     blurb: "Like Chocolate and Peanut butter some things just go well together. All these games have both a comic and zombie element incorporated into them.",
     games: [{
@@ -637,7 +637,7 @@ var lists = [{
         game: "Lollipop Chainsaw",
         imag: "http://www.ps3trophies.org/images/trophies/1134/ico.png"
     },{
-        game: "The Amazing Spider-Man 2",
+        game: "The Amazing Spider-man 2",
         imag: "https://www.playstationtrophies.org/images/trophies/2331/ico.png"
     },{
         game: "The Last of Us",
@@ -680,7 +680,7 @@ var lists = [{
         game: "Rayman Legends",
         imag: "https://i.imgur.com/LJeS5Pz.png"
     },{
-        game: "Tom Clancy’s Ghost Recon: Wildlands",
+        game: "Tom Clancy's Ghost Recon: Wildlands",
         imag: "https://i.imgur.com/QmEhDwk.png"
     }]
 },{
@@ -688,7 +688,7 @@ var lists = [{
     award: motm_icon,
     blurb: "5 awesome games with great stories developed by French devs :francais:",
     games: [{
-        game: "11-11 Memories Retold",
+        game: "11-11: Memories Retold",
         imag: "https://i.psnprofiles.com/games/f69307/L4d0a42.png"
     },{
         game: "A Plague Tale: Innocence",
@@ -708,7 +708,7 @@ var lists = [{
     award: motm_icon,
     blurb: "These are the games I most enjoyed earning the (P) for on the PS3. I hope you enjoy/enjoyed them! -_-.",
     games: [{
-        game: "Assassin's Creed: Brotherhood",
+        game: "Assassin's Creed Brotherhood",
         imag: "http://www.ps3trophies.org/images/trophies/362/ico.png"
     },{
         game: "Fallout: New Vegas",
@@ -765,7 +765,7 @@ var lists = [{
     award: sub_icon,
     blurb: "I am a big fan of the Tales series and if I could of had more games I would have had added Tales of Xillia 1 in there as well.",
     games: [{
-        game: "Tales of Graces ƒ",
+        game: "Tales of Graces f",
         imag: "http://www.ps3trophies.org/images/trophies/535/ico.png"
     },{
         game: "Tales of Hearts R",
@@ -791,13 +791,13 @@ var lists = [{
         game: "Far Cry 4",
         imag: "https://www.playstationtrophies.org/images/trophies/2778/ico.png"
     },{
-        game: "LEGO The Lord of the Rings (PS3)",
+        game: "LEGO The Lord of the Rings",
         imag: "http://www.ps3trophies.org/images/trophies/1535/ico.png"
     },{
         game: "Red Dead Redemption",
         imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00867_00_3C04BB5C8E8B922C223411F0E040983D86D4B864/27D02EB3579FF13B05CB8707B7B6C79AD14C6332.PNG"
     },{
-        game: "The Elder Scrolls V: Skyrim",
+        game: "Skyrim",
         imag: "http://www.ps3trophies.org/images/trophies/826/ico.png"
     }]
 },{
@@ -808,7 +808,7 @@ var lists = [{
         game: "Final Fantasy XV",
         imag: "https://i.imgur.com/QTuxlPE.png"
     },{
-        game: "Horizon: Zero Dawn",
+        game: "Horizon Zero Dawn",
         imag: "https://i.imgur.com/5jvMxkg.png"
     },{
         game: "Rocket League",
@@ -922,7 +922,7 @@ var lists = [{
         game: "Persona 5",
         imag: "https://www.playstationtrophies.org/images/trophies/471/ico.png"
     },{
-        game: "Horizon: Zero Dawn",
+        game: "Horizon Zero Dawn",
         imag: "https://www.playstationtrophies.org/images/trophies/3726/ico.png"
     },{
         game: "Danganronpa V3: Killing Harmony",
@@ -979,16 +979,16 @@ var lists = [{
         game: "Assassin's Creed II",
         imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00894_00_8078706A2F05A74D398BED1ACE3509FAC5B29C89/53046374486E2F6EA6329B78BE7D42070FD576CC.PNG"
     },{
-        game: "Assassin's Creed IV: Black Flag",
+        game: "Assassin's Creed IV Black Flag",
         imag: "http://www.ps3trophies.org/images/trophies/1949/ico.png"
     },{
         game: "Assassin's Creed Chronicles: China",
         imag: "https://www.playstationtrophies.org/images/trophies/3524/ico.png"
     },{
-        game: "Assassin's Creed: Rogue",
+        game: "Assassin's Creed Rogue",
         imag: "https://www.playstationtrophies.org/images/trophies/2950/ico.png"
     },{
-        game: "Assassin's Creed: Unity",
+        game: "Assassin's Creed Unity",
         imag: "https://www.playstationtrophies.org/images/trophies/2628/ico.png"
     }]
 },{
@@ -996,7 +996,7 @@ var lists = [{
     award: sub_icon,
     blurb: "I hope you like collectibles. You'll be looking for a lot of them in these games. Have fun and good luck! Don't miss one.",
     games: [{
-        game: "inFamous: Second Son",
+        game: "inFAMOUS Second Son",
         imag: "https://www.playstationtrophies.org/images/trophies/1936/ico.png"
     },{
         game: "Murdered: Soul Suspect",
@@ -1016,7 +1016,7 @@ var lists = [{
         game: "Call of Duty: Modern Warfare Remastered",
         imag: "https://www.playstationtrophies.org/images/trophies/4594/ico.png"
     },{
-        game: "DriveClub",
+        game: "Driveclub",
         imag: "https://www.playstationtrophies.org/images/trophies/1933/ico.png"
     },{
         game: "Final Fantasy XII: The Zodiac Age",
@@ -1050,7 +1050,7 @@ var lists = [{
     award: sub_icon,
     blurb: "Yeah, I enjoyed these games. Tomb Raider is called Tomb Raider: Definitive Edition on the PS4.",
     games: [{
-        game: "Assassin's Creed IV: Black Flag",
+        game: "Assassin's Creed IV Black Flag",
         imag: "http://www.ps3trophies.org/images/trophies/1949/ico.png"
     },{
         game: "Borderlands 2",
@@ -1079,7 +1079,7 @@ var lists = [{
         game: "Metal Gear Rising: Revengeance",
         imag: "http://www.ps3trophies.org/images/trophies/350/ico.png"
     },{
-        game: "Metal Gear Solid 2: Sons of Liberty",
+        game: "Metal Gear Solid 2",
         imag: "http://www.ps3trophies.org/images/trophies/1053/ico.png"
     },{
         game: "Silent Hill 2 HD",
@@ -1096,7 +1096,7 @@ var lists = [{
         game: "Guacamelee!",
         imag: "http://www.ps3trophies.org/images/trophies/1568/ico.png"
     },{
-        game: "Lone Survivor: The Director's Cut",
+        game: "Lone Survivor",
         imag: "http://www.ps3trophies.org/images/trophies/1967/ico.png"
     },{
         game: "Rogue Legacy",
@@ -1113,7 +1113,7 @@ var lists = [{
         game: "Gravity Rush 2",
         imag: "https://i.imgur.com/MbsPQbL.png"
     },{
-        game: "Horizon: Zero Dawn",
+        game: "Horizon Zero Dawn",
         imag: "https://i.imgur.com/5jvMxkg.png"
     },{
         game: "NieR: Automata",
@@ -1173,7 +1173,7 @@ var lists = [{
         game: "Alien: Isolation",
         imag: "https://www.playstationtrophies.org/images/trophies/2453/ico.png"
     },{
-        game: "Assassin's Creed IV: Black Flag",
+        game: "Assassin's Creed IV Black Flag",
         imag: "http://www.ps3trophies.org/images/trophies/1949/ico.png"
     },{
         game: "EA Sports UFC",
@@ -1347,7 +1347,7 @@ var lists = [{
         game: "Life is Strange",
         imag: "https://www.playstationtrophies.org/images/trophies/2971/ico.png"
     },{
-        game: "Tales From the Borderlands",
+        game: "Tales from the Borderlands",
         imag: "https://www.playstationtrophies.org/images/trophies/2442/ico.png"
     },{
         game: "Until Dawn",
@@ -1358,13 +1358,13 @@ var lists = [{
     award: sub_icon,
     blurb: "I chose these games because these games were either the first in their respective franchise and/or was the first game in their respective franchise to receive trophy support.",
     games: [{
-        game: "inFamous",
+        game: "inFAMOUS",
         imag: "https://www.playstationtrophies.org/images/trophies/122/ico.png"
     },{
         game: "Crysis",
         imag: "https://www.playstationtrophies.org/images/trophies/1183/ico.png"
     },{
-        game: "The Elder Scrolls V: Skyrim",
+        game: "Skyrim",
         imag: "https://www.playstationtrophies.org/images/trophies/826/ico.png"
     },{
         game: "Final Fantasy XIII",
@@ -1394,14 +1394,14 @@ var lists = [{
         imag: "http://www.ps3trophies.org/images/trophies/2606/ico.png"
     }]
 },{
-    listName: "Maddester’s REALLY GAME!?!? REALLY!?!? Subscriber Club",
+    listName: "Maddester's REALLY GAME!?!? REALLY!?!? Subscriber Club",
     award: sub_icon,
-    blurb: "I’m pretty sure y’all have this happen to you in your gamer career. You’re playing through your game and you come to a spot where you know that instant death is possible, but 5% of the time it rarely happens, and you had no trouble going through it previous playthroughs before. Then suddenly, the instant death actually happens and you’re dead on the spot, and now it’s taking 20-something tries to get through that part. Or maybe you’re doing a really difficult time trial for over a hour, and now you’ve gotten to a point that you’ve got the entire course memorized. You turn the corner and you see the goal line with a few seconds to spare. You give it all you got, you cross the line and… you finish a tenth of a second over the required time.<br><br>With the 2 given examples above, all you could do at those points is stare at the screen mouth open, flabbergasted, and the only words that come out of your mouth as you rage in frustration are “REALLY GAME!?!? REALLY!?!?” These 5 games were chosen by me because they have given so many “REALLY GAME!?!?” moments, and I sincerely hope that they give you some of those moments too. :devil:",
+    blurb: "I’m pretty sure y’all have this happen to you in your gamer career. You’re playing through your game and you come to a spot where you know that instant death is possible, but 5% of the time it rarely happens, and you had no trouble going through it previous playthroughs before. Then suddenly, the instant death actually happens and you’re dead on the spot, and now its taking 20-something tries to get through that part. Or maybe you’re doing a really difficult time trial for over a hour, and now you’ve gotten to a point that you’ve got the entire course memorized. You turn the corner and you see the goal line with a few seconds to spare. You give it all you got, you cross the line and… you finish a tenth of a second over the required time.<br><br>With the 2 given examples above, all you could do at those points is stare at the screen mouth open, flabbergasted, and the only words that come out of your mouth as you rage in frustration are “REALLY GAME!?!? REALLY!?!?” These 5 games were chosen by me because they have given so many “REALLY GAME!?!?” moments, and I sincerely hope that they give you some of those moments too. :devil:",
     games: [{
         game: "Catherine",
         imag: "http://www.ps3trophies.org/images/trophies/380/ico.png"
     },{
-        game: "DuckTales Remastered",
+        game: "DuckTales: Remastered",
         imag: "http://www.ps3trophies.org/images/trophies/1986/ico.png"
     },{
         game: "Killzone: Mercenary",
@@ -1450,7 +1450,7 @@ var lists = [{
         game: "Rocksmith 2014",
         imag: "http://www.ps3trophies.org/images/trophies/2099/ico.png"
     },{
-        game: "Soul Calibur V",
+        game: "SoulCalibur V",
         imag: "http://www.ps3trophies.org/images/trophies/1016/ico.png"
     }]
 },{
@@ -1461,7 +1461,7 @@ var lists = [{
         game: "Gravity Rush",
         imag: "https://www.playstationtrophies.org/images/trophies/1392/ico.png"
     },{
-        game: "Guacamelee Super Turbo Championship Edition",
+        game: "Guacamelee!",
         imag: "https://i.imgur.com/vCywWkn.png"
     },{
         game: "Marvel's Guardians of the Galaxy: The Telltale Series",
@@ -1550,7 +1550,7 @@ var lists = [{
         game: "Rocket League",
         imag: "http://www.ps3trophies.org/images/trophies/3583/ico.png"
     },{
-        game: "Tales From the Borderlands",
+        game: "Tales from the Borderlands",
         imag: "http://www.ps3trophies.org/images/trophies/3247/ico.png"
     }]
 },{
@@ -1584,7 +1584,7 @@ var lists = [{
         game: "Mini Ninjas",
         imag: "https://i.imgur.com/LibC7IV.png"
     },{
-        game: "The Amazing Spider-Man (PS3)",
+        game: "The Amazing Spider-man",
         imag: "https://www.playstationtrophies.org/images/trophies/1222/ico.png"
     },{
         game: "The Saboteur",
@@ -1607,7 +1607,7 @@ var lists = [{
         game: "Peggle 2",
         imag: "https://www.playstationtrophies.org/images/trophies/3034/ico.png"
     },{
-        game: "Persona 4: Dancing All Night",
+        game: "Persona 4 Dancing All Night",
         imag: "https://www.playstationtrophies.org/images/trophies/7964/ico.png"
     },{
         game: "Spyro the Dragon",
@@ -1630,7 +1630,7 @@ var lists = [{
         game: "Rayman Origins",
         imag: "http://www.ps3trophies.org/images/trophies/651/ico.png"
     },{
-        game: "Velocity 2X",
+        game: "Velocity 2x",
         imag: "https://www.playstationtrophies.org/images/trophies/2535/ico.png"
     }]
 },{
@@ -1638,7 +1638,7 @@ var lists = [{
     award: sub_icon,
     blurb: "Will you be able to sneak in to my club? ... !",
     games: [{
-        game: "Deus Ex: Human Revolution - Director's Cut",
+        game: "Deus Ex: Human Revolution",
         imag: "http://www.ps3trophies.org/images/trophies/2341/ico.png"
     },{
         game: "Dishonored",
@@ -1684,7 +1684,7 @@ var lists = [{
         game: "Call of Duty: Black Ops",
         imag: "http://www.ps3trophies.org/images/trophies/344/ico.png"
     },{
-        game: "Call of Duty: Classic",
+        game: "Call of Duty Classic",
         imag: "https://www.playstationtrophies.org/images/trophies/277/ico.png"
     },{
         game: "Call of Duty: Ghosts",
@@ -1718,10 +1718,10 @@ var lists = [{
         game: "BioShock",
         imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/3FE4DC7CCA33D213D17E378E482271FC7A94EEF0.PNG"
     },{
-        game: "Deus Ex: Human Revolution - Director's Cut",
+        game: "Deus Ex: Human Revolution",
         imag: "http://www.ps3trophies.org/images/trophies/2341/ico.png"
     },{
-        game: "Resident Evil 4 HD",
+        game: "Resident Evil 4",
         imag: "http://www.ps3trophies.org/images/trophies/965/ico.png"
     },{
         game: "Uncharted: Drake's Fortune",
@@ -1827,7 +1827,7 @@ var lists = [{
         game: "Thumper",
         imag: "https://www.playstationtrophies.org/images/trophies/3698/ico.png"
     },{
-        game: "Ratchet & Clank",
+        game: "Ratchet & Clank (2016)",
         imag: "https://www.playstationtrophies.org/images/trophies/2842/ico.png"
     }]
 },{
@@ -1838,16 +1838,16 @@ var lists = [{
         game: "Ratchet & Clank: A Crack in Time",
         imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00941_00_30B6448446D5CA495F412655813F5EF4A342448A/DEE9F8BB5D3031BCC1EA0BA17D6A7E26DF96BF26.PNG"
     },{
-        game: "Ratchet & Clank HD",
+        game: "Ratchet & Clank",
         imag: "http://www.ps3trophies.org/images/trophies/1436/ico.png"
     },{
-        game: "Ratchet & Clank: Going Commando HD",
+        game: "Ratchet & Clank 2: Going Commando",
         imag: "http://www.ps3trophies.org/images/trophies/1454/ico.png"
     },{
-        game: "Ratchet & Clank: Up Your Arsenal HD",
+        game: "Ratchet & Clank 3: Up Your Arsenal",
         imag: "http://www.ps3trophies.org/images/trophies/1455/ico.png"
     },{
-        game: "Ratchet: Deadlocked HD",
+        game: "Ratchet Deadlocked HD",
         imag: "http://www.ps3trophies.org/images/trophies/1705/ico.png"
     }]
 },{
@@ -1884,7 +1884,7 @@ var lists = [{
         game: "Final Fantasy VII",
         imag: "https://www.playstationtrophies.org/images/trophies/3285/ico.png"
     },{
-        game: "Grand Theft Auto III",
+        game: "Grand Theft Auto 3",
         imag: "https://www.playstationtrophies.org/images/trophies/4198/ico.png"
     },{
         game: "Undertale",
@@ -1932,7 +1932,7 @@ var lists = [{
     award: motm_icon,
     blurb: "Anyone who knows me would know that I have a love for all things Japan. These 5 games represent some of my favourite Japanese franchises.",
     games: [{
-        game: "Atelier Escha and Logy: The Alchemists of Dusk Sky",
+        game: "Atelier Escha & Logy: Alchemists of the Dusk Sky",
         imag: "https://www.playstationtrophies.org/images/trophies/2147/ico.png"
     },{
         game: "BlazBlue: Chrono Phantasma",
@@ -1944,7 +1944,7 @@ var lists = [{
         game: "Tales of Xillia",
         imag: "http://www.ps3trophies.org/images/trophies/852/ico.png"
     },{
-        game: "Ys: Foliage Ocean in Celceta/Ys: Memories of Celceta",
+        game: "Ys: Memories of Celceta",
         imag: "https://www.playstationtrophies.org/images/trophies/2412/ico.png"
     }]
 },{
@@ -1992,7 +1992,7 @@ var lists = [{
     award: motm_icon,
     blurb: "Do you like long and/or difficult grinds where the only payoff is a digital checkmark to validate your bragging rights? Well, you're in luck!. Unlike what the totally-non-sarcastic title suggests, this club is not for the faint of heart. So stock up on energy drinks and stress balls and join me on a journey of frustration, wonder (accompanied by the phrase 'Oh god... why?!') and ultimately pure ecstasy.",
     games: [{
-        game: "Mirror’s Edge",
+        game: "Mirror's Edge",
         imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00499_00_9F108AAA00E92367AD4945465CF066A8E39CFC5E/6059C099B263FDED8315936BC0F583643BEAEA1D.PNG"
     },{
         game: "Mortal Kombat",
@@ -2032,7 +2032,7 @@ var lists = [{
     award:  motm_icon,
     blurb: "Some foul beings need their arses handed to them on a plate. These games are no exception.",
     games: [{
-        game: "Assassin's Creed: Brotherhood",
+        game: "Assassin's Creed Brotherhood",
         imag: "http://www.ps3trophies.org/images/trophies/362/ico.png"
     },{
         game: "Call of Duty: Black Ops",
@@ -2061,7 +2061,7 @@ var lists = [{
         game: "Gravity Rush",
         imag: "https://www.playstationtrophies.org/images/trophies/3941/ico.png"
     },{
-        game: "inFamous: Second Son",
+        game: "inFAMOUS Second Son",
         imag: "https://www.playstationtrophies.org/images/trophies/1936/ico.png"
     },{
         game: "Naruto Shippuden: Ultimate Ninja Storm 4",
@@ -2075,10 +2075,10 @@ var lists = [{
         game: "Borderlands 2",
         imag: "https://www.playstationtrophies.org/images/trophies/3497/ico.png"
     },{
-        game: "Diablo III:Reaper of Souls",
+        game: "Diablo III: Reaper of Souls",
         imag: "https://www.playstationtrophies.org/images/trophies/2985/ico.png"
     },{
-        game: "Lego Marvel Avengers",
+        game: "LEGO Marvel's Avengers",
         imag: "https://www.playstationtrophies.org/images/trophies/3378/ico.png"
     },{
         game: "Mafia III",
@@ -2118,7 +2118,7 @@ var lists = [{
         game: "Need for Speed: Most Wanted",
         imag: "https://www.playstationtrophies.org/images/trophies/1579/ico.png"
     },{
-        game: "The Elder Scrolls V: Skyrim",
+        game: "Skyrim",
         imag: "https://www.playstationtrophies.org/images/trophies/826/ico.png"
     },{
         game: "The Witcher 3: Wild Hunt",
@@ -2129,7 +2129,7 @@ var lists = [{
     award: motm_icon,
     blurb: "These are some of my favourite RPGs to land on PlayStation consoles. These are the reasons why I chose each game:<br><br>Akiba's Trip 2 - As a huge anime and JRPG fan, this game was a must-play for me. The references to several anime series and JRPGs, the typical heroine capture routes, and exploring around Akihabara were all fun aspects to this game.<br><br>Bloodborne - The gameplay, soundtrack, level and boss designs, and atmosphere were all phenomenal in this game. It was the first RPG on PS4 I played that I could sink countless hours into. Obtaining the in this game was a big gaming accomplishment for me as well.<br><br>Dragon's Dogma - Everything about this game was done so well and really pushed the PS3's hardware limits. The massive world to explore, graphics, enemy designs, soundtrack, and gameplay were all fantastic. This is one of my most played games on PS3.<br><br>Final Fantasy XIII - I'm a huge Final Fantasy fan, and this was the first Final Fantasy game to get trophies. Getting the was time-consuming yet satisfying, but I enjoyed every second of it, even the grinds.<br><br>Ni ni Kuni: Wrath of the White Witch - This is my favourite game on PS3, and one of my favourite RPGs of all time. Studio Ghibli, one of the greatest animation studios of all time, took part in developing this game. I'm a huge fan of Studio Ghibli and their movies, and I loved the references in this game to some of those movies. This is a perfect game, and deserves no less than a 10/10.",
     games: [{
-        game: "AKIBA'S TRIP: Undead ＆ Undressed",
+        game: "AKIBA'S TRIP: Undead & Undressed",
         imag: "https://www.playstationtrophies.org/images/trophies/2956/ico.png"
     },{
         game: "Bloodborne",
@@ -2141,7 +2141,7 @@ var lists = [{
         game: "Final Fantasy XIII",
         imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00774_00_CDCA3041C79D46EAA32C271071536AC6F45AE379/D2E61445F80BEAF5F84A17040A0BF701AE47142F.PNG"
     },{
-        game: "Ni No Kuni: Wrath of the White Witch",
+        game: "Ni no Kuni: Wrath of the White Witch",
         imag: "http://www.ps3trophies.org/images/trophies/1399/ico.png"
     }]
 },{
@@ -2155,7 +2155,7 @@ var lists = [{
         game: "Final Fantasy X HD",
         imag: "https://www.playstationtrophies.org/images/trophies/1184/ico.png"
     },{
-        game: "Horizon: Zero Dawn",
+        game: "Horizon Zero Dawn",
         imag: "https://www.playstationtrophies.org/images/trophies/3726/ico.png"
     },{
         game: "Mass Effect 2",
@@ -2178,7 +2178,7 @@ var lists = [{
         game: "Dark Souls",
         imag: "http://www.ps3trophies.org/images/trophies/755/ico.png"
     },{
-        game: "Dark Souls II: Scholar of the First Sin",
+        game: "Dark Souls II",
         imag: "https://www.playstationtrophies.org/images/trophies/3232/ico.png"
     },{
         game: "Soul Calibur II HD Online",
@@ -2198,7 +2198,7 @@ var lists = [{
         game: "Far Cry 4",
         imag: "https://www.playstationtrophies.org/images/trophies/2778/ico.png"
     },{
-        game: "Middle Earth: Shadow of Mordor",
+        game: "Middle-Earth: Shadow of Mordor",
         imag: "https://www.playstationtrophies.org/images/trophies/2378/ico.png"
     },{
         game: "Uncharted 4: A Thief's End",
@@ -2249,7 +2249,7 @@ var lists = [{
     award: sub_icon,
     blurb: "If you know me, you know what's up :francis:",
     games: [{
-        game: "inFamous",
+        game: "inFAMOUS",
         imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/8546620AAAE8EA9097ED90B9EE8DD37AC34C9226.PNG"
     },{
         game: "Duke Nukem Forever",
@@ -2289,7 +2289,7 @@ var lists = [{
         game: "Prince of Persia",
         imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00374_00_BB371659E1A688CD192DA1D073081EDDF8610B67/2690089C7661EDD0CF6E52D2FF3BEB34AB182DAE.PNG"
     },{
-        game: "Saw II: Flesh and Blood",
+        game: "Saw II: Flesh & Blood",
         imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_100FA709AA924CC2E9FEA695E997EA0FF03EA993/A06786C6D1F38BC5D5E474A2F7B7EE0A5DA3C400.PNG"
     },{
         game: "Skydive: Proximity Flight",
@@ -2302,11 +2302,11 @@ var lists = [{
         imag: "http://www.ps3trophies.org/images/trophies/373/ico.png"
     }]
 },{
-    listName: "smartbomb’s Box of Assorted Creams MotM Club",
+    listName: "smartbomb's Box of Assorted Creams MotM Club",
     award: motm_icon,
     blurb: "Old and New, bit of everything. Get amongst it.",
     games: [{
-        game: "DriveClub",
+        game: "Driveclub",
         imag: "https://www.playstationtrophies.org/images/trophies/1933/ico.png"
     },{
         game: "Final Fantasy VII",
@@ -2335,7 +2335,7 @@ var lists = [{
         game: "Killzone: Mercenary",
         imag: "http://www.ps3trophies.org/images/trophies/1675/ico.png"
     },{
-        game: "Persona 4: Golden",
+        game: "Persona 4 Golden",
         imag: "http://www.ps3trophies.org/images/trophies/1790/ico.png"
     },{
         game: "Uncharted: Golden Abyss",
@@ -2372,7 +2372,7 @@ var lists = [{
         game: "Naruto Shippuden: Ultimate Ninja Storm Revolution",
         imag: "https://www.playstationtrophies.org/images/trophies/2429/ico.png"
     },{
-        game: "The Amazing Spider-Man 2",
+        game: "The Amazing Spider-man 2",
         imag: "https://www.playstationtrophies.org/images/trophies/2331/ico.png"
     },{
         game: "The Walking Dead",
@@ -2392,7 +2392,7 @@ var lists = [{
         game: "Dante's Inferno",
         imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00745_00_BEE557B38BD582B9C89CEDF4DEED0F9C0891B1C9/F50955A4BFD7D1E4FB97ED1DF76D89596B128774.PNG"
     },{
-        game: "Guacamelee! Super Turbo Championship Edition",
+        game: "Guacamelee!",
         imag: "https://www.playstationtrophies.org/images/trophies/2475/ico.png"
     },{
         game: "Murdered: Soul Suspect",
@@ -2406,10 +2406,10 @@ var lists = [{
     award: sub_icon,
     blurb: "I am a big fan of third person, open world games, and thoroughly enjoyed these 4 titles. Rise of the Tomb Raider is still my favourite PS4 game to date, and I wanted a club full of similar style games, as I this will make it more appealing to others :)",
     games: [{
-        game: "Assassin's Creed IV: Black Flag",
+        game: "Assassin's Creed IV Black Flag",
         imag: "https://www.playstationtrophies.org/images/trophies/1949/ico.png"
     },{
-        game: "inFamous: Second Son",
+        game: "inFAMOUS Second Son",
         imag: "https://www.playstationtrophies.org/images/trophies/1936/ico.png"
     },{
         game: "Rise of the Tomb Raider",
@@ -2443,16 +2443,16 @@ var lists = [{
     award: sub_icon,
     blurb: "For the Metal Gear Solid fans or those willing to take on a mech with a tranquilizer gun ;)",
     games: [{
-        game: "Metal Gear Solid 2: Sons of Liberty",
+        game: "Metal Gear Solid 2",
         imag: "https://i.imgur.com/fUi1LOo.png"
     },{
-        game: "Metal Gear Solid 3: Snake Eater",
+        game: "Metal Gear Solid 3",
         imag: "https://i.imgur.com/2J63xMo.png"
     },{
         game: "Metal Gear Solid: Peace Walker",
         imag: "https://i.imgur.com/8o6Dkqa.png"
     },{
-        game: "Metal Gear Solid 4: Guns of the Patriots",
+        game: "Metal Gear Solid 4",
         imag: "https://i.imgur.com/zkSmCD1.png"
     },{
         game: "Metal Gear Solid V: The Phantom Pain",
@@ -2492,10 +2492,10 @@ var lists = [{
         game: "Diablo III: Reaper of Souls",
         imag: "https://www.playstationtrophies.org/images/trophies/2253/ico.png"
     },{
-        game: "Dragon Quest Heroes: The World Tree’s Woe and the Blight Below",
+        game: "Dragon Quest Heroes",
         imag: "https://i.imgur.com/M6MpbbD.png"
     },{
-        game: "Ni No Kuni: Wrath of the White Witch",
+        game: "Ni no Kuni: Wrath of the White Witch",
         imag: "https://www.playstationtrophies.org/images/trophies/1399/ico.png"
     }]
 },{
@@ -2526,16 +2526,16 @@ var lists = [{
         game: "Batman: Arkham Asylum",
         imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00626_00_57713126980460157C2B6DA2A2F26A1298627ED7/00A596954EF9DF4064B92426EF0C421D96318AC6.PNG"
     },{
-        game: "Dead Nation ",
+        game: "Dead Nation",
         imag: "http://www.ps3trophies.org/images/trophies/592/ico.png"
     },{
-        game: "Infamous Second Son",
+        game: "inFAMOUS Second Son",
         imag: "https://www.playstationtrophies.org/images/trophies/1936/ico.png"
     },{
         game: "Mafia II",
         imag: "https://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_0026A32165F3BA5E9412EDD7E5A77A861745FF8415/A3DCBFC88E4A1BE7BEEE46B64866216058554604.PNG "
     },{
-        game: "Ratchet and Clank (PS4)",
+        game: "Ratchet & Clank (2016)",
         imag: "http://www.ps3trophies.org/images/trophies/2842/ico.png"
     }]
 },{
@@ -2549,7 +2549,7 @@ var lists = [{
         game: "Fallout 3",
         imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00603_00_C4AAF6F4123590144A821E8716824763F49B9180/DD56A4BEE5C0BAEC1E016AFA9B75962B959CC8CA.PNG"
     },{
-        game: "inFamous",
+        game: "inFAMOUS",
         imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/8546620AAAE8EA9097ED90B9EE8DD37AC34C9226.PNG"
     },{
         game: "South Park: The Stick of Truth",
@@ -2589,7 +2589,7 @@ var lists = [{
         game: "Dariusburst Chronicle Saviours",
         imag: "https://i.psnprofiles.com/games/28a448/Lc23ff2.png"
     },{
-        game: "Persona 4: Arena",
+        game: "Persona 4 Arena",
         imag: "https://i.psnprofiles.com/games/66fe0a/L57109a.png"
     },{
         game: "Super Meat Boy",
@@ -2603,7 +2603,7 @@ var lists = [{
     award: sub_icon,
     blurb: "5 games that I love, which have great stories and great gameplay, so you get the best of both worlds. Relatively easy plat's too. Enjoy!",
     games: [{
-        game: "Assassin's Creed IV: Black Flag",
+        game: "Assassin's Creed IV Black Flag",
         imag: "https://www.playstationtrophies.org/images/trophies/1949/ico.png"
     },{
         game: "Far Cry 3",
@@ -2640,10 +2640,10 @@ var lists = [{
     award: motm_icon,
     blurb: "A wide variety of Vita games that show and support the PS Vita, prescribed by your trophy hunting doctor",
     games: [{
-        game: "Assassin's Creed III: Liberation",
+        game: "Assassin's Creed III Liberation",
         imag: "http://www.ps3trophies.org/images/trophies/1155/ico.png"
     },{
-        game: "Odin Sphere: Leifthrasir",
+        game: "Odin Sphere Leifthrasir",
         imag: "https://www.playstationtrophies.org/images/trophies/4301/ico.png"
     },{
         game: "Severed",
@@ -2672,7 +2672,7 @@ var lists = [{
         game: "Oddworld: Abe's Oddysee - New 'n' Tasty",
         imag: "http://www.playstationtrophies.org/images/trophies/902/ico.png"
     },{
-        game: "The Elder Scrolls V: Skyrim",
+        game: "Skyrim",
         imag: "http://www.ps3trophies.org/images/trophies/826/ico.png"
     }]
 },{
@@ -2743,7 +2743,7 @@ var lists = [{
         game: "Captain America: Super Soldier",
         imag: "http://www.ps3trophies.org/images/trophies/769/ico.png"
     },{
-        game: "LEGO Marvel Super Heroes: Universe in Peril",
+        game: "LEGO Marvel Super Heroes",
         imag: "http://www.ps3trophies.org/images/trophies/2241/ico.png"
     },{
         game: "Marvel Super Hero Squad: The Infinity Gauntlet",
@@ -2752,7 +2752,7 @@ var lists = [{
         game: "Spider-Man: Edge of Time",
         imag: "http://www.ps3trophies.org/images/trophies/978/ico.png"
     },{
-        game: "X-Men Destiny",
+        game: "X-Men: Destiny",
         imag: "http://www.ps3trophies.org/images/trophies/770/ico.png"
     }]
 },{
@@ -2763,7 +2763,7 @@ var lists = [{
         game: "Dragon Age: Inquisition",
         imag: "https://www.playstationtrophies.org/images/trophies/2254/ico.png"
     },{
-        game: "inFAMOUS: Second Son",
+        game: "inFAMOUS Second Son",
         imag: "https://www.playstationtrophies.org/images/trophies/1936/ico.png"
     },{
         game: "The Wolf Among Us",
@@ -2780,13 +2780,13 @@ var lists = [{
     award: sub_icon,
     blurb: "Just a collection of five of my favourite recent games on PS4. Hope you enjoy playing these as much as I have.",
     games: [{
-        game: "Assassins Creed Origins",
+        game: "Assassin's Creed Origins",
         imag: "https://www.playstationtrophies.org/images/trophies/5865/ico.png"
     },{
         game: "Deus Ex: Mankind Divided",
         imag: "https://www.playstationtrophies.org/images/trophies/2308/ico.png"
     },{
-        game: "DOOM (2016)",
+        game: "DOOM",
         imag: "https://www.playstationtrophies.org/images/trophies/1237/ico.png"
     },{
         game: "Mass Effect: Andromeda",
@@ -2809,7 +2809,7 @@ var lists = [{
         game: "Fallout: New Vegas",
         imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/05A0DA7C339EB16742B63AC4DED4ECE6EDF06B34.PNG"
     },{
-        game: "Guacamelee! Super Turbo Championship Edition",
+        game: "Guacamelee!",
         imag: "http://www.playstationtrophies.org/images/trophies/2475/ico.png"
     },{
         game: "Metro 2033 Redux",
@@ -2836,7 +2836,7 @@ var lists = [{
         imag: "http://www.playstationtrophies.org/images/trophies/2778/ico.png"
     }]
 },{
-    listName: "twyz’s RPG’s R Us Subscriber Club",
+    listName: "twyz's RPG's R Us Subscriber Club",
     award: sub_icon,
     blurb: "RPGs come in many shapes and sizes. These five games all have RPG elements, but are very different from one another.",
     games: [{
@@ -2852,7 +2852,7 @@ var lists = [{
         game: "South Park: The Stick of Truth",
         imag: "http://www.playstationtrophies.org/images/trophies/1314/ico.png"
     },{
-        game: "The Elder Scrolls V: Skyrim",
+        game: "Skyrim",
         imag: "http://www.ps3trophies.org/images/trophies/826/ico.png"
     }]
 },{
@@ -2920,7 +2920,7 @@ var lists = [{
         game: "Horizon Zero Dawn",
         imag: "https://www.playstationtrophies.org/images/trophies/3726/ico.png"
     },{
-        game: "The Elder Scrolls V: Skyrim",
+        game: "Skyrim",
         imag: "https://www.playstationtrophies.org/images/trophies/4700/ico.png"
     },{
         game: "Uncharted: The Lost Legacy",
@@ -3017,7 +3017,7 @@ var lists = [{
         game: "Hyperdimension Neptunia U: Action Unleashed",
         imag: "https://www.playstationtrophies.org/images/trophies/3642/ico.png"
     },{
-        game: "Senran Kagura: Bon Appetit",
+        game: "Senran Kagura Bon Appetit!",
         imag: "http://www.playstationtrophies.org/images/trophies/2624/ico.png"
     },{
         game: "Senran Kagura: Estival Versus",
@@ -3087,7 +3087,7 @@ var lists = [{
         imag: "http://trophy01.np.community.playstation.net/trophy/np/NPWR01304_00_9D7BFB8BB629F50ECFD2FD0D52A246272CFA192B/79C509EA17985C30E913D5F44DAE7B8C94C5F506.PNG"
     }]
 },{
-    listName: "Xx_DarthFreak_xX’s Call of Destiny Club",
+    listName: "Xx_DarthFreak_xX's Call of Destiny Club",
     award: sub_icon,
     blurb: "I chose these games because These two series are my favorite to play.",
     games: [{
@@ -3114,7 +3114,7 @@ var lists = [{
         game: "Hotline Miami",
         imag: "http://www.ps3trophies.org/images/trophies/1923/ico.png"
     },{
-        game: "OlliOlli 2: Welcome to Olliwood",
+        game: "OlliOlli2: Welcome to Olliwood",
         imag: "http://www.playstationtrophies.org/images/trophies/3398/ico.png"
     },{
         game: "Ultratron",
