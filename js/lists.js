@@ -1223,7 +1223,7 @@ var lists = [{
         imag: "https://www.playstationtrophies.org/images/trophies/2778/ico.png"
     }]
 },{
-    listName: " KB's Fab 5 Subscriber Club",
+    listName: "KB's Fab 5 Subscriber Club",
     award: sub_icon,
     blurb: "Some of my favorite games on PS3. Hope you enjoy them as much as I did.",
     games: [{
@@ -1414,7 +1414,7 @@ var lists = [{
         imag: "https://www.playstationtrophies.org/images/trophies/2743/ico.png"
     }]
 },{
-    listName: " MegaHentai's Secure in the Size of My Manhood Subscriber Club",
+    listName: "MegaHentai's Secure in the Size of My Manhood Subscriber Club",
     award: sub_icon,
     blurb: "Awright, boys -- ateeeeeeen-HUT! I am Gunnery Sergeant Hentai, your senior drill instructor, and today we will be talking about manliness! I have been given the thankless task of turning you pubeless wonders into real men, and I will be doing it through the only language you mewling infants speak: video games. Drop your c--ks and grab your Dualshocks, because you are about to join MegaHentai's 'Secure in the Size of My Manhood' Club.<br><br><strong>Game #1: Hello Kitty to Issho: Block Crash V</strong><br><br>Making a Hello Kitty game? That's girl stuff. Making a Hello Kitty brick breaker game where Hello Kitty isn't even in it? That takes balls. And once you grab the multiball bonus, 'balls' is exactly what you will have.<br><br><strong>Game #2: Germany's Next Top Model 2011</strong><br><br>You think you know war? You don't know s--t, son! You don't know what war is until you're surrounded by enemies on all sides, all your allies have turned against you, you're down to your last handful of ammunition, and you're keenly aware that a single mistake will send your entire mission crashing down in flames. And that's just the makeup table -- wait'll you hit the god damn catwalk<br><br><strong>Game #3: Get Fit With Mel B</strong><br><br>You might be able to run marathons with 40 pounds of gear strapped to your back. You might be able to do more pushups than a sultan on spanish fly servicing his harem. You might be able to climb mountains high enough that you can peep on God in the shower. But until you can do five flawless cha-chas in a row, don't you dare pretend you're in shape!<br><br><strong>Game #4: Forest Legends: The Call of Love</strong><br><br>Make no mistake, punk: a Marine never leaves a man behind. Even if it means finding a net to catch a butterfly to make it pollinate a flower to make a healing potion to summon a ghost to get a coat of arms to open a door to...<br><br><strong>Game #5: Gakuen Heaven: Boys Love Scramble!</strong><br><br>Talk about studs! These guys are so much about the manhood, they don't even want girls around when they're getting laid. Remember, you are what you eat -- and that means these boys ain't no pussies.<br><br>So there you have it: five games that will put hair on your chest, give you a voice like Barry White, and give you a package worth signing for. Get to it, boys. Diiiiiiis-MISSED!",
     games: [{
@@ -1590,7 +1590,7 @@ var lists = [{
         game: "The Saboteur",
         imag: "https://i.imgur.com/A9OUAPQ.png"
     },{
-        game: "The Saboteur",
+        game: "The Sims 3",
         imag: "https://i.imgur.com/s82xuze.png"
     }]
 },{
