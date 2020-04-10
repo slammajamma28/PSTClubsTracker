@@ -1046,6 +1046,26 @@ var lists = [{
         imag: "https://www.playstationtrophies.org/images/trophies/1904/ico.png"
     }]
 },{
+    listName: "ixii's 5-Years-Overdue Club",
+    award: sub_icon,
+    blurb: "I've had this list for the most part ready to go for 5 years, back when I initially subbed. Oops?",
+    games: [{
+        game: "Destiny 2",
+        imag: "https://www.playstationtrophies.org/images/trophies/5681/ico.png"
+    },{
+        game: "DmC: Devil May Cry",
+        imag: "https://www.playstationtrophies.org/images/trophies/3309/ico.png"
+    },{
+        game: "Dragon Age: Inquisition",
+        imag: "https://www.playstationtrophies.org/images/trophies/2254/ico.png"
+    },{
+        game: "Final Fantasy Type-0",
+        imag: "https://www.playstationtrophies.org/images/trophies/2846/ico.png"
+    },{
+        game: "Tomb Raider",
+        imag: "https://www.playstationtrophies.org/images/trophies/2439/ico.png"
+    }]
+},{
     listName: "IonStorm's Pentagonal Quintuplet Subscriber Club",
     award: sub_icon,
     blurb: "Yeah, I enjoyed these games. Tomb Raider is called Tomb Raider: Definitive Edition on the PS4.",
