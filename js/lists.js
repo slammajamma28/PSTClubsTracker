@@ -1771,6 +1771,26 @@ var lists = [{
         imag: "http://www.ps3trophies.org/images/trophies/601/ico.png"
     }]
 },{
+    listName: "Olsen's Shooting Stars",
+    award: sub_icon,
+    blurb: "",
+    games: [{
+        game: "Destiny",
+        imag: "https://www.playstationtrophies.org/images/trophies/1542/ico.png"
+    },{
+        game: "Destiny 2",
+        imag: "https://www.playstationtrophies.org/images/trophies/5681/ico.png"
+    },{
+        game: "Mass Effect: Andromeda",
+        imag: "https://www.playstationtrophies.org/images/trophies/2373/ico.png"
+    },{
+        game: "Prey",
+        imag: "https://www.playstationtrophies.org/images/trophies/4699/ico.png"
+    },{
+        game: "SOMA",
+        imag: "https://www.playstationtrophies.org/images/trophies/2325/ico.png"
+    }]
+},{
     listName: "pennysticks MotM Club That You Must Complete",
     award: motm_icon,
     blurb: "Four beautiful games (and Goat Simulator) have been assembled here because they all have one thing in common - each has a final hurtle to overcome to obtain the platinum or 100%. Alien: Isolation, a well-executed hommage to Ridley Scott's films, tasks you with getting through the entire nerve-racking, weaponless experience without dying in the trophy <strong>One Shot</strong>. Braid requires memorization and split second reflexes for its Full Speed Run trophy. Goat Simulator is 98% easy, silly, glitchy and enjoyable fun and 2% Flappy Goat for <strong>The Flapmaster</strong> trophy. Limbo is a dark and treacherous platformer that must be finished with 5 or less deaths with the <strong>No Point in Dying</strong> trophy. The Witness is a lush, colorful puzzler that requires you to run a gauntlet of puzzles while listening to Grieg's 'Anitra's Dance' and 'In the Hall of the Mountain King' for the <strong>Challenge</strong> trophy. Each game is worth playing regardless, but overcoming these trophies make the road to completion for these games that much more rewarding.",
