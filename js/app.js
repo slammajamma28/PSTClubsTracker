@@ -400,22 +400,58 @@ $(document).ready(function () {
                 "<input type=\"checkbox\" id=\"bygame-checkbox-own-"+ i + "\" class=\"bygame-check-game\" data-game-name=\"g-" + currentGame + "\" " + gameOWN + "/>" +
                 "<label for=\"bygame-checkbox-own-"+ i + "\" class=\"label-game\">&#10004;</label>" +
                 "</div>" +
-                "</div>" + 
-                "</div>" + 
-                "");
-        }
-
-        // Fill out header
-        $("#list-header")
-            .html("" +
-                "<div class=\"content\">" +
-                "<h2 id=\"list_name\">"+ selectedList.listName +"</h2>" +
-                "<img src=\""+ selectedList.award +"\" alt=\""+ selectedList.listName +" Site Award\">" +
-                "<h3><span id=\"game_count\">"+ gameCount +"</span>/<span id=\"owned_count\">"+ ownedCount +"</span>/"+ selectedList.games.length +"</h3>" +
+                "</div>" +
+                "" +
+                "<div class=\"row game-list-lists\">" +
+                "<div class=\"col-sm-12\">" +
+                "</div>" +
+                "</div>" +
                 "</div>" +
                 "");
+
+        }
+            
+        // Iterate over games and add the lists they show up in
+        for(var a = 0; a < lists.length; a++){
+            for(var b = 0; b < lists[a].games.length; b++){
+                var gameName = lists[a].games[b].game,
+                    listName = lists[a].listName;
+
+                if($.inArray(gameName, gamesList) >= 0){
+                    var gameID = $.inArray(gameName, gamesList);
+
+                    $("#game-list-" + gameID).find(".game-list-lists .col-sm-12").append("" +
+                    "<div class=\"row game-list-lists\">" +
+                    "<div class=\"col-xs-12 all-games-game\">" +
+                    // "<input type=\"checkbox\" id=\"bygame-checkbox-trophy-"+ a +"-" + b + "\" class=\"bygame-check-trophy game\" data-trophy-name=\"t-" + trophyName + "\" "+ trophyGOT +"/>" +
+                    "<h4 class=\"dark-mode game-list-list-name "+ listName.replace(/[^a-z0-9\s]/gi, '').replace(/[_\s]/g, '-').toLocaleLowerCase() +"\">" + listName + "</h4>" +
+                    "</div>" +
+                    "</div>" +
+                    "");
+                    // $("." + listName.replace(/[^a-z0-9\s]/gi, '').replace(/[_\s]/g, '-').toLocaleLowerCase()).parent().find(".listsList").append("<p><em>"+ listName +"</em></p>");
+                }
+
+                // // Remove duplicate instances of a trophy per game
+                // $("." + gameName.replace(/[^a-z0-9\s]/gi, '').replace(/[_\s]/g, '-').toLocaleLowerCase() + ":not(:first)").parent().remove();
+            }
+        }
+
+        // // Fill out header
+        // $("#list-header")
+        //     .html("" +
+        //         "<div class=\"content\">" +
+        //         "<h2 id=\"list_name\">"+ selectedList.listName +"</h2>" +
+        //         "<img src=\""+ selectedList.award +"\" alt=\""+ selectedList.listName +" Site Award\">" +
+        //         "<h3><span id=\"game_count\">"+ gameCount +"</span>/<span id=\"owned_count\">"+ ownedCount +"</span>/"+ selectedList.games.length +"</h3>" +
+        //         "</div>" +
+        //         "");
             //.attr("style","background: url('img/headerbg.png') repeat, url('"+ selectedList.banner +"') no-repeat; background-size: auto, cover;");
 
+    });
+
+    // Click game on all games list, show trophies
+    $("#game-list").on("click", ".all-games>.row:first-of-type", function(e){
+        $(this).parent().find(".game-list-lists").slideToggle(200).parent().toggleClass("active");
     });
 
     $("#game-list").on("click", ".bygame-check-game", function(e){

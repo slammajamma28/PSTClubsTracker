@@ -224,7 +224,7 @@ select.form-control{
         background: $silver;
       }
 
-      .game-list-games{
+      .game-list-lists{
         display: none;
         border-top: 1px solid $silver;
         cursor: pointer;
@@ -234,6 +234,7 @@ select.form-control{
 
           h4{
             margin-left: 20px;
+            color: $white;
           }
 
           h4, input{
