@@ -366,8 +366,14 @@ $(document).ready(function () {
         toggleView();
 
         $("#list-header").hide();
-        $(".container.trophy_list.top").css("margin-top","20px");
-        $(".container.trophy_list.top").html("<div class='col-xs-12'><p>Refresh the page to go back.</p></div>");
+        $(".container.game_list.top").css("margin-top","20px");
+        // $(".container.game_list.top").html("<div class='col-xs-12'><p>Refresh the page to go back.</p>" +
+        // "<div class=\"col-sm-1 col-xs-6 text-center\"><p class=\"no-margin\"><strong>DONE</strong></p></div>" +
+        // "<div class=\"col-sm-1 col-xs-6 text-center\"><p class=\"no-margin\"><strong>OWNED</strong></p></div></div>");
+
+        $(".container.game_list.top").html("<div class='col-xs-10'><strong>Refresh the page to go back.</strong></div>" +
+        "<div class='col-xs-1 text-center'><strong>DONE</strong></div>" + 
+        "<div class='col-xs-1 text-center'><strong>OWNED</strong></div>");
 
         // Fill out trophy List
         var gameCount = 0,
@@ -435,18 +441,6 @@ $(document).ready(function () {
                 // $("." + gameName.replace(/[^a-z0-9\s]/gi, '').replace(/[_\s]/g, '-').toLocaleLowerCase() + ":not(:first)").parent().remove();
             }
         }
-
-        // // Fill out header
-        // $("#list-header")
-        //     .html("" +
-        //         "<div class=\"content\">" +
-        //         "<h2 id=\"list_name\">"+ selectedList.listName +"</h2>" +
-        //         "<img src=\""+ selectedList.award +"\" alt=\""+ selectedList.listName +" Site Award\">" +
-        //         "<h3><span id=\"game_count\">"+ gameCount +"</span>/<span id=\"owned_count\">"+ ownedCount +"</span>/"+ selectedList.games.length +"</h3>" +
-        //         "</div>" +
-        //         "");
-            //.attr("style","background: url('img/headerbg.png') repeat, url('"+ selectedList.banner +"') no-repeat; background-size: auto, cover;");
-
     });
 
     // Click game on all games list, show trophies
