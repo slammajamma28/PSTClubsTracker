@@ -471,6 +471,13 @@ $(document).ready(function () {
                 // $("." + gameName.replace(/[^a-z0-9\s]/gi, '').replace(/[_\s]/g, '-').toLocaleLowerCase() + ":not(:first)").parent().remove();
             }
         }
+
+        // Go back and add number of lists next to game name
+        var totalGameIDs = $(".game.all-games").length;
+        for (var c = 0; c < totalGameIDs; c++) {
+            var xx = $("#game-list-" + c).data("num-of-clubs");
+            $("#game-list-" + c).find("h3").append("&nbsp;&nbsp;&nbsp;[" + xx + "]");
+        }
     });
 
     // Click game on all games list, show trophies
