@@ -93,6 +93,28 @@ function sortByName(){
     $("#list-of-lists").html(sorted);
 }
 
+// Sorting By Games by number of clubs game is in
+function sortByGamesNumber() {
+    var sorted = $("#game-list .game").sort(function (a, b) {
+        var contentA = $(a).data("num-of-clubs");
+        var contentB = $(b).data("num-of-clubs");
+        return (contentA > contentB) ? -1 : (contentA < contentB) ? 1 : 0;
+    });
+
+    $("#game-list").html(sorted);
+}
+
+// Sorting By Games alphabetically
+function sortByGamesAlpha() {
+    var sorted = $("#game-list .game").sort(function (a, b) {
+        var contentA = $(a).data("game-name");
+        var contentB = $(b).data("game-name");
+        return (contentA < contentB) ? -1 : (contentA > contentB) ? 1 : 0;
+    });
+
+    $("#game-list").html(sorted);
+}
+
 // Toggle between Overview and List
 function toggleView(){
     $(".all-games").removeClass("all-games");
@@ -371,9 +393,13 @@ $(document).ready(function () {
         // "<div class=\"col-sm-1 col-xs-6 text-center\"><p class=\"no-margin\"><strong>DONE</strong></p></div>" +
         // "<div class=\"col-sm-1 col-xs-6 text-center\"><p class=\"no-margin\"><strong>OWNED</strong></p></div></div>");
 
-        $(".container.game_list.top").html("<div class='col-xs-10'><strong>Refresh the page to go back.</strong></div>" +
+        $(".container.game_list.top").html("<div class='col-xs-6'><strong>Refresh the page to go back.</strong></div>" +
+        "<div class='col-xs-2 text center'><a href=\"#\" onclick=\"sortByGamesAlpha()\">Sort Alphabetically</a></div>" +
+        "<div class='col-xs-2 text center'><a href=\"#\" onclick=\"sortByGamesNumber()\">Sort By Num of Clubs</a></div>" +
         "<div class='col-xs-1 text-center'><strong>DONE</strong></div>" + 
         "<div class='col-xs-1 text-center'><strong>OWNED</strong></div>");
+
+        //
 
         // Fill out trophy List
         var gameCount = 0,
@@ -393,7 +419,7 @@ $(document).ready(function () {
             }
 
             $("#game-list").addClass("all-games").append("" +
-                "<div id=\"game-list-"+ i +"\" class='game all-games'>" +
+                "<div id=\"game-list-"+ i +"\" class='game all-games' data-num-of-clubs=0 data-game-name=\"" + currentGame + "\">" +
                 "<div class=\"row\">" +
                 "<div class=\"col-sm-10\">" +
                 "<h3>" + currentGame + "</h3>" +
@@ -425,6 +451,10 @@ $(document).ready(function () {
 
                 if($.inArray(gameName, gamesList) >= 0){
                     var gameID = $.inArray(gameName, gamesList);
+                    
+                    // Increase data attr so we can sort on it
+                    var addOneTo = parseInt($("#game-list-" + gameID).attr('data-num-of-clubs'));
+                    $("#game-list-" + gameID).attr('data-num-of-clubs', addOneTo + 1);
 
                     $("#game-list-" + gameID).find(".game-list-lists .col-sm-12").append("" +
                     "<div class=\"row game-list-lists\">" +
